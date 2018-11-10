@@ -1,5 +1,6 @@
 <code_scheme name="mbj" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="SOFT_MARGINS" value="80" />
   <Python>
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
   </Python>
