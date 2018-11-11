@@ -1,14 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FF9800" />
+    <option name="isStyledDirectories" value="true" />
+    <option name="accentColor" value="ff9800" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="useMaterialFont2" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-5bdc62e8:166eed134be:-8000" />
