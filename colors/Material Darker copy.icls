@@ -4,7 +4,7 @@
     <property name="created">2018-11-11T22:56:09</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-11-11T23:01:54</property>
+    <property name="modified">2018-11-11T23:19:43</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -847,6 +847,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="f00b07" />
         <option name="EFFECT_COLOR" value="ff5370" />
         <option name="ERROR_STRIPE_COLOR" value="ff5370" />
         <option name="EFFECT_TYPE" value="2" />
