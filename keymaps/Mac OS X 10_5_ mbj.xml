@@ -20,4 +20,7 @@
   <action id="Tool_External Tools_Terminal">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
+  <action id="WindowMenu">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
 </keymap>
