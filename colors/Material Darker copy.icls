@@ -4,7 +4,7 @@
     <property name="created">2018-11-11T22:56:09</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-11-12T00:24:56</property>
+    <property name="modified">2018-11-12T08:09:35</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -1241,8 +1241,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="BACKGROUND" value="5f1a5e" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2789,7 +2789,6 @@
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="616161" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -3736,8 +3735,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="BACKGROUND" value="5f1a5e" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
