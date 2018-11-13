@@ -1,0 +1,10 @@
+<templateSet group="Python">
+  <template name="ä" value="[$end$]" shortcut="NONE" description="[]" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+      <option name="Python" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
