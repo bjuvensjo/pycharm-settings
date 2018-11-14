@@ -65,12 +65,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'test-all'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'test-all'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
