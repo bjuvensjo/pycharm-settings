@@ -4,7 +4,7 @@
     <property name="created">2018-11-11T22:56:09</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-11-12T18:06:52</property>
+    <property name="modified">2018-11-16T08:39:11</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c3e88d" />
+    <option name="ADDED_LINES_COLOR" value="a6cb70" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="181818" />
@@ -50,7 +50,7 @@
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
+    <option name="MODIFIED_LINES_COLOR" value="b4815a" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
