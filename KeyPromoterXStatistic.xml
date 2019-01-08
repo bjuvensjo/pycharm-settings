@@ -102,7 +102,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R' or '⌃X, ⌃X'</ShortCut>
           <Description>Run 'pytest in tests'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_create_repo'">
@@ -191,6 +191,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest in tests'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'start'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test-all'">
