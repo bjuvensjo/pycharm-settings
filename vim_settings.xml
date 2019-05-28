@@ -1,0 +1,77 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559029671523">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559029596742">
+        <mark key="'" line="13" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="10" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bG9nZ2luZy5pbmZvKGYne2R9ICVzJywgbGlzdGRpcihkKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bG9nZ2luZy5pbmZvKGYne2R9ICVzJywgbGlzdGRpcihkKSkK</text>
+      </register>
+      <register name="4" type="4">
+        <text>d = '/opt/lfinsu/csl/nas'
+
+logging.info(f'{d} %s', listdir(d))
+
+d = '/opt/lfinsu/csl/nas/e75lrl3034v'
+l</text>
+      </register>
+      <register name=":" type="4">
+        <text>help</text>
+      </register>
+      <register name="/" type="4">
+        <text>write</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>write</last-search>
+      <last-offset />
+      <last-pattern>write</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>logg</entry>
+        <entry>loggin</entry>
+        <entry>info</entry>
+        <entry>write</entry>
+      </history-search>
+      <history-cmd>
+        <entry>help</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
