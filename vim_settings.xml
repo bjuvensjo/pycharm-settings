@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559051826528">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="111" />
-        <mark key="^" line="56" column="111" />
-        <mark key="." line="56" column="111" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559077006968">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/Python Console" timestamp="1559042239931">
         <mark key="[" line="0" column="0" />
@@ -20,20 +18,23 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="45" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1559041967578">
+      <file name="/a.dummy" timestamp="1559076419558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1559039446034">
         <mark key="'" line="85" column="16" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559029596742">
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559076878098">
         <mark key="'" line="13" column="0" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559074428944">
-        <mark key="'" line="26" column="48" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559076953875">
+        <mark key="'" line="24" column="48" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
         <mark key="'" line="3" column="0" />
@@ -71,46 +72,47 @@
       <jump line="10" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
       <jump line="11" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="32" column="48" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRkICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>FORMAT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcmVxdWVzdCA9IFJlcXVlc3QodXJsLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0nR0VUJykK</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhzdHJlYW09c3Rkb3V0LCBsZXZlbD1sb2dnaW5nLklORk8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcmVxdWVzdCA9IFJlcXVlc3QodXJsLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0nR0VUJykK</text>
+        <text encoding="base64">ICAgIGRkICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rk9STUFUID0gJyUoYXNjdGltZSlzICUobWVzc2FnZSlzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgfQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IEFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSdEb3dubG9hZCBsYXRlc3Qgc25hcHNob3QgZnJvbSBOZXh1cycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgICdBdXRob3JpemF0aW9uJzogYmFzaWNfYXV0aF9oZWFkZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5hbWVkX2ZpbGUgPSBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaGVhZGVycyA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYmFzaWNfYXV0aF9oZWFkZXIgPSBmJ0Jhc2ljIHtlbmNvZGVieXRlcyhhdXRoLmVuY29kZSgpKS5kZWNvZGUoIlVURi04Iikuc3RyaXAoKX0nCg==</text>
+        <text encoding="base64">ICAgIGRkICAgICAgICAgICAgaWYgJy1jb25maWd1cmF0aW9uLScgaW4gemlwX2ZpbGU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXV0aCA9IGYne3VzZXJuYW1lfTp7cGFzc3dvcmR9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcChpbnRlcnZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpc3RkaXIoZid7b3V0cHV0X2RkZGlyfS9NRVRBLUlORicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ2V4cGVjdGVkX2NvbW1pdF9pZDogJXMsIGFjdHVhbF9jb21taXRfaWQ6ICVzJywgY29tbWl0X2lkLCBhY3R1YWxfY29tbWl0X2lkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
