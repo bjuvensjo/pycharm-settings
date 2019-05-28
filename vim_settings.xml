@@ -1,8 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559051826528">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="111" />
+        <mark key="^" line="56" column="111" />
+        <mark key="." line="56" column="111" />
+      </file>
       <file name="/Python Console" timestamp="1559042239931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,58 +66,126 @@
       <jump line="85" column="16" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" />
       <jump line="51" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
+      <jump line="21" column="43" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>f'{output_dir}/{renamed_file}')
+                rename(f'{output_dir}/{file}', f'{output_dir}/{renamed_file}')
+                logging.info('Renamed %s to %s', f'{output_dir}/{file}', f'{output_dir}/{renamed_file}')
+
+
+    # Rename env directory
+    path = f'{output_dir}/{basename(zip_file).replace(&quot;-configuration-&quot;, &quot;-&quot;)[:-4]}'
+    if exists(path):
+        rmtree(path)
+    rename(f'{output_dir}/{env}', path)
+    return path
+
+
+def main(jar_file, env, output_dir):
+    for file in glob(jar_file):
+        logging.basicConfig(level=logging.INFO)
+        path = extract_zip(file, env, output_dir)
+        logging.info(f'Extracted content of {env} from {file} to {path}')
+
+
+def parse_args(args):
+    parser = argparse.ArgumentParser(description='Extract environment configuration')
+    parser.add_argument('jar_file',help='jar file, e.g. ./ms.security.audit-configuration-1.0.0-SNAPSHOT.jar. Supports glob pattern.')
+    parser.add_argument('env', help='The env to extract, e.g. sys')
+    parser.add_argument('output_dir', help='The dir in which to extract')
+    return parser.parse_args(args)
+
+
+# if __name__ == '__main__':
+#     main(**parse_args(argv[1:]).__dict__)
+
+main('/Users/magnus/Downloads/CSL_ms.security.signing-configuration_1.0.x/ms.security.signing-configuration-1.0.0-SNAPSHOT.jar', 'dev', '/Users/magnus/slask/bar')
+#</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>argv</text>
+        <text encoding="base64">XDxtYWluXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ0Fzc2VydCBvaycpCg==</text>
+      <register name="0" type="4">
+        <text>f'{output_dir}/{renamed_file}')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>f'{output_dir}/{renamed_file}')
+                rename(f'{output_dir}/{file}', f'{output_dir}/{renamed_file}')
+                logging.info('Renamed %s to %s', f'{output_dir}/{file}', f'{output_dir}/{renamed_file}')
+
+
+    # Rename env directory
+    path = f'{output_dir}/{basename(zip_file).replace(&quot;-configuration-&quot;, &quot;-&quot;)[:-4]}'
+    if exists(path):
+        rmtree(path)
+    rename(f'{output_dir}/{env}', path)
+    return path
+
+
+def main(jar_file, env, output_dir):
+    for file in glob(jar_file):
+        logging.basicConfig(level=logging.INFO)
+        path = extract_zip(file, env, output_dir)
+        logging.info(f'Extracted content of {env} from {file} to {path}')
+
+
+def parse_args(args):
+    parser = argparse.ArgumentParser(description='Extract environment configuration')
+    parser.add_argument('jar_file',help='jar file, e.g. ./ms.security.audit-configuration-1.0.0-SNAPSHOT.jar. Supports glob pattern.')
+    parser.add_argument('env', help='The env to extract, e.g. sys')
+    parser.add_argument('output_dir', help='The dir in which to extract')
+    return parser.parse_args(args)
+
+
+# if __name__ == '__main__':
+#     main(**parse_args(argv[1:]).__dict__)
+
+main('/Users/magnus/Downloads/CSL_ms.security.signing-configuration_1.0.x/ms.security.signing-configuration-1.0.0-SNAPSHOT.jar', 'dev', '/Users/magnus/slask/bar')
+#</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbyhmJ0V4dHJhY3RlZCB7ZmlsZX0nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1wJywgJy0tcGFzc3dvcmQnLCBoZWxwPSdwYXNzd29yZCBmb3IgYmFzaWMgYXV0aCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9kaXJfZW52ID0gZid7b3V0cHV0X2Rpcn0ve2Vudn0nCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy11JywgJy0tdXNlcm5hbWUnLCBoZWxwPSd1c2VybmFtZSBmb3IgYmFzaWMgYXV0aCcpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3ZlcnNpb24nLCBoZWxwPSdNYXZlbiB2ZXJzaW9uJykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5hbWUoZid7b3V0cHV0X2Rpcn0ve2ZpbGV9JywgZid7b3V0cHV0X2Rpcl9lbnZ9L3tyZW5hbWVkX2ZpbGV9JykKICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oZidFeHRyYWN0ZWQgJXMgdG8gJXMnLCBmaWxlLCByZW5hbWVkX2ZpbGUp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2FydGlmYWN0X2lkJywgaGVscD0nTWF2ZW4gYXJ0aWZhY3QgaWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2dyb3VwX2lkJywgaGVscD0nTWF2ZW4gZ3JvdXAgaWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gZXh0cmFjdF96aXAoZmlsZSwgZW52LCBvdXRwdXRfZGlyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3JlcG8nLCBoZWxwPSdOZXh1cyByZXBvc2l0b3J5LCBlLmcuIG1hdmVuLXNuYXBzaG90cycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/debug/info/c</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>argv</last-search>
+      <last-search encoding="base64">XDxtYWluXD4=</last-search>
       <last-offset />
-      <last-pattern>argv</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -121,12 +196,14 @@
         <entry>info</entry>
         <entry>debug</entry>
         <entry>argv</entry>
+        <entry encoding="base64">XDxtYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
         <entry>s/info/debug/gc</entry>
         <entry>s/debug/info/gc</entry>
         <entry>s/debug/info/c</entry>
+        <entry>reg</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -138,6 +215,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
