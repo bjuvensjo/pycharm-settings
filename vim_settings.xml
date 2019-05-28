@@ -3,22 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559029671523">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559031979722">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559029596742">
         <mark key="'" line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="2" column="5" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="7" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="10" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
