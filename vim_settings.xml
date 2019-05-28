@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559034320719">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="/Python Console" timestamp="1559042239931">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559041927846">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="45" column="14" />
+        <mark key="^" line="46" column="4" />
+        <mark key="." line="45" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1559041967578">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1559039446034">
         <mark key="'" line="85" column="16" />
@@ -15,10 +22,23 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559029596742">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559042293978">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="50" column="20" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
+        <mark key="[" line="53" column="71" />
+        <mark key="]" line="53" column="72" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -37,58 +57,57 @@
       <jump line="24" column="8" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" />
       <jump line="85" column="16" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>argv</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIHBhcnNlX2FyZ3MoYXJncyk6CiAgICBwYXJzZXIgPSBBcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nRG93bmxvYWQgbGF0ZXN0IHNuYXBzaG90IGZyb20gTmV4dXMnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnb3V0cHV0X2RpcicsIGhlbHA9J291dHB1dCBkaXInKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnbmV4dXNfdXJsJywgaGVscD0nTmV4dXMgdXJsLCBlLmcuIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMi9yZXBvc2l0b3J5JykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3JlcG8nLCBoZWxwPSdOZXh1cyByZXBvc2l0b3J5LCBlLmcuIG1hdmVuLXNuYXBzaG90cycpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdncm91cF9pZCcsIGhlbHA9J01hdmVuIGdyb3VwIGlkJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2FydGlmYWN0X2lkJywgaGVscD0nTWF2ZW4gYXJ0aWZhY3QgaWQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgndmVyc2lvbicsIGhlbHA9J01hdmVuIHZlcnNpb24nKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLXUnLCAnLS11c2VybmFtZScsIGhlbHA9J3VzZXJuYW1lIGZvciBiYXNpYyBhdXRoJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1wJywgJy0tcGFzc3dvcmQnLCBoZWxwPSdwYXNzd29yZCBmb3IgYmFzaWMgYXV0aCcpCiAgICByZXR1cm4gcGFyc2VyLnBhcnNlX2FyZ3MoYXJncykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgIiIiCiAgICBFeGFtcGxlOgogICAgLi9kb3dubG9hZF9sYXRlc3Rfc25hcHNob3QucHkgLiBodHRwOi8vMTAuMjAxLjM2LjgxOjgwODkvcmVwb3NpdG9yeSBDU0wtbWF2ZW4yLXNuYXBzaG90cyBzZS5sZi5jc2wgbXMuc2VjdXJpdHkuc2lnbmluZyAxLjAtU05BUFNIT1QgLXUgPHVzZXJuYW1lPiAtcCA8cGFzc3dvcmQ+CiAgICAiIiIKICAgIG1haW4oKipwYXJzZV9hcmdzKGFyZ3ZbMTpdKS5fX2RpY3RfXyk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ0Fzc2VydCBvaycpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGVmIG1haW4oKQp1cmwgPSAnaHR0cDovLzEwLjIwMS4xMzAuMTQzL21zLnNlY3VyaXR5LnNpZ25pbmcvMS4wJwphID0gYXNzZXJ0X2NvbW1pdF9pZCh1cmwsICc1MmYyMWIzYzc5OTZjOWMxMWE2MzIwNGE1MDczNWVmYjAzMWI2ODcxJykKYiA9IGFzc2VydF9jb21taXRfaWQodXJsLCAnNTJmMjFiM2M3OTk2YzljMTFhNjMyMDRhNTA3MzVlZmIxJykKcHJpbnQoYSkKcHJpbnQoYik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>response = get(url, '', '').read().decode('utf-8')
-json = loads(response)
-pprint(json)
-print(json['commitId'])</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyBsID0gbGlzdGRpcigpCiMgbG9nZ2luZy5pbmZvKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wgJXMnLCBsKQoKIyBkID0gJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbCcKIyBsb2dnaW5nLmluZm8oZid7ZH0gJXMnLCBsaXN0ZGlyKGQpKQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1wJywgJy0tcGFzc3dvcmQnLCBoZWxwPSdwYXNzd29yZCBmb3IgYmFzaWMgYXV0aCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2luZy5pbmZvKGYne2R9ICVzJywgbGlzdGRpcihkKSkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy11JywgJy0tdXNlcm5hbWUnLCBoZWxwPSd1c2VybmFtZSBmb3IgYmFzaWMgYXV0aCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZCA9ICcvb3B0L2xmaW5zdS9jc2wvbmFzL2U3NWxybDMwMzR2Jwo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3ZlcnNpb24nLCBoZWxwPSdNYXZlbiB2ZXJzaW9uJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2FydGlmYWN0X2lkJywgaGVscD0nTWF2ZW4gYXJ0aWZhY3QgaWQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2luZy5pbmZvKGYne2R9ICVzJywgbGlzdGRpcihkKSkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2dyb3VwX2lkJywgaGVscD0nTWF2ZW4gZ3JvdXAgaWQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZCA9ICcvb3B0L2xmaW5zdS9jc2wvbmFzJwo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3JlcG8nLCBoZWxwPSdOZXh1cyByZXBvc2l0b3J5LCBlLmcuIG1hdmVuLXNuYXBzaG90cycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/debug/info/c</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>argv</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>argv</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
@@ -101,6 +120,7 @@ print(json['commitId'])</text>
         <entry>write</entry>
         <entry>info</entry>
         <entry>debug</entry>
+        <entry>argv</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
