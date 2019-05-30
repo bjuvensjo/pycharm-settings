@@ -29,7 +29,8 @@
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559138255178">
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559256388151">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="18" />
         <mark key="." line="72" column="18" />
@@ -80,6 +81,9 @@
       <jump line="6" column="32" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/slask.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/slask.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -89,7 +93,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text encoding="base64">XDxkZWZcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZXhwZWN0ZWRfY29tbWl0X2lkOgogICAgICAgICAgICBsb2dnaW5nLmV4Y2VwdGlvbignRmFpbGVkIHRvIGFzc2VydCBleHBlY3RlZF9jb21taXRfaWQ6ICVzJywgZXhwZWN0ZWRfY29tbWl0X2lkKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKIA==</text>
@@ -126,9 +130,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search encoding="base64">XDxkZWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>-1</last-dir>
@@ -143,6 +147,7 @@
         <entry>debug</entry>
         <entry>argv</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -173,6 +178,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
