@@ -3,22 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559133917349">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1559042239931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559041927846">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="45" column="14" />
-        <mark key="^" line="46" column="4" />
-        <mark key="." line="45" column="14" />
-      </file>
-      <file name="/a.dummy" timestamp="1559076419558">
+      <file name="/a.dummy" timestamp="1559416792762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1559039446034">
@@ -29,8 +17,48 @@
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559305781624">
-        <mark key="'" line="22" column="7" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
+        <mark key="[" line="53" column="71" />
+        <mark key="]" line="53" column="72" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="72" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" timestamp="1559420610581">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
+        <mark key="o" line="46" column="24" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
+        <mark key="[" line="267" column="33" />
+        <mark key="]" line="205" column="2" />
+        <mark key="^" line="205" column="2" />
+        <mark key="." line="205" column="2" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1559419846458" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559133917349">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559041927846">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="45" column="14" />
+        <mark key="^" line="46" column="4" />
+        <mark key="." line="45" column="14" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1559418583021">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_start.py" timestamp="1559419619188">
+        <mark key="[" line="76" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559419433939">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -40,12 +68,6 @@
         <mark key="'" line="3" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
-        <mark key="[" line="53" column="71" />
-        <mark key="]" line="53" column="72" />
-        <mark key="^" line="53" column="73" />
-        <mark key="." line="53" column="72" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/slask.py" timestamp="1559080193193">
         <mark key="[" line="8" column="0" />
@@ -113,79 +135,111 @@
       <jump line="33" column="36" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="29" column="4" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="22" column="7" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="49" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="21" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="25" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="46" column="54" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="31" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="11" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="10" column="33" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="37" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="43" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="34" column="3" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="35" column="78" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="38" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="39" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="57" column="22" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="53" column="38" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
+      <jump line="55" column="34" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>OSError</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>OSError</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>x</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZXhwZWN0ZWRfY29tbWl0X2lkOgogICAgICAgICAgICBsb2dnaW5nLmV4Y2VwdGlvbignRmFpbGVkIHRvIGFzc2VydCBleHBlY3RlZF9jb21taXRfaWQ6ICVzJywgZXhwZWN0ZWRfY29tbWl0X2lkKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1B1bGwgZmFpbGVkIGluIHRyeSAlcycsIG4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuID0gbiArIDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbiA9IG4gKyAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZXhwZWN0ZWRfY29tbWl0X2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZXhwZWN0ZWRfY29tbWl0X2lkOgogICAgICAgICAgICBsb2dnaW5nLmV4Y2VwdGlvbignRmFpbGVkIHRvIGFzc2VydCBleHBlY3RlZF9jb21taXRfaWQ6ICVzJywgZXhwZWN0ZWRfY29tbWl0X2lkKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygnQXNzZXJ0IG9rIGZvciAlcycsIGZpbGUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGhlYWx0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgIGhlYWx0aHMgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5lcnJvcignQXNzZXJ0IGZhaWxlZCBmb3IgJXMgYWZ0ZXIgJXMgcmV0cmllcycsIGZpbGUsIHJldHJpZXMpCg==</text>
+        <text encoding="base64">ICAgIHB1bGxlZCA9IGNoYWluLmZyb21faXRlcmFibGUoCiAgICAgICAgW3B1bGwoY1snc3RhdGVfZmlsZSddLCBjWydob3N0J10sIG5hbWUsIHZlcnNpb24pCiAgICAgICAgIGZvciBjIGluIGNvbmZpZ3NdKQogICAgZm9yIHMgaW4gc29ydGVkKFtmJ3tkZXBsb3lbIm5hbWUiXX06e2RlcGxveVsidmVyc2lvbiJdfSAnCiAgICAgICAgICAgICAgICAgICAgIGYnb24gcG9ydCB7ZGVwbG95WyJwb3J0Il19IGlzIHtoZWFsdGhbMV0gb3IgIk5PVCBVUCJ9JwogICAgICAgICAgICAgICAgICAgICBmb3IgZGVwbG95LCBoZWFsdGggaW4gcHVsbGVkXSk6CiAgICAgICAgcHJpbnQocykK</text>
       </register>
       <register name=":" type="4">
         <text>map ge</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>x</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logg</entry>
-        <entry>loggin</entry>
-        <entry>write</entry>
-        <entry>info</entry>
-        <entry>debug</entry>
-        <entry>argv</entry>
-        <entry encoding="base64">XDxtYWluXD4=</entry>
-        <entry>number</entry>
-        <entry>logging</entry>
-        <entry>s</entry>
-        <entry>assert</entry>
-        <entry>def</entry>
-        <entry encoding="base64">XDxkZWZcPg==</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry>read</entry>
         <entry>url</entry>
+        <entry>def</entry>
+        <entry>oing</entry>
+        <entry>pinge</entry>
+        <entry>get_hea</entry>
+        <entry>modules</entry>
+        <entry>deploys</entry>
+        <entry>ping</entry>
+        <entry>pull</entry>
+        <entry>exit_c</entry>
+        <entry>config</entry>
+        <entry>retries</entry>
+        <entry>version</entry>
+        <entry>assert</entry>
+        <entry>mode</entry>
+        <entry>mod</entry>
+        <entry>in</entry>
+        <entry>stre</entry>
+        <entry>basic</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
