@@ -31,8 +31,12 @@
         <mark key="^" line="35" column="19" />
         <mark key="o" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559472495729">
-        <mark key="[" line="2" column="139" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559473775442">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
         <mark key="[" line="267" column="33" />
@@ -167,10 +171,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="55" column="34" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="18" column="13" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OSError</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kZQooUHJlc3MgdiB0byBlbnRlcikuCkJhY2sgdG8gTm9ybWFsIG1vZGUgKFByZXNzIGVzY2FwZVtlc2NdKSwgcHJlc3MgeSB0byBjb3B5LiBJZiB5b3Ugd2FudCB0byBwYXN0ZSBzb21ldGhpbmcgZnJvbSBPUydzIGNsaXBib2FyZCwgcHJlc3MgcC9QIGluIFZpbSBOb3JtYWwgbW9kZS4KCgoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4KCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwpJIHVzZSBob21lYnJldyBhbmQgSSB1c2VkIGl0IHRvIGluc3RhbGwgVmltLiBJZiB5b3UgcnVuIGJyZXcgb3B0aW9ucyB2aW0sIHlvdSdsbCBzZWUgdGhlIG9wdGlvbnMgYXZhaWwKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCgoKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4K</text>
       </register>
       <register name="-" type="4">
         <text>OSError</text>
@@ -182,31 +188,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1B1bGwgZmFpbGVkIGluIHRyeSAlcycsIG4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bW9kZQooUHJlc3MgdiB0byBlbnRlcikuCkJhY2sgdG8gTm9ybWFsIG1vZGUgKFByZXNzIGVzY2FwZVtlc2NdKSwgcHJlc3MgeSB0byBjb3B5LiBJZiB5b3Ugd2FudCB0byBwYXN0ZSBzb21ldGhpbmcgZnJvbSBPUydzIGNsaXBib2FyZCwgcHJlc3MgcC9QIGluIFZpbSBOb3JtYWwgbW9kZS4KCgoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4KCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwpJIHVzZSBob21lYnJldyBhbmQgSSB1c2VkIGl0IHRvIGluc3RhbGwgVmltLiBJZiB5b3UgcnVuIGJyZXcgb3B0aW9ucyB2aW0sIHlvdSdsbCBzZWUgdGhlIG9wdGlvbnMgYXZhaWwKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCgoKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhlYWx0aCkK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWx0aHMgPSAK</text>
+        <text encoding="base64">ICAgIHByaW50KGhlYWx0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1bGxlZCA9IGNoYWluLmZyb21faXRlcmFibGUoCiAgICAgICAgW3B1bGwoY1snc3RhdGVfZmlsZSddLCBjWydob3N0J10sIG5hbWUsIHZlcnNpb24pCiAgICAgICAgIGZvciBjIGluIGNvbmZpZ3NdKQogICAgZm9yIHMgaW4gc29ydGVkKFtmJ3tkZXBsb3lbIm5hbWUiXX06e2RlcGxveVsidmVyc2lvbiJdfSAnCiAgICAgICAgICAgICAgICAgICAgIGYnb24gcG9ydCB7ZGVwbG95WyJwb3J0Il19IGlzIHtoZWFsdGhbMV0gb3IgIk5PVCBVUCJ9JwogICAgICAgICAgICAgICAgICAgICBmb3IgZGVwbG95LCBoZWFsdGggaW4gcHVsbGVkXSk6CiAgICAgICAgcHJpbnQocykK</text>
+        <text encoding="base64">ICAgIGhlYWx0aHMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>map ge</text>
