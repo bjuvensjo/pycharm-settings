@@ -9,10 +9,14 @@
       <file name="/a.dummy" timestamp="1559485071279">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/core.py" timestamp="1559485459249">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1559039446034">
         <mark key="'" line="85" column="16" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559076878098">
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1559485746837">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="33" />
@@ -23,18 +27,20 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" timestamp="1559420610581">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="35" column="19" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" timestamp="1559485206401">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="64" column="41" />
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
         <mark key="o" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559484530872">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559486104428">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
         <mark key="[" line="267" column="33" />
@@ -42,7 +48,6 @@
         <mark key="^" line="205" column="2" />
         <mark key="." line="205" column="2" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1559419846458" />
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/extract_environment_configuration.py" timestamp="1559133917349">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -74,9 +79,10 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559484916832">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
         <mark key="'" line="75" column="4" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" timestamp="1559485622702" />
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/slask.py" timestamp="1559080193193">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="16" column="15" />
@@ -172,73 +178,74 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="55" column="34" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="18" column="13" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="22" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="66" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" />
       <jump line="75" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="45" column="21" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="11" column="5" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="111" column="22" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zm9vCmJhcgo=</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAucGluZyBpbXBvcnQgcGluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>OSError</text>
+        <text>FORMAT = '&quot;%(asctime)s %(levelname)s %(name)s %(message)s&quot;'</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>log\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1B1bGwgZmFpbGVkIGluIHRyeSAlcycsIG4pCg==</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcuZHVtbXkgaW1wb3J0IFBvb2wKCgpkZWYgcG1hcChmLCBpdGVyYWJsZSwgY2h1bmtzaXplPU5vbmUsIHByb2Nlc3Nlcz0yNSk6CiAgICB3aXRoIFBvb2wocHJvY2Vzc2VzKSBhcyBwb29sOgogICAgICAgIHJldHVybiBwb29sLm1hcChmLCBpdGVyYWJsZSwgY2h1bmtzaXplKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9vCmJhcgo=</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAucGluZyBpbXBvcnQgcGluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kZQooUHJlc3MgdiB0byBlbnRlcikuCkJhY2sgdG8gTm9ybWFsIG1vZGUgKFByZXNzIGVzY2FwZVtlc2NdKSwgcHJlc3MgeSB0byBjb3B5LiBJZiB5b3Ugd2FudCB0byBwYXN0ZSBzb21ldGhpbmcgZnJvbSBPUydzIGNsaXBib2FyZCwgcHJlc3MgcC9QIGluIFZpbSBOb3JtYWwgbW9kZS4KCgoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4KCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwpJIHVzZSBob21lYnJldyBhbmQgSSB1c2VkIGl0IHRvIGluc3RhbGwgVmltLiBJZiB5b3UgcnVuIGJyZXcgb3B0aW9ucyB2aW0sIHlvdSdsbCBzZWUgdGhlIG9wdGlvbnMgYXZhaWwKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCgoKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4K</text>
+        <text encoding="base64">bG9nLnNldExldmVsKGxvZ2dpbmcuSU5GTykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoYmFzZW5hbWUoX19maWxlX18pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhzdHJlYW09c3Rkb3V0LCBmb3JtYXQ9Rk9STUFUKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcuZHVtbXkgaW1wb3J0IFBvb2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwpmcm9tIGFyZ3BhcnNlIGltcG9ydCBBcmd1bWVudFBhcnNlcgpmcm9tIGZ1bmN0b29scyBpbXBvcnQgcGFydGlhbApmcm9tIGltcG9ydGxpYiBpbXBvcnQgaW1wb3J0X21vZHVsZQpmcm9tIGl0ZXJ0b29scyBpbXBvcnQgY2hhaW4KZnJvbSBqc29uIGltcG9ydCBsb2Fkcwpmcm9tIHJlIGltcG9ydCBmdWxsbWF0Y2gKZnJvbSBzeXMgaW1wb3J0IGFyZ3YKZnJvbSB1cmxsaWIucmVxdWVzdCBpbXBvcnQgdXJsb3BlbgoKZnJvbSBjb25kZXAuY29yZSBpbXBvcnQgcG1hcApmcm9tIGNvbmRlcC5zdGF0ZSBpbXBvcnQgZ2V0X2RlcGxveXMKCgpkZWYgZ2V0X2hlYWx0aChob3N0LCBwb3J0LCB0aW1lb3V0PTUpOgogICAgdXJsID0gZidodHRwOi8ve2hvc3R9Ontwb3J0fS9oZWFsdGgnCiAgICB0cnk6CiAgICAgICAgcmVzcG9uc2UgPSB1cmxvcGVuKHVybCwgdGltZW91dD10aW1lb3V0KQogICAgICAgIGlmIHJlc3BvbnNlLmdldGNvZGUoKToKICAgICAgICAgICAgcmV0dXJuIHVybCwgbG9hZHMocmVzcG9uc2UucmVhZCgpLmRlY29kZSgndXRmLTgnKSlbJ3N0YXR1cyddCiAgICBleGNlcHQgT1NFcnJvcjogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIHJldHVybiB1cmwsIEZhbHNlCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9oZWFsdGhzKGRlcGxveXMsIGhvc3QpOgogICAgcG9ydHMgPSBbZFsncG9ydCddIGZvciBkIGluIGRlcGxveXNdCiAgICBoZWFsdGhzID0gcG1hcChwYXJ0aWFsKGdldF9oZWFsdGgsIGhvc3QpLCBwb3J0cywgcHJvY2Vzc2VzPTUpCiAgICByZXR1cm4gemlwKGRlcGxveXMsIGhlYWx0aHMpCgoKZGVmIHBpbmcoc3RhdGVfZmlsZSwgaG9zdCwgbmFtZSwgdmVyc2lvbik6CiAgICBkZXBsb3lzID0gZ2V0X2RlcGxveXMoc3RhdGVfZmlsZSkKICAgIGlmIG5hbWU6CiAgICAgICAgZGVwbG95cyA9IFtkIGZvciBkIGluIGRlcGxveXMKICAgICAgICAgICAgICAgICAgIGlmIGZ1bGxtYXRjaChyJ3t9Jy5mb3JtYXQobmFtZSksIGRbJ25hbWUnXSldCiAgICBpZiB2ZXJzaW9uOgogICAgICAgIGRlcGxveXMgPSBbZCBmb3IgZCBpbiBkZXBsb3lzCiAgICAgICAgICAgICAgICAgICBpZiBmdWxsbWF0Y2gocid7fScuZm9ybWF0KHZlcnNpb24pLCBkWyd2ZXJzaW9uJ10pXQogICAgcmV0dXJuIGdldF9oZWFsdGhzKGRlcGxveXMsIGhvc3QpCgoKZGVmIHBhcnNlX2FyZ3MoYXJncyk6CiAgICBwYXJzZXIgPSBBcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nUGluZyBkZXBsb3lzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1tJywKICAgICAgICAnLS1tb2R1bGVzJywKICAgICAgICBoZWxwPSdUaGUgY29uZmlnIG1vZHVsZXMnLAogICAgICAgIG5hcmdzPScrJywKICAgICAgICBkZWZhdWx0PVsnY29uZmlnJ10sCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctbicsCiAgICAgICAgJy0tbmFtZScsCiAgICAgICAgaGVscD0nQSBkZXBsb3kgbmFtZScsCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctdicsCiAgICAgICAgJy0tdmVyc2lvbicsCiAgICAgICAgaGVscD0nQSBkZXBsb3kgdmVyc2lvbicsCiAgICApCiAgICByZXR1cm4gcGFyc2VyLnBhcnNlX2FyZ3MoYXJncykKCgpkZWYgbWFpbihtb2R1bGVzLCBuYW1lLCB2ZXJzaW9uKToKICAgIGNvbmZpZ3MgPSBbaW1wb3J0X21vZHVsZShtKS5jb25maWcgZm9yIG0gaW4gbW9kdWxlc10KICAgIHBpbmdlZCA9IGNoYWluLmZyb21faXRlcmFibGUoCiAgICAgICAgW3BpbmcoY1snc3RhdGVfZmlsZSddLCBjWydob3N0J10sIG5hbWUsIHZlcnNpb24pCiAgICAgICAgIGZvciBjIGluIGNvbmZpZ3NdKQogICAgZm9yIHMgaW4gc29ydGVkKFtmJ3tkZXBsb3lbIm5hbWUiXX06e2RlcGxveVsidmVyc2lvbiJdfSAnCiAgICAgICAgICAgICAgICAgICAgIGYnb24gcG9ydCB7ZGVwbG95WyJwb3J0Il19IGlzIHtoZWFsdGhbMV0gb3IgIk5PVCBVUCJ9JwogICAgICAgICAgICAgICAgICAgICBmb3IgZGVwbG95LCBoZWFsdGggaW4gcGluZ2VkXSk6CiAgICAgICAgcHJpbnQocykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICBtYWluKCoqcGFyc2VfYXJncyhhcmd2WzE6XSkuX19kaWN0X18pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
+        <text encoding="base64">Zm9vCmJhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhlYWx0aCkK</text>
+        <text encoding="base64">bW9kZQooUHJlc3MgdiB0byBlbnRlcikuCkJhY2sgdG8gTm9ybWFsIG1vZGUgKFByZXNzIGVzY2FwZVtlc2NdKSwgcHJlc3MgeSB0byBjb3B5LiBJZiB5b3Ugd2FudCB0byBwYXN0ZSBzb21ldGhpbmcgZnJvbSBPUydzIGNsaXBib2FyZCwgcHJlc3MgcC9QIGluIFZpbSBOb3JtYWwgbW9kZS4KCgoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4KCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwpJIHVzZSBob21lYnJldyBhbmQgSSB1c2VkIGl0IHRvIGluc3RhbGwgVmltLiBJZiB5b3UgcnVuIGJyZXcgb3B0aW9ucyB2aW0sIHlvdSdsbCBzZWUgdGhlIG9wdGlvbnMgYXZhaWwKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCgoKCkluc3RhbGxpbmcgVmltIHZpYSBob21lYnJldyB3aXRoIHRoZSBwcm9wZXIgb3B0aW9ucwoKCmYgeW91IGRvbid0IHNlZSB0aG9zZSwgdGhlbiB5b3UgbmVlZCB0byBpbnN0YWxsIGEgVmltIHdpdGggdGhvc2Ugb3B0aW9ucyBlbmFibGVkLiBOb3RlLCB0aGUgZGVmYXVsdCB2aW0gdGhhdCBjb21lcyB3aXRoIE9TIFggZG9lcyBub3QgaGF2ZSBlaXRoZXIgZW5hYmxlZC4K</text>
       </register>
       <register name=":" type="4">
-        <text>map ge</text>
+        <text>%s/log\./logging\./gc</text>
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>log\.</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
-      <last-replace>info</last-replace>
-      <last-substitute>debug</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-pattern>log\.</last-pattern>
+      <last-replace>logging\.</last-replace>
+      <last-substitute>log\.</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry>def</entry>
-        <entry>oing</entry>
-        <entry>pinge</entry>
-        <entry>get_hea</entry>
-        <entry>modules</entry>
-        <entry>deploys</entry>
         <entry>ping</entry>
         <entry>pull</entry>
         <entry>exit_c</entry>
@@ -252,6 +259,13 @@
         <entry>stre</entry>
         <entry>basic</entry>
         <entry>x</entry>
+        <entry>#</entry>
+        <entry>from</entry>
+        <entry>partial</entry>
+        <entry>fullm</entry>
+        <entry encoding="base64">JXMmbG9nL2xvZ2dpbmcvZ2M=</entry>
+        <entry>log</entry>
+        <entry>log\.</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -266,7 +280,11 @@
         <entry>set hlsearch</entry>
         <entry>help ge</entry>
         <entry>map ge</entry>
+        <entry>%s/log/logging/gc</entry>
+        <entry>%s/log\./logging\./gc</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
