@@ -31,6 +31,9 @@
         <mark key="^" line="35" column="19" />
         <mark key="o" line="46" column="24" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559472495729">
+        <mark key="[" line="2" column="139" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
         <mark key="[" line="267" column="33" />
         <mark key="]" line="205" column="2" />
