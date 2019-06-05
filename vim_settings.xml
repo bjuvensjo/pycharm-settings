@@ -21,12 +21,10 @@
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1559768953850">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1559770008793">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
@@ -103,10 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
-      <jump line="37" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="22" column="7" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="14" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
@@ -203,46 +197,50 @@
       <jump line="11" column="66" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="10" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="9" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wvY2QuamVua2lucy5saWInLCAnOTIwYzgzN2FhOTM0ZWY1MWZjNTY0ZjA3ZWZjOTI5OWExZDRlOTczYycpCg==</text>
+        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL3NsYXNrL0FQSVAnLCAnZWFjNjllYjg0OTVjZDRiNGE2OTI1ODVlYmM3YTEzN2YwOGQzOTBlMCcpCnBwcmludChkaWZmKQpjb250cmFjdF9kaWZmID0gdG9fY29udHJhY3RzKGRpZmYpCnBwcmludChjb250cmFjdF9kaWZmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wvY29udGludW91cy5kZXBsb3ltZW50JywgJ2M2MmYwNDNiZGVhNzlkYzU3YTMwYzE0M2M0ZDI1YzlmMzcwZDY1MGYnKQo=</text>
+        <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX2RkbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC9jZC5qZW5raW5zLmxpYicsICc5MjBjODM3YWE5MzRlZjUxZmM1NjRmMDdlZmM5Mjk5YTFkNGU5NzNjJykK</text>
+        <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0gZm9yIHMgaW4gWyc/PycsICdBJywgJ0QnLCAnTSddXQo=</text>
+        <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdGF0dXMgPT0gcyBhbmQgKG5vdCBlbmRpbmdzIG9yIGZpbGUuc3BsaXQoJy4nKVstMV0gaW4gZW5kaW5ncykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc3RhdHVzLCBmaWxlIGluIHN0YXR1c2VzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmJ3t3b3JrX2Rpcn0ve2ZpbGUuc3RyaXAoKX0nIGlmIGFic29sdXRlIGVsc2UgZmlsZS5zdHJpcCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbWwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL3NsYXNrL0FQSVAnLCAnZWFjNjdlYjg0OTVjZDRiNGE2OTI1ODVlYmM3YTEzN2YwOGQzOTBlMCcpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGRkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2N2ViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wvY29udGludW91cy5kZXBsb3ltZW50JywgJ2M2MmYwNDNiZGVhNzlkYzU3YTMwYzE0M2M0ZDI1YzlmMzcwZDY1MGYnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX2RkbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC9jZC5qZW5raW5zLmxpYicsICc5MjBjODM3YWE5MzRlZjUxZmM1NjRmMDdlZmM5Mjk5YTFkNGU5NzNjJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/print.*//gc</text>
