@@ -86,11 +86,12 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1559981948342">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560239451226">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
         <mark key="'" line="3" column="0" />
@@ -107,9 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="49" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="21" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="25" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
@@ -207,13 +205,16 @@
       <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="44" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="43" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="7" column="9" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -223,6 +224,13 @@
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
@@ -244,6 +252,9 @@
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wvY29udGludW91cy5kZXBsb3ltZW50JywgJ2M2MmYwNDNiZGVhNzlkYzU3YTMwYzE0M2M0ZDI1YzlmMzcwZDY1MGYnKQo=</text>
+      </register>
+      <register name="x" type="4">
+        <text />
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX2RkbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC9jZC5qZW5raW5zLmxpYicsICc5MjBjODM3YWE5MzRlZjUxZmM1NjRmMDdlZmM5Mjk5YTFkNGU5NzNjJykK</text>
@@ -302,6 +313,7 @@
         <entry>reg</entry>
         <entry>%s/print.*\r//gc</entry>
         <entry>%s/print.*//gc</entry>
+        <entry>grep print</entry>
       </history-cmd>
       <history-expr />
       <history-input />
