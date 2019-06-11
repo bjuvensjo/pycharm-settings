@@ -86,12 +86,12 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560239451226">
+      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
         <mark key="'" line="3" column="0" />
