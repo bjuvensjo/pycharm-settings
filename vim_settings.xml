@@ -18,8 +18,8 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="108" column="68" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1560262746021">
-        <mark key="'" line="160" column="0" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1560265692416">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="143" column="35" />
         <mark key="]" line="143" column="42" />
         <mark key="." line="143" column="42" />
@@ -114,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="68" column="8" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="149" column="4" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
@@ -214,6 +213,7 @@
       <jump line="137" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
       <jump line="140" column="31" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
       <jump line="158" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
