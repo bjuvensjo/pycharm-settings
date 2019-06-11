@@ -27,6 +27,13 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="3" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560257177161">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="93" column="133" />
+        <mark key="]" line="94" column="17" />
+        <mark key="^" line="94" column="17" />
+        <mark key="." line="94" column="17" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
         <mark key="]" line="53" column="72" />
@@ -65,12 +72,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1559041927846">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="45" column="14" />
-        <mark key="^" line="46" column="4" />
-        <mark key="." line="45" column="14" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560256352748">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1559418583021">
         <mark key="[" line="16" column="0" />
@@ -109,23 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="21" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="25" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="45" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="46" column="54" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="30" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="31" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="11" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="10" column="33" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="37" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="43" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
-      <jump line="34" column="3" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="35" column="78" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="38" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
       <jump line="39" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/pull.py" />
@@ -209,22 +198,39 @@
       <jump line="7" column="9" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="37" column="22" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="18" column="36" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" />
+      <jump line="40" column="36" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="34" column="23" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>root</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL3NsYXNrL0FQSVAnLCAnZWFjNjllYjg0OTVjZDRiNGE2OTI1ODVlYmM3YTEzN2YwOGQzOTBlMCcpCnBwcmludChkaWZmKQpjb250cmFjdF9kaWZmID0gdG9fY29udHJhY3RzKGRpZmYpCnBwcmludChjb250cmFjdF9kaWZmKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">e2Zvby5iYXIuYmF6MX0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZGFsbChyIntbXX0iLCBjb250ZW50KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -234,40 +240,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
+        <text encoding="base64">cHJpbnQobWF0Y2hlc1syXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
+        <text encoding="base64">cHJpbnQobWF0Y2hlc1swXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobWF0Y2hlc1swXSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL3NsYXNrL0FQSVAnLCAnZWFjNjdlYjg0OTVjZDRiNGE2OTI1ODVlYmM3YTEzN2YwOGQzOTBlMCcpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgpkZWYgZmluZF9yZXBsYWNlbWVudHMoc291cmNlKToKICAgIGZvciByb290LCBkaXJzLCBmaWxlcyBpbiB3YWxrKHNvdXJjZSk6CiAgICAgICAgZm9yIG5hbWUgaW4gZmlsZXM6CiAgICAgICAgICAgIGNvbnRlbnQgPSByZWFkX2ZpbGUocm9vdCwgbmFtZSwgZW5jb2RpbmcpCiAgICAgICAgICAgIHVwZGF0ZWRfY29udGVudCA9IHJlcGxhY2UoY29udGVudCwgcmVwbGFjZW1lbnRzKQogICAgICAgICAgICBpZiBjb250ZW50ICE9IHVwZGF0ZWRfY29udGVudDoKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbyhmJ1JlcGxhY2VkIGluIHtyb290fS97bmFtZX0nKQogICAgICAgICAgICAgICAgd3JpdGVfZmlsZShyb290LCBuYXt7bWUsIHVwZGF0ZWRfY29udGVudCwgZW5jb2RpbmcpCiAgICAgICAgICAgICAgICBpZiB2ZXJib3NlOgogICAgICAgICAgICAgICAgICAgIGRpZmYobmFtZSwgY29udGVudCwgdXBkYXRlZF9jb250ZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYnTm8gcmVwbGFjZW1lbnRzIGluIHtyb290fS97bmFtZX0nKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZF9jb250ZW50ID0gcmVwbGFjZShjb250ZW50LCByZXBsYWNlbWVudHMpCiAgICAgICAgICAgIGlmIGNvbnRlbnQgIT0gdXBkYXRlZF9jb250ZW50OgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYnUmVwbGFjZWQgaW4ge3Jvb3R9L3tuYW1lfScpCiAgICAgICAgICAgICAgICB3cml0ZV9maWxlKHJvb3QsIG5hbWUsIHVwZGF0ZWRfY29udGVudCwgZW5jb2RpbmcpCiAgICAgICAgICAgICAgICBpZiB2ZXJib3NlOgogICAgICAgICAgICAgICAgICAgIGRpZmYobmFtZSwgY29udGVudCwgdXBkYXRlZF9jb250ZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYnTm8gcmVwbGFjZW1lbnRzIGluIHtyb290fS97bmFtZX0nKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2N2ViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX25hbWVfc3RhdHVzKCcvVXNlcnMvbWFnbnVzL2dpdC1jc2wvY29udGludW91cy5kZXBsb3ltZW50JywgJ2M2MmYwNDNiZGVhNzlkYzU3YTMwYzE0M2M0ZDI1YzlmMzcwZDY1MGYnKQo=</text>
+        <text encoding="base64">CmRpZmYgPSBnZXRfZGlmZl9uYW1lX3N0YXR1cygnL1VzZXJzL21hZ251cy9zbGFzay9BUElQJywgJ2VhYzY5ZWI4NDk1Y2Q0YjRhNjkyNTg1ZWJjN2ExMzdmMDhkMzkwZTAnKQpwcHJpbnQoZGlmZikKY29udHJhY3RfZGlmZiA9IHRvX2NvbnRyYWN0cyhkaWZmKQpwcHJpbnQoY29udHJhY3RfZGlmZikKCgpkaWZmID0gZ2V0X2RpZmZfbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvc2xhc2svQVBJUCcsICdlYWM2OWViODQ5NWNkNGI0YTY5MjU4NWViYzdhMTM3ZjA4ZDM5MGUwJykKcHByaW50KGRpZmYpCmNvbnRyYWN0X2RpZmYgPSB0b19jb250cmFjdHMoZGlmZikKcHByaW50KGNvbnRyYWN0X2RpZmYpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlmZiA9IGdldF9kaWZmX2RkbmFtZV9zdGF0dXMoJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC9jZC5qZW5raW5zLmxpYicsICc5MjBjODM3YWE5MzRlZjUxZmM1NjRmMDdlZmM5Mjk5YTFkNGU5NzNjJykK</text>
+        <text encoding="base64">cHByaW50KGRpZmYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/print.*//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace />
       <last-substitute>print.*</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>basic</entry>
         <entry>x</entry>
         <entry>#</entry>
         <entry>from</entry>
@@ -295,6 +300,7 @@
         <entry>print.*\r</entry>
         <entry>print.*</entry>
         <entry>print</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
