@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1559042239931">
@@ -31,12 +31,12 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560350804635">
-        <mark key="'" line="77" column="10" />
-        <mark key="[" line="61" column="73" />
-        <mark key="]" line="61" column="17" />
-        <mark key="^" line="61" column="17" />
-        <mark key="." line="61" column="17" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560351967838">
+        <mark key="'" line="71" column="11" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
@@ -115,8 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="42" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
-      <jump line="101" column="14" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="35" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
       <jump line="39" column="4" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
       <jump line="25" column="15" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" />
@@ -215,22 +213,29 @@
       <jump line="72" column="4" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
       <jump line="73" column="9" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
       <jump line="74" column="10" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="63" column="32" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
+      <jump line="61" column="11" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replacements</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>replacements</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1lJywKICAgICAgICAnLS1lbmNvZGluZycsCiAgICAgICAgZGVmYXVsdD0ndXRmLTgnLAogICAgICAgIGhlbHA9J0ZpbGUgZW5jb2RpbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJBc3NlcnRlZCB0aGF0IHRoZXJlIGlzIGEgcmVwbGFjZW1lbnRzIGZvciBhbGwgcGxhY2Vob2xkZXJzIGluIGZpbGVzIikK</text>
       </register>
-      <register name="1" type="4">
-        <text>File encoding</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -240,40 +245,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwPSdUaGUgZGlyIGZvciBBcGFjaGUgY29uZmlndXJhdGlvbnMnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYXBhY2hlX2N0bF9wYXRoJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtLWEsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>File encoding</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwPSdUaGUgZGlyIGZvciBBcGFjaGUgY29uZmlndXJhdGlvbnMnCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAnYXBhY2hlX2N0bF9wYXRoJywK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZGFsbChyIntbXX0iLCBjb250ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAtLWEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/print.*//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace />
       <last-substitute>print.*</last-substitute>
       <last-dir>1</last-dir>
@@ -281,7 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fullm</entry>
         <entry encoding="base64">JXMmbG9nL2xvZ2dpbmcvZ2M=</entry>
         <entry>log\.</entry>
         <entry>get?depl</entry>
@@ -301,6 +305,7 @@
         <entry>log</entry>
         <entry>-e</entry>
         <entry>'</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
