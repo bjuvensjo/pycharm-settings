@@ -25,33 +25,20 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/ping.py" timestamp="1559488844958">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="105" column="67" />
-        <mark key="]" line="106" column="29" />
-        <mark key="." line="106" column="29" />
-        <mark key="^" line="106" column="29" />
-      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" timestamp="1559506178919">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560429149720">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560433920714">
         <mark key="'" line="3" column="39" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1560244017543" />
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/assert_commit_id.py" timestamp="1559498821796">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="44" column="3" />
-      </file>
       <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="2" />
@@ -64,12 +51,9 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560429457147">
-        <mark key="'" line="100" column="4" />
-        <mark key="[" line="108" column="19" />
-        <mark key="]" line="144" column="44" />
-        <mark key="^" line="144" column="44" />
-        <mark key="." line="144" column="44" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560434407423">
+        <mark key="'" line="174" column="4" />
+        <mark key="[" line="152" column="22" />
       </file>
       <file name="$USER_HOME$/git/scripts/vang/git/filter_branch.py" timestamp="1560350591378" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
@@ -140,11 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
       <jump line="64" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
       <jump line="69" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
       <jump line="96" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
@@ -240,19 +219,24 @@
       <jump line="90" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="1" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/start.sh" />
       <jump line="100" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="106" column="44" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="153" column="76" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="171" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">cmVtb3ZlZF9tYWpvcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>add_depl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb25kZXAuZ2l0IGltcG9ydCBnZXRfY29tbWl0Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVtb3ZlZF9tYWpvcnMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c291cmNlIC4vcHl0aG9uX3BhdGguc2gK</text>
@@ -296,18 +280,16 @@
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>add_depl</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>add_depl</last-pattern>
       <last-replace />
       <last-substitute>print.*</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>parse</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>print.*\r</entry>
         <entry>print.*</entry>
@@ -326,6 +308,8 @@
         <entry encoding="base64">XDx3YWxrX3RvXD4=</entry>
         <entry>stop</entry>
         <entry>)</entry>
+        <entry>removed_min</entry>
+        <entry>add_depl</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
