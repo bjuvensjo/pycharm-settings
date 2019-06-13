@@ -117,11 +117,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1560427835012">
-        <mark key="'" line="1" column="21" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1560428847936">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_start.py" timestamp="1559419619188">
         <mark key="[" line="76" column="20" />
@@ -231,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
@@ -243,7 +243,7 @@
         <text encoding="base64">ZnJvbSBjb25kZXAuZ2l0IGltcG9ydCBnZXRfY29tbWl0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzMWY2YjEzMWY5Mzk0NWMwMzE3NzEyMjY5YzIzMjcxOGQ2NTZkMGJlCg==</text>
+        <text encoding="base64">c291cmNlIC4vcHl0aG9uX3BhdGguc2gK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -253,31 +253,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d29ya19kaXIgPSAnL29wdC9sZmluc3UvY3NsL2NvbmRlcCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmVjaG8gIiRsb2dfZGlyIg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhcnRfcG9ydCA9IDgxMDAK</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMWY2YjEzMWY5Mzk0NWMwMzE3NzEyMjY5YzIzMjcxOGQ2NTZkMGJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">d29ya19kaXIgPSAnL29wdC9sZmluc3UvY3NsL2NvbmRlcCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEUgICAgICAgICArICBbJ3NyYy9jb25kZXAvdGVzdHMvdGVzdF9naXQucHknLCAnc3JjL2NvbmRlcC90ZXN0cy90ZXN0X3BpbmcucHknXV1bW11dICogNCksCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChOb25lLCBGYWxzZSwgW1tdXSAqIDQpLAo=</text>
+        <text encoding="base64">c3RhcnRfcG9ydCA9IDgxMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJNICAgICAgIHNyYy9jb25kZXAvdGVzdHMvdGVzdF9tYWluLnB5IiwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEUgICAgICAgICArICBbJ3NyYy9jb25kZXAvdGVzdHMvdGVzdF9naXQucHknLCAnc3JjL2NvbmRlcC90ZXN0cy90ZXN0X3BpbmcucHknXV1bW11dICogNCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
