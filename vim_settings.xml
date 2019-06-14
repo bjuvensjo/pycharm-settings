@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560507988958">
-        <mark key="[" line="112" column="25" />
-        <mark key="]" line="112" column="29" />
-        <mark key="." line="112" column="29" />
-        <mark key="^" line="112" column="29" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560523943360">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="2" />
+        <mark key="." line="50" column="2" />
+        <mark key="^" line="50" column="2" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560434678821">
         <mark key="'" line="3" column="39" />
