@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560523943360">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
-        <mark key="^" line="50" column="2" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560525304199">
+        <mark key="[" line="110" column="25" />
+        <mark key="]" line="110" column="25" />
+        <mark key="." line="110" column="25" />
+        <mark key="^" line="110" column="24" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560434678821">
         <mark key="'" line="3" column="39" />
@@ -237,11 +237,11 @@
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="4">
-        <text>downgrades_to_remove(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gamFyczoKICAgICAgICAgICAgICAgIHRvX3JlbW92ZS51cGRhdGUoZ2V0X2Rvd25fZ3JhZGVzKGosIGphcnMsIGYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdldF92ZXJzaW9uX251bWJlcnModmVyc2lvbik6CiAgICByZXR1cm4gW2ludChuKSBmb3IgbiBpbiB2ZXJzaW9uLnNwbGl0KCcuJyldCgoKZGVmIGlzX21ham9yX2Rvd25ncmFkZSh2ZXJzaW9uX3RvX2NoZWNrLCB2ZXJzaW9uKToKICAgIHZjX21ham9yLCB2Y19taW5vciwgdmNfcGF0Y2ggPSBnZXRfdmVyc2lvbl9udW1iZXJzKHZlcnNpb25fdG9fY2hlY2spCiAgICB2X21ham9yLCB2X21pbm9yLCB2X3BhdGNoID0gZ2V0X3ZlcnNpb25fbnVtYmVycyh2ZXJzaW9uKQogICAgcmV0dXJuIHZjX21ham9yIDwgdl9tYWpvcgoKCmRlZiBpc19taW5vcl9kb3duZ3JhZGUodmVyc2lvbl90b19jaGVjaywgdmVyc2lvbik6CiAgICB2Y19tYWpvciwgdmNfbWlub3IsIHZjX3BhdGNoID0gZ2V0X3ZlcnNpb25fbnVtYmVycyh2ZXJzaW9uX3RvX2NoZWNrKQogICAgdl9tYWpvciwgdl9taW5vciwgdl9wYXRjaCA9IGdldF92ZXJzaW9uX251bWJlcnModmVyc2lvbikKICAgIHJldHVybiB2Y19tYWpvciA9PSB2X21ham9yIGFuZCB2Y19taW5vciA8IHZfbWlub3IKCgpkZWYgaXNfcGF0Y2hfZG93bmdyYWRlKHZlcnNpb25fdG9fY2hlY2ssIHZlcnNpb24pOgogICAgdmNfbWFqb3IsIHZjX21pbm9yLCB2Y19wYXRjaCA9IGdldF92ZXJzaW9uX251bWJlcnModmVyc2lvbl90b19jaGVjaykKICAgIHZfbWFqb3IsIHZfbWlub3IsIHZfcGF0Y2ggPSBnZXRfdmVyc2lvbl9udW1iZXJzKHZlcnNpb24pCiAgICByZXR1cm4gdmNfbWFqb3IgPT0gdl9tYWpvciBhbmQgdmNfbWlub3IgPT0gdl9taW5vciBhbmQgdmNfcGF0Y2ggPCB2X3BhdGNoCgo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICB0b19yZW1vdmUudXBkYXRlKGdldF9kb3duX2dyYWRlcyhqLCBqYXJzLCBpc19wYXRjaF9kb3duZ3JhZGUpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -251,31 +251,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgIGZvciBqIGluIGphcnM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgICAgaWYgdXBkYXRlX3BvbGljeS5nZXQoJ29ubHlfbGF0ZXN0X3BhdGNoJywgTm9uZSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2Rvd25fZ3JhZGVzKCIvVXNlcnMvbWFnbnVzL3NsYXNrL2NvbmRlcC9kZXBsb3kvYXBwLnNpZ24tMi4wLjAtU05BUFNIT1QuamFyIiwgamFycywgaXNfbWFqb3JfZG93bmdyYWRlKSkK</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICB0b19yZW1vdmUudXBkYXRlKGdldF9kb3duX2dyYWRlcyhqLCBqYXJzLCBpc19taW5vcl9kb3duZ3JhZGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZV9wb2xpY3kpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICMgZm9yIGIsIGYgaW4geDoKICAgICMgICAgaWYgYjoKICAgICMgICAgICAgIGZvciBqIGluIGphcnM6CiAgICAjICAgICAgICAgICAgdG9fcmVtb3ZlLnVwZGF0ZShnZXRfZG93bl9ncmFkZXMoaiwgamFycywgZikpCgogICAgIyAgICBpZiB1cGRhdGVfcG9saWN5LmdldCgnb25seV9sYXRlc3RfbWFqb3InLCBOb25lKToKICAgICMgICAgICAgIGZvciBqIGluIGphcnM6CiAgICAjICAgICAgICAgICAgdG9fcmVtb3ZlLnVwZGF0ZShnZXRfZG93bl9ncmFkZXMoaiwgamFycywgaXNfbWFqb3JfZG93bmdyYWRlKSkKICAgICMgICAgaWYgdXBkYXRlX3BvbGljeS5nZXQoJ29ubHlfbGF0ZXN0X21pbm9yJywgTm9uZSk6CiAgICAjICAgICAgICBmb3IgaiBpbiBqYXJzOg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGhhc191cGdyYWRlKGphciwgamFycyk6CiAgICBhcnRpZmFjdF9pZCA9IGdldF9hcnRpZmFjdF9pZChqYXIpCiAgICBqYXJfdmVyc2lvbiA9IGdldF92ZXJzaW9uKGphcikKICAgIHJldHVybiBhbnkoWwogICAgICAgIGFydGlmYWN0X2lkID09IGdldF9hcnRpZmFjdF9pZChqKQogICAgICAgIGFuZCBTdHJpY3RWZXJzaW9uKGphcl92ZXJzaW9uKSA8IFN0cmljdFZlcnNpb24oZ2V0X3ZlcnNpb24oaikpCiAgICAgICAgZm9yIGogaW4gamFycwogICAgXSkKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbnQodmVyc2lvbl90b19jaGVjay5zcGxpdCgnLicpWzBdKSA8IGludCh2ZXJzaW9uLnNwbGl0KCcuJylbMF0pCg==</text>
+        <text encoding="base64">ICAgIHggPSBbKHVwZGF0Mwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIGlzX21ham9yX2Rvd25ncmFkZSh2ZXJzaW9uX3RvX2NoZWNrLCB2ZXJzaW9uKToK</text>
+      <register name="9" type="4">
+        <text>De_policy.get('only_latest_major', None), is_major_downgrade),
+         (update_policy.get('only_latest_minor', None), is_minor_downgrade),
+         (update_policy.get('only_latest_patch', None), is_patch_downgrade)]</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
