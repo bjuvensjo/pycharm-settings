@@ -16,13 +16,13 @@
         <mark key="." line="143" column="42" />
         <mark key="^" line="143" column="42" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1560439683229">
-        <mark key="a" line="11" column="7" />
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="24" />
-        <mark key="." line="75" column="24" />
-        <mark key="^" line="75" column="24" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1560499294212">
+        <mark key="a" line="92" column="7" />
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
@@ -129,9 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/condep/assert_commit_id.py" />
-      <jump line="11" column="66" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="9" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="38" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
@@ -227,24 +224,27 @@
       <jump line="171" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="23" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="54" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="77" column="58" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="76" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>major_</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>major_</text>
       </register>
       <register name="/" type="4">
         <text>1.0.1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lX2RpY3RbZFsnbmFtZSddWyd2ZXJzaW9ucyddXS5hcHBlbmQoc2VsZWN0X2tleXMoZCwgWyduYW1lJywgJ3ZlcnNpb24nLCAnamFyJ10pKQo=</text>
+        <text encoding="base64">ICAgIGFydGlmYWN0X2lkID0gZ2V0X2FydGlmYWN0X2lkKGphcikKICAgIGphcl92ZXJzaW9uID0gZ2V0X3ZlcnNpb24oamFyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAiamFyIjogIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2kvc2lnbi0xLjAuMS1TTkFQU0hPVC5qYXIiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHNlbXZlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,28 +254,28 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoZGVwbG95cykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICAiamFyIjogIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2kvc2lnbi0xLjAuMS1TTkFQU0hPVC5qYXIiLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KG5hbWUsIGluZm8pCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>print(get_max(versions, major=True))
 print(get_max(versions, minor=True))
 print(get_max(versions, patch=True))
 print(get_max(versions))</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGdyb3VwcyA9IHtiYXNlbmFtZShkWydqYXInXSkuc3BsaXQoJy0nLCAxKVswXTogZCBmb3IgZCBpbiBkZXBsb3lzfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVfZGljdCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVfZGljdCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuYW1lX2RpY3RbXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWVfZGljdCkK</text>
       </register>
       <register name="x" type="4">
         <text />
