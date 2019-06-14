@@ -16,13 +16,10 @@
         <mark key="." line="143" column="42" />
         <mark key="^" line="143" column="42" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1560499294212">
-        <mark key="a" line="92" column="7" />
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1560501524732">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
@@ -129,9 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="44" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="43" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="7" column="9" filename="$USER_HOME$/git/scripts/vang/pio/slask.py" />
@@ -229,22 +223,25 @@
       <jump line="82" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="107" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="90" column="101" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
+      <jump line="45" column="72" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>major_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGhhc191cGdyYWRlKGphciwgamFycyk6CiAgICBhcnRpZmFjdF9pZCA9IGdldF9hcnRpZmFjdF9pZChqYXIpCiAgICBqYXJfdmVyc2lvbiA9IGdldF92ZXJzaW9uKGphcikKICAgIHJldHVybiBhbnkoWwogICAgICAgIGFydGlmYWN0X2lkID09IGdldF9hcnRpZmFjdF9pZChqKQogICAgICAgIGFuZCBTdHJpY3RWZXJzaW9uKGphcl92ZXJzaW9uKSA8IFN0cmljdFZlcnNpb24oZ2V0X3ZlcnNpb24oaikpCiAgICAgICAgZm9yIGogaW4gamFycwogICAgXSkKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>major_</text>
+        <text>minor</text>
       </register>
       <register name="/" type="4">
-        <text>1.0.1</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFydGlmYWN0X2lkID0gZ2V0X2FydGlmYWN0X2lkKGphcikKICAgIGphcl92ZXJzaW9uID0gZ2V0X3ZlcnNpb24oamFyKQo=</text>
+        <text encoding="base64">ZGVmIGlzX21pbm9yX2Rvd25ncmFkZSh2ZXJzaW9uX3RvX2NoZWNrLCB2ZXJzaW9uKToKICAgIHZjX21ham9yLCB2Y19taW5vciwgdmNfcGF0Y2ggPSBnZXRfdmVyc2lvbl9udW1iZXJzKHZlcnNpb25fdG9fY2hlY2spCiAgICB2X21ham9yLCB2X21pbm9yLCB2X3BhdGNoID0gZ2V0X3ZlcnNpb25fbnVtYmVycyh2ZXJzaW9uKQogICAgcmV0dXJuIHZjX21ham9yID09IHZfbWFqb3IgYW5kIHZjX21pbm9yIDwgdl9taW5vcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNlbXZlcgo=</text>
+        <text encoding="base64">ZGVmIGhhc191cGdyYWRlKGphciwgamFycyk6CiAgICBhcnRpZmFjdF9pZCA9IGdldF9hcnRpZmFjdF9pZChqYXIpCiAgICBqYXJfdmVyc2lvbiA9IGdldF92ZXJzaW9uKGphcikKICAgIHJldHVybiBhbnkoWwogICAgICAgIGFydGlmYWN0X2lkID09IGdldF9hcnRpZmFjdF9pZChqKQogICAgICAgIGFuZCBTdHJpY3RWZXJzaW9uKGphcl92ZXJzaW9uKSA8IFN0cmljdFZlcnNpb24oZ2V0X3ZlcnNpb24oaikpCiAgICAgICAgZm9yIGogaW4gamFycwogICAgXSkKCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,43 +251,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZGVwbG95cykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbnQodmVyc2lvbl90b19jaGVjay5zcGxpdCgnLicpWzBdKSA8IGludCh2ZXJzaW9uLnNwbGl0KCcuJylbMF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAiamFyIjogIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2kvc2lnbi0xLjAuMS1TTkFQU0hPVC5qYXIiLAo=</text>
+        <text encoding="base64">ZGVmIGlzX21ham9yX2Rvd25ncmFkZSh2ZXJzaW9uX3RvX2NoZWNrLCB2ZXJzaW9uKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWUsIGluZm8pCg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIFN0cmljdFZlcnNpb24odmVyc2lvbl90b19jaGVjay5zcGxpdCgnLicpWzBdKSA8IFN0cmljdFZlcnNpb24odmVyc2lvbi5zcGxpdCgnLicpWzBdKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>print(get_max(versions, major=True))
-print(get_max(versions, minor=True))
-print(get_max(versions, patch=True))
-print(get_max(versions))</text>
+      <register name="5" type="2">
+        <text encoding="base64">CmRlZiBnZXRfbWF4KHZlcnNpb25zLCBwYXRjaD1UcnVlLCBtaW5vcj1GYWxzZSwgbWFqb3I9RmFsc2UpOgogICAgc3BsaXRfaW5kZXggPSAyCiAgICBpZiBtaW5vcjoKICAgICAgICBzcGxpdF9pbmRleCA9IDEKICAgIGlmIG1ham9yOgogICAgICAgIHNwbGl0X2luZGV4ID0gMAoKICAgIGRlZiB0b19pbnQodmVyc2lvbik6CiAgICAgICAgcmV0dXJuIHZlcnNpb24uc3BsaXQoJy4nKVtzcGxpdF9pbmRleF0uc3BsaXQoJy0nKVswXQoKICAgIHppcHBlZCA9IGxpc3QoemlwKFt0b19pbnQodikgZm9yIHYgaW4gdmVyc2lvbnNdLCB2ZXJzaW9ucykpCiAgICByZXR1cm4gbWF4KHppcHBlZCwga2V5PWxhbWJkYSB4OiB4WzBdKVsxXQoKCmRlZiBncm91cF9ieV9uYW1lKGRlcGxveXMpOgogICAgbmFtZV9kaWN0ID0ge2RbJ25hbWUnXTogeyd2ZXJzaW9ucyc6IFtdLCAnZGVwbG95cyc6IFtdfSBmb3IgZCBpbiBkZXBsb3lzfQogICAgZm9yIGQgaW4gZGVwbG95czoKICAgICAgICBuYW1lX2RpY3RbZFsnbmFtZSddXVsndmVyc2lvbnMnXS5hcHBlbmQoZFsndmVyc2lvbiddKQogICAgICAgIG5hbWVfZGljdFtkWyduYW1lJ11dWydkZXBsb3lzJ10uYXBwZW5kKGQpCiAgICByZXR1cm4gbmFtZV9kaWN0CgoKZGVmIGdldF9vYnNvbGV0ZShncm91cHMsIHBhdGNoPVRydWUsIG1pbm9yPUZhbHNlLCBtYWpvcj1GYWxzZSk6CiAgICBvYnNvbGV0ZSA9IFtdCiAgICBmb3IgbmFtZSwgaW5mbyBpbiBncm91cHMuaXRlbXMoKToKICAgICAgICB2ZXJzaW9ucyA9IGluZm9bJ3ZlcnNpb25zJ10KICAgICAgICBkZXBsb3lzID0gaW5mb1snZGVwbG95cyddCiAgICAgICAgdGhlX21heCA9IGdldF9tYXgodmVyc2lvbnMsIHBhdGNoLCBtaW5vciwgbWFqb3IpCiAgICAgICAgb2Jzb2xldGUuYXBwZW5kKFtkIGZvciBkIGluIGRlcGxveXMgaWYgZFsndmVyc2lvbiddICE9IHRoZV9tYXhdKQogICAgICAgIHByaW50KHZlcnNpb25zKQogICAgICAgIHByaW50KGRlcGxveXMpCiAgICAgICAgcHJpbnQodGhlX21heCkKICAgICAgICByZXR1cm4gb2Jzb2xldGUKCgp2ZXJzaW9ucyA9IFsnMS4wLjAnLCAnMS4wLjExLVNOQVBTSE9UJywgJzEuMS4wJywgJzEuMTEuMCcsICcyLjAuMCcsICcxMS4wLjAnXQojIHByaW50KGdldF9tYXgodmVyc2lvbnMsIG1ham9yPVRydWUpKQojIHByaW50KGdldF9tYXgodmVyc2lvbnMsIG1pbm9yPVRydWUpKQojIHByaW50KGdldF9tYXgodmVyc2lvbnMsIHBhdGNoPVRydWUpKQojIHByaW50KGdldF9tYXgodmVyc2lvbnMpKQoKZGVwbG95cyA9IFsKICAgIHsKICAgICAgICAiamFyIjogIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMC1TTkFQU0hPVC5qYXIiLAogICAgICAgICJuYW1lIjogInNpZ24iLAogICAgICAgICJwaWQiOiA4MDEzOCwKICAgICAgICAicG9ydCI6IDEwMDAwLAogICAgICAgICJ2ZXJzaW9uIjogIjEuMC4wLVNOQVBTSE9UIgogICAgfSwKICAgIHsKICAgICAgICAiamFyIjogIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMTEtU05BUFNIT1QuamFyIiwKICAgICAgICAibmFtZSI6ICJzaWduIiwKICAgICAgICAicGlkIjogODI3ODEsCiAgICAgICAgInBvcnQiOiAxMDAwMSwKICAgICAgICAidmVyc2lvbiI6ICIxLjAuMTEtU05BUFNIT1QiCiAgICB9LAogICAgewogICAgICAgICJqYXIiOiAiL1VzZXJzL21hZ251cy9zbGFzay9jb25kZXAvZGVwbG95L2FwcC5zaWduLTEuMC4xLVNOQVBTSE9ULmphciIsCiAgICAgICAgIm5hbWUiOiAic2lnbiIsCiAgICAgICAgInBpZCI6IDgyNzgxLAogICAgICAgICJwb3J0IjogMTAwMDEsCiAgICAgICAgInZlcnNpb24iOiAiMS4wLjEtU05BUFNIT1QiCiAgICB9LAogICAgewogICAgICAgICJqYXIiOiAiL1VzZXJzL21hZ251cy9zbGFzay9jb25kZXAvZGVwbG95L2FwcC5zaWduLTEuMS4wLVNOQVBTSE9ULmphciIsCiAgICAgICAgIm5hbWUiOiAic2lnbiIsCiAgICAgICAgInBpZCI6IDgyNzgxLAogICAgICAgICJwb3J0IjogMTAwMDEsCiAgICAgICAgInZlcnNpb24iOiAiMS4xLjAtU05BUFNIT1QiCiAgICB9LAogICAgewogICAgICAgICJqYXIiOiAiL1VzZXJzL21hZ251cy9zbGFzay9jb25kZXAvZGVwbG95L2FwcC5zaS9zaWduLTIuMC4wLVNOQVBTSE9ULmphciIsCiAgICAgICAgIm5hbWUiOiAic2lnbiIsCiAgICAgICAgInBpZCI6IDgyNzgxLAogICAgICAgICJwb3J0IjogMTAwMDEsCiAgICAgICAgInZlcnNpb24iOiAiMi4wLjAtU05BUFNIT1QiCiAgICB9Cl0KZ3JvdXBzID0gZ3JvdXBfYnlfbmFtZShkZXBsb3lzKQpwcmludChncm91cHMpCgpvYnNvbGV0ZSA9IGdldF9vYnNvbGV0ZShncm91cHMpCnByaW50KG9ic29sZXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMC5qYXIiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyA9IHtiYXNlbmFtZShkWydqYXInXSkuc3BsaXQoJy0nLCAxKVswXTogZCBmb3IgZCBpbiBkZXBsb3lzfQo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oIi9Vc2Vycy9tYWdudXMvc2xhc2svY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMC1TTkFQU0hPVC5qYXIiKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVfZGljdCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGphcl9uYW1lKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVfZGljdCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGphcl92ZXJzaW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
     </registers>
     <search>
-      <last-search>1.0.1</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>1.0.1</last-pattern>
+      <last-pattern>int</last-pattern>
       <last-replace />
       <last-substitute>print.*</last-substitute>
       <last-dir>1</last-dir>
@@ -298,9 +292,6 @@ print(get_max(versions))</text>
     </search>
     <history>
       <history-search>
-        <entry>print.*</entry>
-        <entry>print</entry>
-        <entry>root</entry>
         <entry encoding="base64">XDxQb3Blblw+</entry>
         <entry>create</entry>
         <entry>log</entry>
@@ -318,6 +309,9 @@ print(get_max(versions))</text>
         <entry>add_depl</entry>
         <entry>sele</entry>
         <entry>1.0.1</entry>
+        <entry>SNAP</entry>
+        <entry>Major</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
