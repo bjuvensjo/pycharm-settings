@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1559042239931">
@@ -24,11 +24,12 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560525630640">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560592551431">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+        <mark key="^" line="8" column="69" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560434678821">
         <mark key="'" line="3" column="39" />
@@ -85,6 +86,12 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1560592788590">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
         <mark key="[" line="267" column="33" />
         <mark key="]" line="205" column="2" />
@@ -126,13 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
       <jump line="32" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
       <jump line="33" column="29" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
       <jump line="37" column="22" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" />
@@ -226,19 +226,26 @@
       <jump line="33" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="3" column="36" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="4" column="44" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmNfbWFqb3IsIHZjX21pbm9yLCB2Y19wYXRjaCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJqYXIsIGV4cGVjdGVkIiwgWwogICAgKCcvY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMS5qYXInLCAnMS4wLjEnKSwKICAgICgnL2NvbmRlcC9kZXBsb3kvYXBwLnNpZ24tMS4wLjEtU05BUFNIT1QuamFyJywgJzEuMC4xJyksCiAgICAoJy9jb25kZXAvZGVwbG95L2FwcC1zaWduLTEuMC4xLmphcicsICcxLjAuMScpLAogICAgKCcvY29uZGVwL2RlcGxveS9hcHAtc2lnbi0xLjAuMS1TTkFQU0hPVC5qYXInLCAnMS4wLjEnKSwKXSkKZGVmIHRlc3RfZ2V0X3ZlcnNpb24oamFyLCBleHBlY3RlZCk6CiAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gZ2V0X3ZlcnNpb24oamFyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>sign</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmNfbWFqb3IsIHZjX21pbm9yLCB2Y19wYXRjaCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJqYXIsIGV4cGVjdGVkIiwgWwogICAgKCcvY29uZGVwL2RlcGxveS9hcHAuc2lnbi0xLjAuMS5qYXInLCAnMS4wLjEnKSwKICAgICgnL2NvbmRlcC9kZXBsb3kvYXBwLnNpZ24tMS4wLjEtU05BUFNIT1QuamFyJywgJzEuMC4xJyksCiAgICAoJy9jb25kZXAvZGVwbG95L2FwcC1zaWduLTEuMC4xLmphcicsICcxLjAuMScpLAogICAgKCcvY29uZGVwL2RlcGxveS9hcHAtc2lnbi0xLjAuMS1TTkFQU0hPVC5qYXInLCAnMS4wLjEnKSwKXSkKZGVmIHRlc3RfZ2V0X3ZlcnNpb24oamFyLCBleHBlY3RlZCk6CiAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gZ2V0X3ZlcnNpb24oamFyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgICAgICAgICAgICB0b19yZW1vdmUudXBkYXRlKGdldF9kb3duX2dyYWRlcyhqLCBqYXJzLCBpc19wYXRjaF9kb3duZ3JhZGUpKQo=</text>
