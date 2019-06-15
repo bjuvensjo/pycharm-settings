@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1559042239931">
@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560605535718">
-        <mark key="[" line="93" column="92" />
-        <mark key="]" line="93" column="116" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="30" column="4" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560613603681">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560434678821">
         <mark key="'" line="3" column="39" />
