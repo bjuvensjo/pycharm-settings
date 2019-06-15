@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1559042239931">
@@ -85,16 +85,15 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1560605643214">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="49" column="58" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1560606483115">
+        <mark key="'" line="88" column="47" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1559419804954">
-        <mark key="[" line="267" column="33" />
-        <mark key="]" line="205" column="2" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1560606434637">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="39" column="5" />
         <mark key="^" line="205" column="2" />
         <mark key="." line="205" column="2" />
       </file>
@@ -133,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
       <jump line="11" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
@@ -233,22 +230,24 @@
       <jump line="48" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="35" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="47" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="79" column="47" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>partial(is_downgrade, 1))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="-" type="4">
-        <text>nn, version_to_check, version, expected&quot;</text>
+        <text>deploys_</text>
       </register>
       <register name="/" type="4">
         <text>pytest</text>
       </register>
-      <register name="0" type="4">
-        <text>partial(is_downgrade, 1))</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBkZXBsb3lzX2ZpeHR1cmUoKToKICAgIHJldHVybiBbCiAgICAgICAgewogICAgICAgICAgICAiY29tbWl0IjogIjliNTZhZjVlOWQ5ZThiYjU1ZDZiOWI2MDY1ZWY0ODhlNTQ0OTE4N2MiLAogICAgICAgICAgICAiamFyIjogImRlcGxveV9kaXIvYXBwLnNpZ24tMS4wLjAtU05BUFNIT1QuamFyIiwKICAgICAgICAgICAgIm10aW1lIjogIjIwMTgtMTItMTEgMDk6Mzg6MjguNjkzMjMxIiwKICAgICAgICAgICAgIm5hbWUiOiAic2lnbiIsCiAgICAgICAgICAgICJwaWQiOiA5MDgxNywKICAgICAgICAgICAgInBvcnQiOiA4MTAwLAogICAgICAgICAgICAidmVyc2lvbiI6ICIxLjAuMC1TTkFQU0hPVCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImNvbW1pdCI6ICI3Mzc2MWJmNDNkZThkMWQ4Nzg0Yjc3NjE2MTlhOTY2ZjA5M2MyODA3IiwKICAgICAgICAgICAgImphciI6ICJkZXBsb3lfZGlyL2FwcC50cmFuc2Zlci0xLjAuMC1TTkFQU0hPVC5qYXIiLAogICAgICAgICAgICAibXRpbWUiOiAiMjAxOC0xMi0xMSAwOTozNjowOC4yNzA1MDEiLAogICAgICAgICAgICAibmFtZSI6ICJ0cmFuc2ZlciIsCiAgICAgICAgICAgICJwaWQiOiA5MDgxOCwKICAgICAgICAgICAgInBvcnQiOiA4MTAxLAogICAgICAgICAgICAidmVyc2lvbiI6ICIxLjAuMC1TTkFQU0hPVCIKICAgICAgICB9LAogICAgXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgzLCAnMS4wLjEwMScsICcxLjAuMTAwJywgRmFsc2UpLAo=</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -258,31 +257,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgzLCAnMS4wLjEwMCcsICcxLjAuMTAxJywgVHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgyLCAnMS4yLjAnLCAnMS4xLjAnLCBGYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZlcnNpb24iOiAiMS4wLjAtU05BUFNIT1QiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgyLCAnMS4xLjAnLCAnMS4yLjAnLCBUcnVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBvcnQiOiA4MTAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICgxLCAnMi4wLjAnLCAnMS4wLjAnLCBGYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBpZCI6IDkwODE4LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgxLCAnMS4wLjAnLCAnMi4wLjAnLCBUcnVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAidHJhbnNmZXIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9kb3duX2dyYWRlcyhqYXIsIGphcnMsIGlzX2Rvd25ncmFkZV9mdW5jdGlvbik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm10aW1lIjogIjIwMTgtMTItMTEgMDk6MzY6MDguMjcwNTAxIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImphciI6ICJkZXBsb3lfZGlyL2FwcC50cmFuc2Zlci0xLjAuMC1TTkFQU0hPVC5qYXIiLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNyZXR1cm4gc1stMl0gKyBzWy0xXVs6LTRdIGlmIHNbLTFdLmxvd2VyKCkgPT0gJ3NuYXBzaG90LmphcicgZWxzZSBzWy0xXVs6LTRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbW1pdCI6ICI3Mzc2MWJmNDNkZThkMWQ4Nzg0Yjc3NjE2MTlhOTY2ZjA5M2MyODA3IiwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ms-sign/ms-security-signing</text>
