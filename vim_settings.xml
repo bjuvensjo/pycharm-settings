@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560719463764">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560754646468">
         <mark key="b" line="31" column="4" />
-        <mark key="'" line="19" column="23" />
-        <mark key="[" line="49" column="54" />
-        <mark key="]" line="49" column="54" />
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="28" />
         <mark key="^" line="49" column="54" />
         <mark key="." line="49" column="54" />
       </file>
@@ -51,12 +51,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560506557389">
-        <mark key="'" line="176" column="4" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="50" />
-        <mark key="." line="103" column="50" />
-        <mark key="^" line="100" column="9" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560754867445">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="104" column="41" />
+        <mark key="]" line="104" column="41" />
+        <mark key="." line="104" column="41" />
+        <mark key="^" line="104" column="40" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
         <mark key="'" line="75" column="4" />
@@ -135,9 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="69" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="23" column="4" filename="$USER_HOME$/git/scripts/vang/pio/tests/test_synchronize_dirs.py" />
       <jump line="8" column="39" filename="$USER_HOME$/git-csl/continuous.deployment/config/config.py" />
@@ -235,22 +232,25 @@
       <jump line="41" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="28" column="62" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="19" column="23" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="49" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="40" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(apps, deploys)</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>to</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgICAgaiBmb3IgaiBpbiBqYXJzIGlmIGFydGlmYWN0X2lkID09IGdldF9hcnRpZmFjdF9pZChqKSBhbmQgaXNfZG93bmdyYWRlX2Z1bmN0aW9uKGdldF92ZXJzaW9uKGopLCBqYXJfdmVyc2lvbikKICAgIF0K</text>
+      <register name="0" type="4">
+        <text>get_downgrades_to_remove(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZV9wb2xpY3kK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -259,41 +259,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
+      <register name="2" type="4">
+        <text>)
+    removed = []
+    if update_policy.get('only_latest_patch', None):
+        pass
+    return removed</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBuIGluIFtuIGZvciBiLCBuIGluIHppcChbdXBkYXRlX3BvbGljeS5nZXQoa2V5LCBOb25lKQo=</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGZvciBuIGluIFtuIGZvciBiLCBuIGluIHppcChbdXBkYXRlX3BvbGljeS5nZXQoa2V5LCBOb25lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZlcnNpb24iOiAiMS4wLjAtU05BUFNIT1QiCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBvcnQiOiA4MTAxLAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBpZCI6IDkwODE4LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZlcnNpb24iOiAiMS4wLjAtU05BUFNIT1QiCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAidHJhbnNmZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBvcnQiOiA4MTAxLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>to</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>to</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>-1</last-dir>
@@ -301,8 +305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v_numbers</entry>
-        <entry>==</entry>
         <entry>base</entry>
         <entry>version_</entry>
         <entry>down_</entry>
@@ -321,6 +323,8 @@
         <entry>config</entry>
         <entry>8100</entry>
         <entry>-</entry>
+        <entry>deployed_af</entry>
+        <entry>to</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
