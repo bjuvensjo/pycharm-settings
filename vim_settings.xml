@@ -24,9 +24,9 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560697698512">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560719463764">
         <mark key="b" line="31" column="4" />
-        <mark key="'" line="43" column="33" />
+        <mark key="'" line="19" column="23" />
         <mark key="[" line="49" column="54" />
         <mark key="]" line="49" column="54" />
         <mark key="^" line="49" column="54" />
@@ -39,7 +39,6 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1560244017543" />
       <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="2" />
@@ -59,7 +58,6 @@
         <mark key="." line="103" column="50" />
         <mark key="^" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/git/filter_branch.py" timestamp="1560350591378" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
         <mark key="'" line="75" column="4" />
       </file>
@@ -99,6 +97,9 @@
         <mark key="^" line="205" column="2" />
         <mark key="." line="205" column="2" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" timestamp="1560718943247">
+        <mark key="'" line="137" column="37" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="13" column="24" />
@@ -134,22 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="71" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
-      <jump line="48" column="36" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="71" column="7" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="14" column="4" filename="$USER_HOME$/git/scripts/vang/pio/tests/test_synchronize_dirs.py" />
-      <jump line="4" column="13" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="49" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
       <jump line="59" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
@@ -175,7 +160,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="90" column="101" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="45" column="72" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="33" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="50" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -190,11 +174,6 @@
       <jump line="1" column="7" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="2" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="3" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="7" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="8" column="75" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="11" column="14" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="13" column="39" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="16" column="30" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="20" column="10" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="7" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -219,10 +198,6 @@
       <jump line="47" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="50" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="79" column="47" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="32" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="38" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -231,9 +206,35 @@
       <jump line="17" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="34" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="43" column="47" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="25" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="44" column="33" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="7" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="31" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="35" column="19" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="44" column="81" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="8" column="51" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="168" column="11" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="149" column="16" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="135" column="14" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="132" column="36" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="131" column="20" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="127" column="35" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="124" column="45" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="115" column="45" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="137" column="37" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" />
+      <jump line="41" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="28" column="62" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +244,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JcPg==</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgICAgaiBmb3IgaiBpbiBqYXJzIGlmIGFydGlmYWN0X2lkID09IGdldF9hcnRpZmFjdF9pZChqKSBhbmQgaXNfZG93bmdyYWRlX2Z1bmN0aW9uKGdldF92ZXJzaW9uKGopLCBqYXJfdmVyc2lvbikKICAgIF0K</text>
@@ -290,36 +291,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JcPg==</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JcPg==</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YWxrX3RvXD4=</entry>
-        <entry>stop</entry>
-        <entry>)</entry>
-        <entry>removed_min</entry>
-        <entry>add_depl</entry>
-        <entry>sele</entry>
-        <entry>1.0.1</entry>
-        <entry>SNAP</entry>
-        <entry>Major</entry>
-        <entry>int</entry>
-        <entry>deploys</entry>
-        <entry>pass</entry>
-        <entry>'1.0.1'</entry>
-        <entry>jar</entry>
-        <entry>n</entry>
-        <entry>ms</entry>
-        <entry>ms-sign</entry>
-        <entry>down</entry>
-        <entry>pytest</entry>
-        <entry encoding="base64">XDxmb3JcPg==</entry>
+        <entry>v_numbers</entry>
+        <entry>==</entry>
+        <entry>base</entry>
+        <entry>version_</entry>
+        <entry>down_</entry>
+        <entry>func</entry>
+        <entry>snap</entry>
+        <entry>spli</entry>
+        <entry>hars</entry>
+        <entry>jars</entry>
+        <entry>majo</entry>
+        <entry>num</entry>
+        <entry>-1</entry>
+        <entry encoding="base64">IGQg</entry>
+        <entry>pr</entry>
+        <entry>balanc</entry>
+        <entry>lbmethod</entry>
+        <entry>config</entry>
+        <entry>8100</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
