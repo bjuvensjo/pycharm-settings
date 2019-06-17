@@ -32,6 +32,11 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_shell.py" timestamp="1560776708503">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="52" column="0" />
@@ -57,6 +62,12 @@
         <mark key="'" line="103" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="108" column="68" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/pom.xml" timestamp="1560776679496">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="55" />
+        <mark key="." line="66" column="55" />
+        <mark key="^" line="66" column="55" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
@@ -118,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="3" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="20" column="10" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -218,16 +228,17 @@
       <jump line="227" column="39" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="222" column="28" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="58" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>, manage_update_policy</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>manag</text>
+        <text>plu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBjb25kZXAubWFpbiBpbXBvcnQgZ2V0X25vdF9zdGFydGVkX2FwcHMsIG1hbmFnZV91cGRhdGVfcG9saWN5Cg==</text>
@@ -274,17 +285,16 @@
       </register>
     </registers>
     <search>
-      <last-search>manag</last-search>
+      <last-search>plu</last-search>
       <last-offset />
-      <last-pattern>manag</last-pattern>
+      <last-pattern>plu</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lbmethod</entry>
         <entry>config</entry>
         <entry>8100</entry>
         <entry>-</entry>
@@ -304,6 +314,7 @@
         <entry>unde</entry>
         <entry>fixture</entry>
         <entry>manag</entry>
+        <entry>plu</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
