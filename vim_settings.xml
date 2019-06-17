@@ -51,8 +51,8 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560760778833">
-        <mark key="'" line="117" column="25" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560760967721">
+        <mark key="'" line="6" column="26" />
         <mark key="^" line="118" column="25" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
@@ -78,18 +78,19 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1560606483115">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1560761644193">
         <mark key="'" line="88" column="47" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="." line="56" column="0" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1560606434637">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="205" column="2" />
-        <mark key="." line="205" column="2" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1560761993362">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="219" column="13" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" timestamp="1560718943247">
         <mark key="'" line="137" column="37" />
@@ -130,17 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="171" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="54" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
-      <jump line="90" column="101" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="45" column="72" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="33" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -230,22 +220,33 @@
       <jump line="16" column="28" filename="$USER_HOME$/git-csl/continuous.deployment/config/config.py" />
       <jump line="116" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="51" column="27" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" />
+      <jump line="6" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="193" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="205" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="206" column="20" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="209" column="101" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="190" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="191" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>get_diff_name_status</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>Removed</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb25kZXAuZ2l0IGltcG9ydCBjcmVhdGVfZ2l0aWdub3JlLCBnZXRfZGlmZl9uYW1lX3N0YXR1cwo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBqYXJzX2ZpeHR1cmUoKToKICAgIHJldHVybiBbJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywKICAgICAgICAgICAgJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMS4wLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTIuMC4wLVNOQVBTSE9ULmphciddCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBkZXBsb3llZF9maXh0dXJlKGphcnNfZml4dHVyZSk6CiAgICByZXR1cm4gW3snamFyJzogan0gZm9yIGogaW4gamFyc19maXh0dXJlXQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnd2FpdF9iZWZvcmVfdW5kZXBsb3knOiAK</text>
+        <text encoding="base64">ICAgIChbXSwgW10pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -255,58 +256,51 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRvd25ncmFkZXNfdG9fcmVtb3ZlKQo=</text>
+        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi5ybXRyZWUnKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi51bmRlcGxveScpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnd2FpdF9iZWZvcmVfdW5kZXBsb3knOiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRvd25ncmFkZXNfdG9fcmVtb3ZlKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KHVwZGF0ZV9wb2xpY3kK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>)
     removed = []
     if update_policy.get('only_latest_patch', None):
         pass
     return removed</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBuIGluIFtuIGZvciBiLCBuIGluIHppcChbdXBkYXRlX3BvbGljeS5nZXQoa2V5LCBOb25lKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>Removed</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>Removed</last-pattern>
+      <last-pattern>:</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>func</entry>
-        <entry>snap</entry>
-        <entry>spli</entry>
-        <entry>hars</entry>
-        <entry>jars</entry>
-        <entry>majo</entry>
-        <entry>num</entry>
         <entry>-1</entry>
         <entry encoding="base64">IGQg</entry>
         <entry>pr</entry>
@@ -320,6 +314,13 @@
         <entry encoding="base64">XDxtYW5hZ2VfdXBkYXRlX3BvbGljeVw+</entry>
         <entry>debug</entry>
         <entry>Removed</entry>
+        <entry>stop</entry>
+        <entry>path</entry>
+        <entry>man</entry>
+        <entry>rmtre</entry>
+        <entry>parame</entry>
+        <entry>pat</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
