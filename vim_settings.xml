@@ -32,12 +32,12 @@
         <mark key="^" line="49" column="54" />
         <mark key="." line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560434678821">
-        <mark key="'" line="3" column="39" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1560760610840">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
         <mark key="'" line="1" column="0" />
@@ -51,12 +51,9 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560754867445">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="104" column="41" />
-        <mark key="]" line="104" column="41" />
-        <mark key="." line="104" column="41" />
-        <mark key="^" line="104" column="40" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1560760778833">
+        <mark key="'" line="117" column="25" />
+        <mark key="^" line="118" column="25" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1559485297389">
         <mark key="'" line="75" column="4" />
@@ -67,12 +64,8 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560426414645">
+      <file name="/Dummy.txt" timestamp="1560760615760">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/core.py" timestamp="1559485459249">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1560261344466">
         <mark key="'" line="103" column="0" />
@@ -91,6 +84,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/config.py" timestamp="1560760559883" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1560606434637">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="39" column="5" />
@@ -120,7 +114,8 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1560429318191">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1560760793433">
+        <mark key="'" line="51" column="27" />
         <mark key="[" line="46" column="50" />
         <mark key="]" line="19" column="26" />
       </file>
@@ -135,16 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/git/scripts/vang/pio/tests/test_synchronize_dirs.py" />
-      <jump line="8" column="39" filename="$USER_HOME$/git-csl/continuous.deployment/config/config.py" />
-      <jump line="45" column="43" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" />
-      <jump line="90" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" />
-      <jump line="1" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/start.sh" />
-      <jump line="100" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="106" column="44" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="153" column="76" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="21" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="171" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="23" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" />
@@ -235,22 +220,32 @@
       <jump line="98" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="49" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="40" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="155" column="82" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="110" column="29" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="107" column="31" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="184" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="117" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="16" column="28" filename="$USER_HOME$/git-csl/continuous.deployment/config/config.py" />
+      <jump line="116" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="51" column="27" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(apps, deploys)</text>
+        <text>get_diff_name_status</text>
       </register>
       <register name="/" type="4">
-        <text>to</text>
+        <text>Removed</text>
       </register>
-      <register name="0" type="4">
-        <text>get_downgrades_to_remove(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBjb25kZXAuZ2l0IGltcG9ydCBjcmVhdGVfZ2l0aWdub3JlLCBnZXRfZGlmZl9uYW1lX3N0YXR1cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZV9wb2xpY3kK</text>
+        <text encoding="base64">ICAgICAgICAnd2FpdF9iZWZvcmVfdW5kZXBsb3knOiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -259,45 +254,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRvd25ncmFkZXNfdG9fcmVtb3ZlKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZV9wb2xpY3kK</text>
+      </register>
+      <register name="4" type="4">
         <text>)
     removed = []
     if update_policy.get('only_latest_patch', None):
         pass
     return removed</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBuIGluIFtuIGZvciBiLCBuIGluIHppcChbdXBkYXRlX3BvbGljeS5nZXQoa2V5LCBOb25lKQo=</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIFtwYXJ0aWFsKGlzX2Rvd25ncmFkZSwgbikgZm9yIGIsIG4gaW4gemlwKFt1cGRhdGVfcG9saWN5LmdldChrZXksIE5vbmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGZvciBuIGluIFtuIGZvciBiLCBuIGluIHppcChbdXBkYXRlX3BvbGljeS5nZXQoa2V5LCBOb25lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZlcnNpb24iOiAiMS4wLjAtU05BUFNIT1QiCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBvcnQiOiA4MTAxLAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>to</last-search>
+      <last-search>Removed</last-search>
       <last-offset />
-      <last-pattern>to</last-pattern>
+      <last-pattern>Removed</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>-1</last-dir>
@@ -305,9 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
-        <entry>version_</entry>
-        <entry>down_</entry>
         <entry>func</entry>
         <entry>snap</entry>
         <entry>spli</entry>
@@ -325,6 +317,9 @@
         <entry>-</entry>
         <entry>deployed_af</entry>
         <entry>to</entry>
+        <entry encoding="base64">XDxtYW5hZ2VfdXBkYXRlX3BvbGljeVw+</entry>
+        <entry>debug</entry>
+        <entry>Removed</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
