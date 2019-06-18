@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
         <mark key="'" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1560780072580" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1560842230841" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1560754646468">
         <mark key="b" line="31" column="4" />
         <mark key="'" line="40" column="4" />
@@ -64,6 +64,7 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="108" column="68" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/pytest-cov.sh" timestamp="1560842444022" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/pom.xml" timestamp="1560780055381">
         <mark key="[" line="66" column="45" />
         <mark key="]" line="66" column="55" />
