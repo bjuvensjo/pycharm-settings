@@ -9,15 +9,19 @@
       <file name="/a.dummy" timestamp="1560506520095">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1561030623390">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="143" column="42" />
+        <mark key="^" line="143" column="42" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1561018651667">
         <mark key="t" line="0" column="0" />
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/replace_in_files.py" timestamp="1560354339473">
-        <mark key="'" line="71" column="11" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1560842230841" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561024119483">
@@ -38,7 +42,14 @@
         <mark key="]" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1561024424383" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1561030295754" />
+      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561029748965">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="100" column="0" />
@@ -52,10 +63,22 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561031018460">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1561020515547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/pytest-cov.sh" timestamp="1560843324316" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
+        <mark key="[" line="53" column="71" />
+        <mark key="]" line="53" column="72" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="72" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561024096588">
         <mark key="'" line="114" column="71" />
         <mark key="[" line="111" column="54" />
@@ -64,21 +87,31 @@
         <mark key="^" line="114" column="71" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561029994858">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561030832876">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="17" column="71" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/tests/test_sync_configs.py" timestamp="1560718943247">
-        <mark key="'" line="137" column="37" />
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561020195665">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561030412486">
         <mark key="'" line="68" column="4" />
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="4" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="43" />
         <mark key="." line="57" column="4" />
         <mark key="^" line="68" column="3" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1560428847936">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_start.py" timestamp="1561020386506">
         <mark key="[" line="49" column="19" />
@@ -93,10 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="101" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="97" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="96" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="92" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="91" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="47" column="33" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -193,22 +222,26 @@
       <jump line="219" column="17" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="114" column="71" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="99" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
+      <jump line="21" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfcG9saWN5XD4=</text>
+        <text encoding="base64">XDxoZWFsdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBbRmFsc2UsIFRydWUsIEZhbHNlXSwK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgaGVhbHRoIGZvciAlcyBvZiBtb2R1bGUgJXMnLCBqYXJfbmFtZSwgbW9kdWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">IyBoZWFsdGggPSBnZXRfaGVhbHRoKCcvVXNlcnMvbWFnbnVzL3NsYXNrL2NvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -217,41 +250,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkZXBsb3lzOgo=</text>
+      <register name="2" type="4">
+        <text>ndep/state/state.json', 'app.transfer-1.1.0-SNAPSHOT.jar')
+# print(health)
+# health = get_health('/Users/magnus/slask/condep/state/state.json', 'app.xtransfer-1.1.0-SNAPSHOT.jar')
+# print(health)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KToKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB7CiAgICAgICAgICdvbmx5X2xhdGVzdF9tYWpvcic6IEZhbHNlLAogICAgICAgICAnb25seV9sYXRlc3RfbWlub3InOiBGYWxzZSwKICAgICAgICAgJ29ubHlfbGF0ZXN0X3BhdGNoJzogVHJ1ZSwKICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBkZXBsb3lzOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICB7CiAgICAgICAgICdvbmx5X2xhdGVzdF9tYWpvcic6IEZhbHNlLAogICAgICAgICAnb25seV9sYXRlc3RfbWlub3InOiBUcnVlLAogICAgICAgICAnb25seV9sYXRlc3RfcGF0Y2gnOiBGYWxzZSwKICAgICB9LAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KToKICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICB7CiAgICAgICAgICdvbmx5X2xhdGVzdF9tYWpvcic6IEZhbHNlLAogICAgICAgICAnb25seV9sYXRlc3RfbWlub3InOiBGYWxzZSwKICAgICAgICAgJ29ubHlfbGF0ZXN0X3BhdGNoJzogVHJ1ZSwKICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgJ29ubHlfbGF0ZXN0X3BhdGNoJzogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICB7CiAgICAgICAgICdvbmx5X2xhdGVzdF9tYWpvcic6IEZhbHNlLAogICAgICAgICAnb25seV9sYXRlc3RfbWlub3InOiBUcnVlLAogICAgICAgICAnb25seV9sYXRlc3RfcGF0Y2gnOiBGYWxzZSwKICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgJ29ubHlfbGF0ZXN0X21pbm9yJzogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICB9LAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgJ29ubHlfbGF0ZXN0X21ham9yJzogRmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgJ29ubHlfbGF0ZXN0X3BhdGNoJzogVHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfcG9saWN5XD4=</last-search>
+      <last-search encoding="base64">XDxoZWFsdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfcG9saWN5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoZWFsdGhcPg==</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>1</last-dir>
@@ -259,8 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
-        <entry>Removed</entry>
         <entry>stop</entry>
         <entry>path</entry>
         <entry>man</entry>
@@ -279,6 +313,8 @@
         <entry>#</entry>
         <entry>jars</entry>
         <entry encoding="base64">XDx1cGRhdGVfcG9saWN5XD4=</entry>
+        <entry>trans</entry>
+        <entry encoding="base64">XDxoZWFsdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/info/debug/gc</entry>
