@@ -92,12 +92,12 @@
         <mark key="^" line="114" column="71" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561039329354">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="13" column="81" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561040814594">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
@@ -131,9 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="79" column="47" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="32" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="30" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -231,22 +228,25 @@
       <jump line="68" column="13" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="38" column="20" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
+      <jump line="17" column="48" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
+      <jump line="65" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>logg</text>
+        <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1tJywKICAgICAgICAnLS1tb2R1bGUnLAogICAgICAgIGhlbHA9J1RoZSBjb25maWcgbW9kdWxlJywKICAgICAgICBkZWZhdWx0PSdjb25maWcnLAogICAgKQo=</text>
+      <register name="0" type="4">
+        <text>config_commit'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PScyMCcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,40 +256,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvZGUgPSAwIGlmIGhlYWx0aCBlbHNlIDEK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlPWludCwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlID0gMCBpZiBoZWFsdGggZWxzZSAxCg==</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAwIGlmIGhlYWx0aCBlbHNlIDEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgaGVhbHRoIGZvciAlcyBvZiBtb2R1bGUgJXMnLCBqYXJfbmFtZSwgbW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2RlID0gMCBpZiBoZWFsdGggZWxzZSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwPSdLZWVwIG9ubHkgbGF0ZXN0IG1ham9yIHZlcnNpb24nLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgaGVhbHRoIGZvciAlcyBvZiBtb2R1bGUgJXMnLCBqYXJfbmFtZSwgbW9kdWxlKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PSdjb25maWcnLAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwPSdLZWVwIG9ubHkgbGF0ZXN0IG1ham9yIHZlcnNpb24nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>logg</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>logg</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>-1</last-dir>
@@ -297,8 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
-        <entry>man</entry>
         <entry>rmtre</entry>
         <entry>parame</entry>
         <entry>pat</entry>
@@ -317,6 +315,8 @@
         <entry>trans</entry>
         <entry encoding="base64">XDxoZWFsdGhcPg==</entry>
         <entry>logg</entry>
+        <entry>comm</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>s/info/debug/gc</entry>
