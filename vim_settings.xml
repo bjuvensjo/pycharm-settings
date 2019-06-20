@@ -16,12 +16,12 @@
         <mark key="." line="143" column="42" />
         <mark key="^" line="143" column="42" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1561018651667">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1561039087872">
         <mark key="t" line="0" column="0" />
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="7" column="0" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1560842230841" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561032525717">
@@ -64,11 +64,11 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561031018460">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561033188397">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1561020515547">
         <mark key="[" line="0" column="0" />
@@ -92,12 +92,12 @@
         <mark key="^" line="114" column="71" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561031133032">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="54" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="17" column="71" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561039329354">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="13" column="81" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
@@ -237,16 +237,16 @@
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>logg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1hJywKICAgICAgICAnLS1vbmx5X2xhdGVzdF9tYWpvcicsCiAgICAgICAgaGVscD0nS2VlcCBvbmx5IGxhdGVzdCBtYWpvciB2ZXJzaW9uJywKICAgICAgICBhY3Rpb249J3N0b3JlX3RydWUnCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1tJywKICAgICAgICAnLS1tb2R1bGUnLAogICAgICAgIGhlbHA9J1RoZSBjb25maWcgbW9kdWxlJywKICAgICAgICBkZWZhdWx0PSdjb25maWcnLAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwPSdLZWVwIG9ubHkgbGF0ZXN0IG1ham9yIHZlcnNpb24nLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,40 +256,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAwIGlmIGhlYWx0aCBlbHNlIDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PSdjb25maWcnLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2RlID0gMCBpZiBoZWFsdGggZWxzZSAxCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n
-        '-m',
-        '--module',
-        help='The config module',</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnSGVhbHRoIG9mICVzIGlzICVzLCBzbyB3aWxsIGV4aXQgd2l0aCBjb2RlICVzJywgamFyX25hbWUsIGhlYWx0aCwgY29kZSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>t
-        default='config',
-    )
-    parser.add_argument(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgaGVhbHRoIGZvciAlcyBvZiBtb2R1bGUgJXMnLCBqYXJfbmFtZSwgbW9kdWxlKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>(
-        '-m',
-        '--module',
-        help='The config module',</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwPSdLZWVwIG9ubHkgbGF0ZXN0IG1ham9yIHZlcnNpb24nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PSdjb25maWcnLAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KGNvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PSdjb25maWcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
