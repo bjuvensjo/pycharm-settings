@@ -24,6 +24,9 @@
         <mark key="." line="18" column="5" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1560842230841" />
+      <file name="$USER_HOME$/git/scripts/setup.py" timestamp="1561067268649">
+        <mark key="[" line="22" column="57" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561032525717">
         <mark key="b" line="42" column="4" />
         <mark key="'" line="38" column="20" />
@@ -44,6 +47,12 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/setup.py" timestamp="1561067303604">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="19" column="88" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1561030295754" />
       <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
@@ -104,11 +113,12 @@
         <mark key="^" line="114" column="71" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561041629858">
-        <mark key="'" line="66" column="11" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561043187297">
+        <mark key="'" line="86" column="11" />
+        <mark key="[" line="51" column="126" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="43" column="49" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
@@ -142,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="17" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="34" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -242,22 +251,23 @@
       <jump line="42" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
       <jump line="31" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
       <jump line="23" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/slask/condep/env_config/app.sign-1.0.0-SNAPSHOT/M</text>
+        <text>/https://github.com/bjuvensjo/scripts&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>http</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCcvVXNlcnMvbWFnbnVzL3NsYXNrL2NvbmRlcC9lbnZfY29uZmlnL2FwcC5zaWduLTEuMC4wLVNOQVBTSE9UL01FVEEtSU5GL2J1aWxkX2NvbW1pdF9jb25maWd1cmF0aW9uJywgJ3J0JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgIHByaW50KGYucmVhZCgpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">YW5kIGNvbmZpZ3VyYXRpb24gY29tbWl0ICVzIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAiVG9waWMgOjogVXRpbGl0aWVzIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -267,40 +277,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIHggaW4gcmFuZ2UoMgo=</text>
+        <text encoding="base64">ICAgICAgICAiRGV2ZWxvcG1lbnQgU3RhdHVzIDo6ICIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KToKICAgIHByaW50KCIjIyMjIiwgeCkKICAgIGlmIHggKyAxIDwgMjoKICAgICAgICBzbGVlcCgyKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGF1dGhvcl9lbWFpbD0iYmp1dmVuc2pvQGdtYWlsLmNvbSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF9sb2FkZXJfcGF0aChsb2FkZXJfcGF0aCwgamFyKQo=</text>
+        <text encoding="base64">ICAgIGF1dGhvcj0iTWFnbnVzIEJqdXZlbnNqw7YiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGRlcGxveXM6Cg==</text>
+      <register name="5" type="4">
+        <text>'vang.artifactory', 'vang.bitbucket', 'vang.core', 'vang.git', 'vang.github', 'vang.maven', 'vang.misc',
+              'vang.nexus3', 'vang.pio', 'vang.tfs', 'vang.wildcat'</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYnamF2YSAtRGxvYWRlci5wYXRoPXtsb2FkZXJfcGF0aH0ve2Jhc2VuYW1lKGphcilbOi00XX0gLWphcicsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZXBsb3lzWzBdLmdldCgnaGVhbHRoJywgTm9uZSkgaWYgZGVwbG95cyBlbHNlIE5vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYnamF2YSAtRGxvYWRlci5wYXRoPXtsb2FkZXJfcGF0aH0ve2Jhc2VuYW1lKGphcilbOi00XX0gLWphcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYnamF2YSAtRGxvYWRlci5wYXRoPXtsb2FkZXJfcGF0aH0ve2Jhc2VuYW1lKGphcilbOi00XX0gLWphcicsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgogICAgZGVwbG95cyA9IFtkIGZvciBkIGluIGdldF9kZXBsb3lzKHN0YXRlX2ZpbGUpCiAgICAgICAgICAgICAgIGlmIGRbJ2phciddLmVuZHN3aXRoKGphcl9uYW1lKSBhbmQgKG5vdCBjb21taXQgb3IgZC5nZXQoJ2NvbW1pdCcsIE5vbmUpID09IGNvbW1pdCkgYW5kIChub3QgY29uZmlnX2NvbW1pdCBvciBkLmdldCgnY29tbWl0X2NvbmZpZ3VyYXRpb24nLCBOb25lKSA9PSBjb25maWdfY29tbWl0KV0=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PScyMCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>-1</last-dir>
@@ -308,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rmtre</entry>
         <entry>parame</entry>
         <entry>pat</entry>
         <entry>:</entry>
@@ -328,6 +338,7 @@
         <entry>logg</entry>
         <entry>comm</entry>
         <entry>main</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>s/info/debug/gc</entry>
