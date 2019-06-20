@@ -9,13 +9,6 @@
       <file name="/a.dummy" timestamp="1560506520095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" timestamp="1560266478885">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="143" column="35" />
-        <mark key="]" line="143" column="42" />
-        <mark key="." line="143" column="42" />
-        <mark key="^" line="143" column="42" />
-      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1560501524732">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -45,27 +38,15 @@
         <mark key="]" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/pio/slask.py" timestamp="1560240358954">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561016594941">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/nexus/download_latest_snapshot.py" timestamp="1559034275897">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="70" column="40" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561013910301">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="172" column="89" />
-        <mark key="^" line="118" column="25" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561014010346">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561016287544">
         <mark key="'" line="11" column="28" />
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="36" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="49" />
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
@@ -77,11 +58,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1560768509010">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/apip/deliver_contract.py" timestamp="1560261344466">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="108" column="68" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/pytest-cov.sh" timestamp="1560843324316" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/pom.xml" timestamp="1560780055381">
@@ -120,24 +96,16 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/git.py" timestamp="1560426372231">
-        <mark key="'" line="45" column="43" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="89" />
-      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_git.py" timestamp="1560426404463">
         <mark key="'" line="90" column="18" />
         <mark key="^" line="91" column="18" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/pio/tests/test_synchronize_dirs.py" timestamp="1560425467630">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1560760793433">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="46" column="50" />
-        <mark key="]" line="19" column="26" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561016720431">
+        <mark key="'" line="52" column="27" />
+        <mark key="[" line="56" column="52" />
+        <mark key="]" line="56" column="55" />
+        <mark key="." line="56" column="55" />
+        <mark key="^" line="56" column="55" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1560428847936">
         <mark key="[" line="4" column="28" />
@@ -150,8 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="10" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="7" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="8" column="20" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="23" column="28" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -250,22 +216,24 @@
       <jump line="58" column="24" filename="$USER_HOME$/git-csl/continuous.deployment/pom.xml" />
       <jump line="16" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/config/config.py" />
       <jump line="11" column="28" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" />
+      <jump line="174" column="56" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="177" column="19" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ping(state_file, host, name, version):</text>
+        <text>state_file</text>
       </register>
       <register name="/" type="4">
-        <text>ping</text>
+        <text>depl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb25kZXAubWFpbiBpbXBvcnQgZ2V0X25vdF9zdGFydGVkX2FwcHMsIG1hbmFnZV91cGRhdGVfcG9saWN5Cg==</text>
+      <register name="0" type="4">
+        <text>config['state_file'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBbXSA9PSBtb2NrX2dldF9kb3duZ3JhZGVzX3RvX3JlbW92ZS5tb2NrX2NhbGxzCg==</text>
+        <text encoding="base64">ICAgIHBpbmdlZCA9IHBpbmcoc3RhdGVfZmlsZSkKICAgIGZvciBkZXBsb3ksIGhlYWx0aCBpbiBwaW5nZWQ6CiAgICAgICAgbG9nLmluZm8oZGVwbG95KQogICAgICAgIGxvZy5pbmZvKGhlYWx0aCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -275,40 +243,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi5leGlzdHMnKQo=</text>
+        <text encoding="base64">ICAgIHBpbmdlZCA9IHBpbmcoc3RhdGVfZmlsZSkKICAgIGZvciBkZXBsb3ksIGhlYWx0aCBpbiBwaW5nZWQ6CiAgICAgICAgcHJpbnQoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi5yZW1vdmUnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBbXSA9PSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vY2tfZ2V0X2Rvd25ncmFkZXNfdG9fcmVtb3ZlLnJldHVybl92YWx1ZSA9IFtdCiAgICBhc3NlcnQgW10gPT0gbWFuYWdlX3VwZGF0ZV9wb2xpY3koZGVwbG95ZWRfZml4dHVyZSwgJ2xvYWRlcl9wYXRoJywgdXBkYXRlX3BvbGljeSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2tfZXhpc3RzLnJldHVybl92YWx1ZSA9IEZhbHNlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgbG9nLmluZm8oJ2RlcGxveWVkX2FmdGVyX3JlbW92ZWRfZG93bl9ncmFkZXMgJXMnLCBkZXBsb3llZF9hZnRlcl9yZW1vdmVkX2Rvd25fZ3JhZGVzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgZGVwbG95ZWRfYWZ0ZXJfcmVtb3ZlZF9kb3duX2dyYWRlcyA9IHJlbW92ZV9kZXBsb3lzKHN0YXRlX2ZpbGUsIHJlbW92ZWRfZG93bl9ncmFkZXMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgcmVtb3ZlZF9kb3duX2dyYWRlcyA9IG1hbmFnZV91cGRhdGVfcG9saWN5KGRlcGxveWVkX2FmdGVyX3N0YXJ0ZWQsIGxvYWRlcl9wYXRoLCB1cGRhdGVfcG9saWN5KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChbXSwgW10pLAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBbXSA9PSBtb2NrX2dldF9kb3duZ3JhZGVzX3RvX3JlbW92ZS5tb2NrX2NhbGxzCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi5ybXRyZWUnKQo=</text>
+        <text encoding="base64">QHBhdGNoKCdjb25kZXAubWFpbi5leGlzdHMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>ping</last-search>
+      <last-search>depl</last-search>
       <last-offset />
-      <last-pattern>ping</last-pattern>
+      <last-pattern>depl</last-pattern>
       <last-replace>ms-security-signing</last-replace>
       <last-substitute>ms-sign</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>8100</entry>
         <entry>-</entry>
         <entry>deployed_af</entry>
         <entry>to</entry>
@@ -336,6 +303,7 @@
         <entry>manag</entry>
         <entry>plu</entry>
         <entry>ping</entry>
+        <entry>depl</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
