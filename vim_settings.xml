@@ -30,15 +30,21 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561069807865">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561100541496">
         <mark key="b" line="42" column="4" />
         <mark key="'" line="38" column="20" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="55" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="80" column="22" />
+        <mark key="^" line="80" column="8" />
+        <mark key="." line="80" column="22" />
       </file>
       <file name="/main.py" timestamp="1561031670968" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561100678808">
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="15" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="87" column="15" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561042010935">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="16" />
@@ -56,6 +62,12 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/stop.py" timestamp="1561100837237">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_shell.py" timestamp="1560776708503">
         <mark key="[" line="35" column="23" />
@@ -76,12 +88,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561029748965">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561069215791">
         <mark key="[" line="3" column="22" />
@@ -106,14 +112,20 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" timestamp="1561100718159">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="36" />
+        <mark key="^" line="60" column="36" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/main/assembly/assembly.xml" timestamp="1561068820714" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/core.py" timestamp="1559485459249">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" timestamp="1561041788681">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" timestamp="1561100903964">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="36" column="15" />
+        <mark key="[" line="52" column="6" />
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="0" />
       </file>
@@ -132,6 +144,12 @@
         <mark key="^" line="114" column="71" />
       </file>
       <file name="/config.py" timestamp="1560760559883" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
+        <mark key="[" line="195" column="26" />
+        <mark key="]" line="195" column="26" />
+        <mark key="^" line="195" column="26" />
+        <mark key="." line="195" column="26" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561043187297">
         <mark key="'" line="86" column="11" />
         <mark key="[" line="51" column="126" />
@@ -277,7 +295,7 @@
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRlcnRvb2xzIA==</text>
+        <text>un_deploy</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -286,7 +304,7 @@
         <text encoding="base64">I3B5dGhvbjMgc2V0dXAucHkgc2Rpc3QgYmRpc3Rfd2hlZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIyIqIDgwKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ1VuZGVwbG95ZWQgJXMnLCByZXRyYWN0ZWQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -296,31 +314,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkb3duZ3JhZGVzX3RvX3JlbW92ZSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiIyIqIDgwKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkb3duZ3JhZGVzX3RvX3JlbW92ZSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqYXJzWzBdLCBkZXBsb3llZCwgKmFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIyIqIDgwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpY2Vuc2U9Ik1JVCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqYXJzWzBdLCBkZXBsb3llZCwgKmFyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpY2Vuc2U9Ik1JVCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIFJlbW92ZSBNYXZlbiBzdHVmZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnVpbGQK</text>
+        <text encoding="base64">IyMjIFJlbW92ZSBNYXZlbiBzdHVmZgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSBweXRob25fcGF0aC5zaAo=</text>
+        <text encoding="base64">YnVpbGQK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
