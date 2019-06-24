@@ -3,17 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/slask.py" timestamp="1561041898004">
-        <mark key="t" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
+      <file name="/a.dummy" timestamp="1560506520095">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561069747278">
         <mark key="[" line="25" column="78" />
         <mark key="]" line="25" column="78" />
         <mark key="." line="25" column="78" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" timestamp="1561380815413">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="37" column="71" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561379502572">
         <mark key="b" line="42" column="4" />
@@ -61,12 +63,8 @@
         <mark key="]" line="14" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561379183673">
-        <mark key="a" line="143" column="0" />
-        <mark key="'" line="125" column="1" />
-        <mark key="[" line="153" column="12" />
-        <mark key="]" line="153" column="12" />
-        <mark key="." line="153" column="12" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561379990120">
+        <mark key="a" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
@@ -74,8 +72,8 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/git/scripts/setup.py" timestamp="1561067268649">
-        <mark key="[" line="22" column="57" />
+      <file name="/Python Console" timestamp="1561380579546">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/.gitignore" timestamp="1561069343929">
         <mark key="[" line="24" column="4" />
@@ -125,6 +123,9 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561020515547">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" timestamp="1561371076345">
         <mark key="a" line="39" column="22" />
         <mark key="'" line="6" column="52" />
@@ -148,7 +149,7 @@
         <mark key="^" line="195" column="26" />
         <mark key="." line="195" column="26" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561379589485">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561380570841">
         <mark key="'" line="50" column="29" />
         <mark key="[" line="51" column="126" />
         <mark key="]" line="51" column="74" />
@@ -181,11 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
-      <jump line="193" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
-      <jump line="205" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
-      <jump line="206" column="20" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="209" column="101" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="186" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="190" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
@@ -281,22 +277,27 @@
       <jump line="89" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="63" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="50" column="29" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="6" column="14" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>retract_down</text>
+        <text encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHBhdGNoKCdjb25kZXAudXBkYXRlLmdldF9kZXBsb3lzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbCgpLl9fc3RyX18oKSwK</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,50 +307,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAuaGVhbHRoIGltcG9ydCBnZXRfaGVhbHRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbWFpbigpOgo=</text>
+        <text encoding="base64">ICAgICgnL2NvbmRlcC9kZXBsb3kvbXMtc2VjdXJpdHktc2lnbmluZy0xLjAuMS1TTkFQU0hPVC5qYXInLCAnbXMtc2VjdXJpdHktc2lnbmluZycpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgnL2NvbmRlcC9kZXBsb3kvbXMtc2VjdXJpdHktc2lnbmluZy0xLjAuMS5qYXInLCAnbXMtc2VjdXJpdHktc2lnbmluZycpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbm90X2RlcGxveWVkLmphcid9XSA9PSByZXRyYWN0X2Rvd25ncmFkZXMoJ25vdF9kZXBsb3llZC5qYXInLCB7J3N0YXRlX2ZpbGUnOiAnc3RhdGVfZmlsZScsICdsb2FkZXJfcGF0aCc6ICdsb2FkZXJfcGF0aCd9LCBGYWxzZSwgVHJ1ZSwgRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICgnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMS1TTkFQU0hPVC5qYXInLCAnbXMuc2VjdXJpdHkuc2lnbmluZycpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ30sCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJqYXIsIGV4cGVjdGVkIiwgWwogICAgKCcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLmphcicsICcxLjAuMScpLAogICAgKCcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcicsICcxLjAuMS1TTkFQU0hPVCcpLAogICAgKCcvY29uZGVwL2RlcGxveS9tcy1zZWN1cml0eS1zaWduaW5nLTEuMC4xLmphcicsICcxLjAuMScpLAogICAgKCcvY29uZGVwL2RlcGxveS9tcy1zZWN1cml0eS1zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcicsICcxLjAuMS1TTkFQU0hPVCcpLApdKQpkZWYgdGVzdF9nZXRfdmVyc2lvbihqYXIsIGV4cGVjdGVkKToKICAgIGFzc2VydCBleHBlY3RlZCA9PSBnZXRfdmVyc2lvbihqYXIpCgoKQHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJ2ZXJzaW9uLCBleHBlY3RlZCIsIFsKICAgICgnMS4wLjEnLCBbMSwgMCwgMV0pLAogICAgKCcxLjAuMS1TTkFQU0hPVCcsIFsxLCAwLCAxXSksCiAgICAoJzEwMC4xMDAuMTAwLVNOQVBTSE9UJywgWzEwMCwgMTAwLCAxMDBdKSwKXSkKZGVmIHRlc3RfZ2V0X3ZlcnNpb25fbnVtYmVycyh2ZXJzaW9uLCBleHBlY3RlZCk6CiAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gZ2V0X3ZlcnNpb25fbnVtYmVycyh2ZXJzaW9uKQoKCkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgibiwgdmVyc2lvbl90b19jaGVjaywgdmVyc2lvbiwgZXhwZWN0ZWQiLCBbCiAgICAoMCwgJzEuMC4wJywgJzIuMC4wJywgRmFsc2UpLAogICAgKDEsICcxLjAuMCcsICcyLjAuMCcsIFRydWUpLAogICAgKDEsICcyLjAuMCcsICcxLjAuMCcsIEZhbHNlKSwKICAgICgyLCAnMS4xLjAnLCAnMS4yLjAnLCBUcnVlKSwKICAgICgyLCAnMS4yLjAnLCAnMS4xLjAnLCBGYWxzZSksCiAgICAoMywgJzEuMC4xMDAnLCAnMS4wLjEwMScsIFRydWUpLAogICAgKDMsICcxLjAuMTAxJywgJzEuMC4xMDAnLCBGYWxzZSksCl0pCmRlZiB0ZXN0X2lzX2Rvd25ncmFkZShuLCB2ZXJzaW9uX3RvX2NoZWNrLCB2ZXJzaW9uLCBleHBlY3RlZCk6CiAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gaXNfZG93bmdyYWRlKG4sIHZlcnNpb25fdG9fY2hlY2ssIHZlcnNpb24pCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBqYXJzX2ZpeHR1cmUoKToKICAgIHJldHVybiBbJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywKICAgICAgICAgICAgJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMS4wLVNOQVBTSE9ULmphcicsCiAgICAgICAgICAgICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTIuMC4wLVNOQVBTSE9ULmphciddCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBkZXBsb3llZF9maXh0dXJlKGphcnNfZml4dHVyZSk6CiAgICByZXR1cm4gW3snamFyJzogan0gZm9yIGogaW4gamFyc19maXh0dXJlXQoKCkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgiamFyLCBpc19kb3duZ3JhZGVfZnVuY3Rpb24sIGV4cGVjdGVkIiwgWwogICAgKCcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTIuMC4wLVNOQVBTSE9ULmphcicsCiAgICAgcGFydGlhbChpc19kb3duZ3JhZGUsIDEpLAogICAgIFsnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMTEtU05BUFNIT1QuamFyJywKICAgICAgJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJywKICAgICAgJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4xLjAtU05BUFNIT1QuamFyJ10pLAogICAgKCcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMS4wLVNOQVBTSE9ULmphcicsCiAgICAgcGFydGlhbChpc19kb3duZ3JhZGUsIDIpLAogICAgIFsnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMTEtU05BUFNIT1QuamFyJywKICAgICAgJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ10pLAogICAgKCcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC45LVNOQVBTSE9ULmphcicsCiAgICAgcGFydGlhbChpc19kb3duZ3JhZGUsIDMpLAogICAgIFsnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMS1TTkFQU0hPVC5qYXInXSkKXSkKZGVmIHRlc3RfZ2V0X2Rvd25fZ3JhZGVzKGphciwgamFyc19maXh0dXJlLCBpc19kb3duZ3JhZGVfZnVuY3Rpb24sIGV4cGVjdGVkKToKICAgIGFzc2VydCBleHBlY3RlZCA9PSBnZXRfZG93bl9ncmFkZXMoamFyLCBqYXJzX2ZpeHR1cmUsIGlzX2Rvd25ncmFkZV9mdW5jdGlvbikKCgpAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoImphciwgaGVhbHRoX3BvbGljeSwgZXhwZWN0ZWQiLCBbCiAgICAoJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMi4wLjAtU05BUFNIT1QuamFyJywKICAgICBbVHJ1ZSwgVHJ1ZSwgVHJ1ZV0sCiAgICAgW3snamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJ30sCiAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAogICAgICB7J2phcic6ICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcid9LAogICAgICB7J2phcic6ICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMS4wLVNOQVBTSE9ULmphcid9XSksCiAgICAoJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMi4wLjAtU05BUFNIT1QuamFyJywKICAgICBbVHJ1ZSwgRmFsc2UsIEZhbHNlXSwKICAgICBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfSwKICAgICAgeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMTEtU05BUFNIT1QuamFyJ30sCiAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ30sCiAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4xLjAtU05BUFNIT1QuamFyJ31dKSwKICAgICgnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjEuMC1TTkFQU0hPVC5qYXInLAogICAgIFtGYWxzZSwgVHJ1ZSwgVHJ1ZV0sCiAgICAgW3snamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJ30sCiAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAogICAgICB7J2phcic6ICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4xLVNOQVBTSE9ULmphcid9XSksCiAgICAoJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4xLjAtU05BUFNIT1QuamFyJywKICAgICBbRmFsc2UsIFRydWUsIEZhbHNlXSwKICAgICBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfSwKICAgICAgeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMTEtU05BUFNIT1QuamFyJ30sCiAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ31dKSwKICAgICgnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMTEtU05BUFNIT1QuamFyJywKICAgICBbRmFsc2UsIEZhbHNlLCBUcnVlXSwKICAgICBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfSwKICAgICAgeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMS1TTkFQU0hPVC5qYXInfV0pLApdKQpkZWYgdGVzdF9nZXRfZG93bmdyYWRlc190b19yZW1vdmUoZGVwbG95ZWRfZml4dHVyZSwgamFyLCBoZWFsdGhfcG9saWN5LCBleHBlY3RlZCk6CiAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gZ2V0X2Rvd25ncmFkZXNfdG9fcmV0cmFjdChqYXIsIGRlcGxveWVkX2ZpeHR1cmUsICpoZWFsdGhfcG9saWN5KQoKCkBwYXRjaCgnY29uZGVwLmhlYWx0aC5ybXRyZWUnKQpAcGF0Y2goJ2NvbmRlcC5oZWFsdGguZXhpc3RzJykKQHBhdGNoKCdjb25kZXAuaGVhbHRoLnJlbW92ZScpCkBwYXRjaCgnY29uZGVwLmhlYWx0aC5yZXRyYWN0JykKQHBhdGNoKCdjb25kZXAuaGVhbHRoLmdldF9kb3duZ3JhZGVzX3RvX3JldHJhY3QnKQpAcGF0Y2goJ2NvbmRlcC5oZWFsdGguZ2V0X2RlcGxveXMnKQpkZWYgdGVzdF9yZXRyYWN0X2Rvd25ncmFkZXMobW9ja19nZXRfZGVwbG95cywgbW9ja19kb3duZ3JhZGVzX3RvX3JldHJhY3QsIG1vY2tfcmV0cmFjdCwgbW9ja19yZW1vdmUsIG1vY2tfZXhpc3RzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19ybXRyZWUpOgogICAgbW9ja19nZXRfZGVwbG95cy5yZXR1cm5fdmFsdWUgPSBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4xLjAtU05BUFNIT1QuamFyJ31dCiAgICBtb2NrX2Rvd25ncmFkZXNfdG9fcmV0cmFjdC5yZXR1cm5fdmFsdWUgPSBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfV0KICAgIG1vY2tfcmV0cmFjdC5yZXR1cm5fdmFsdWUgPSBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInfV0KICAgIG1vY2tfZXhpc3RzLnJldHVybl92YWx1ZSA9IFRydWUKCiAgICBhc3NlcnQgW3snamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJ31dID09IHJldHJhY3RfZG93bmdyYWRlcygKICAgICAgICAnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjEuMC1TTkFQU0hPVC5qYXInLCB7J3N0YXRlX2ZpbGUnOiAnc3RhdGVfZmlsZScsICdsb2FkZXJfcGF0aCc6ICdsb2FkZXJfcGF0aCd9LCBGYWxzZSwKICAgICAgICBUcnVlLCBGYWxzZSkKICAgIGFzc2VydCBbY2FsbCgnL2NvbmRlcC9kZXBsb3kvbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInKV0gPT0gbW9ja19yZW1vdmUubW9ja19jYWxscwogICAgYXNzZXJ0IFtjYWxsKCdsb2FkZXJfcGF0aC9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9UJyldID09IG1vY2tfcm10cmVlLm1vY2tfY2FsbHMKCiAgICBhc3NlcnQgbm90IHJldHJhY3RfZG93bmdyYWRlcygnbm90X2RlcGxveWVkLmphcicsIHsnc3RhdGVfZmlsZSc6ICdzdGF0ZV9maWxlJywgJ2xvYWRlcl9wYXRoJzogJ2xvYWRlcl9wYXRoJ30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGYWxzZSwgVHJ1ZSwgRmFsc2UpCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAo=</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAuaGVhbHRoIGltcG9ydCByZXRyYWN0X2Rvd25ncmFkZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAuaGVhbHRoIGltcG9ydCBpc19kb3duZ3JhZGUK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tfcmV0cmFjCg==</text>
+        <text encoding="base64">ZnJvbSBjb25kZXAuaGVhbHRoIGltcG9ydCBnZXRfdmVyc2lvbl9udW1iZXJzCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3BpbmcvdXBkYXRl</text>
+        <text>%s/update/health/g</text>
       </register>
     </registers>
     <search>
-      <last-search>retract_down</last-search>
+      <last-search encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</last-search>
       <last-offset />
-      <last-pattern>retract_down</last-pattern>
-      <last-replace>update</last-replace>
-      <last-substitute>ping</last-substitute>
+      <last-pattern encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</last-pattern>
+      <last-replace>health</last-replace>
+      <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remo</entry>
-        <entry>#</entry>
-        <entry>jars</entry>
         <entry encoding="base64">XDx1cGRhdGVfcG9saWN5XD4=</entry>
         <entry>trans</entry>
         <entry encoding="base64">XDxoZWFsdGhcPg==</entry>
@@ -367,11 +365,11 @@
         <entry>ms</entry>
         <entry>patch</entry>
         <entry>retract_down</entry>
+        <entry>,</entry>
+        <entry>update</entry>
+        <entry encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>s/debug/info/gc</entry>
-        <entry>s/debug/info/c</entry>
-        <entry>number</entry>
         <entry>set number</entry>
         <entry>set is</entry>
         <entry>set hlsearch</entry>
@@ -389,6 +387,9 @@
         <entry>req</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL3BpbmcvdXBkYXRl</entry>
+        <entry encoding="base64">JzwsJz5zLywvXHJmcm9tIGNvbmRlcC51cGRhdGUgaW1wb3J0Lw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvXHJmcm9tIGNvbmRlcC51cGRhdGUgaW1wb3J0L2c=</entry>
+        <entry>%s/update/health/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
