@@ -15,13 +15,13 @@
         <mark key="]" line="25" column="78" />
         <mark key="." line="25" column="78" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561373446750">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561379502572">
         <mark key="b" line="42" column="4" />
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="79" column="47" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="0" />
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="90" column="4" />
+        <mark key="." line="90" column="4" />
+        <mark key="^" line="90" column="4" />
       </file>
       <file name="/main.py" timestamp="1561031670968" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561366770979">
@@ -61,8 +61,12 @@
         <mark key="]" line="14" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561373920389">
-        <mark key="'" line="140" column="11" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561379183673">
+        <mark key="a" line="143" column="0" />
+        <mark key="'" line="125" column="1" />
+        <mark key="[" line="153" column="12" />
+        <mark key="]" line="153" column="12" />
+        <mark key="." line="153" column="12" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
         <mark key="[" line="14" column="14" />
@@ -144,8 +148,8 @@
         <mark key="^" line="195" column="26" />
         <mark key="." line="195" column="26" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561043187297">
-        <mark key="'" line="86" column="11" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" timestamp="1561379589485">
+        <mark key="'" line="50" column="29" />
         <mark key="[" line="51" column="126" />
         <mark key="]" line="51" column="74" />
         <mark key="." line="51" column="46" />
@@ -177,10 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="117" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="116" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="51" column="27" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" />
       <jump line="6" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="193" column="9" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
@@ -260,7 +260,6 @@
       <jump line="108" column="54" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="60" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="111" column="72" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="63" column="55" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="85" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="82" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -275,24 +274,29 @@
       <jump line="123" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="122" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="121" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="125" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="138" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="125" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="89" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
+      <jump line="50" column="29" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>ms</text>
+        <text>retract_down</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vY2tfZG93bmdyYWRlc190b19yZXRyYWN0LnJldHVybl92YWx1ZSA9IFt7J2phcic6ICcvY29uZGVwL2RlcGxveS9tcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcid9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ31dCg==</text>
+        <text encoding="base64">QHBhdGNoKCdjb25kZXAudXBkYXRlLmdldF9kZXBsb3lzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbCgpLl9fc3RyX18oKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -302,42 +306,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbWFpbigpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfbWFpbigpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbm90X2RlcGxveWVkLmphcid9XSA9PSByZXRyYWN0X2Rvd25ncmFkZXMoJ25vdF9kZXBsb3llZC5qYXInLCB7J3N0YXRlX2ZpbGUnOiAnc3RhdGVfZmlsZScsICdsb2FkZXJfcGF0aCc6ICdsb2FkZXJfcGF0aCd9LCBGYWxzZSwgVHJ1ZSwgRmFsc2UpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ30sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBbeydqYXInOiAnL2NvbmRlcC9kZXBsb3kvbm90X2RlcGxveWVkLmphcid9XSA9PSByZXRyYWN0X2Rvd25ncmFkZXMoJ25vdF9kZXBsb3llZC5qYXInLCB7J3N0YXRlX2ZpbGUnOiAnc3RhdGVfZmlsZScsICdsb2FkZXJfcGF0aCc6ICdsb2FkZXJfcGF0aCd9LCBGYWxzZSwgVHJ1ZSwgRmFsc2UpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjEtU05BUFNIT1QuamFyJ30sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnamFyJzogJy9jb25kZXAvZGVwbG95L21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjExLVNOQVBTSE9ULmphcid9LAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vY2tfcmV0cmFjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>t.return_value = [{'jar': '/condep/deploy/ms.security.signing-1.0.0-SNAPSHOT.jar'},
-                                 {'jar': '/condep/deploy/ms.security.signing-1.0.11-SNAPSHOT.jar'},
-                                 {'jar': '/condep/deploy/ms.security.signing-1.0.1-SNAPSHOT.jar'}]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1vY2tfcmV0cmFjCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BpbmcvdXBkYXRl</text>
       </register>
     </registers>
     <search>
-      <last-search>ms</last-search>
+      <last-search>retract_down</last-search>
       <last-offset />
-      <last-pattern>ms</last-pattern>
+      <last-pattern>retract_down</last-pattern>
       <last-replace>update</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -345,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depl</entry>
         <entry>remo</entry>
         <entry>#</entry>
         <entry>jars</entry>
@@ -362,9 +363,10 @@
         <entry>foo</entry>
         <entry>main</entry>
         <entry>def</entry>
-        <entry>patch</entry>
         <entry>ping</entry>
         <entry>ms</entry>
+        <entry>patch</entry>
+        <entry>retract_down</entry>
       </history-search>
       <history-cmd>
         <entry>s/debug/info/gc</entry>
