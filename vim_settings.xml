@@ -122,11 +122,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561384090430">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561385647653">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561020515547">
         <mark key="[" line="0" column="0" />
@@ -302,21 +302,24 @@
         <text encoding="base64">ICAgIFsnamFyX25hbWUnLCB7CiAgICAgICAgJ2phcl9uYW1lJzogJ2phcl9uYW1lJywKICAgICAgICAnbW9kdWxlJzogJ2NvbmZpZycsCiAgICAgICAgJ3JldHJpZXMnOiAxLAogICAgICAgICd3YWl0JzogMjAsCiAgICAgICAgJ2NvbW1pdCc6IE5vbmUsCiAgICAgICAgJ2NvbmZpZ19jb21taXQnOiBOb25lLAogICAgfV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIFRlc3RzIQo=</text>
+        <text encoding="base64">KiBwYWNrYWdlLnNoCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCBOb25lLCAnMScsIFRydWUpLAogICAgKCdtcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcicsICcxJywgTm9uZSwgVHJ1ZSksCiAgICAoJ21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywgTm9uZSwgTm9uZSwgVHJ1ZSksCg==</text>
+        <text encoding="base64">IyMjIFRlc3RzIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH1dLAo=</text>
+        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCBOb25lLCAnMScsIFRydWUpLAogICAgKCdtcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcicsICcxJywgTm9uZSwgVHJ1ZSksCiAgICAoJ21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywgTm9uZSwgTm9uZSwgVHJ1ZSksCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIH1dLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFsnamFyX25hbWUgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>-m m -a -b -c', {
         'jar_name': 'jar_name',
         'module': 'm',
@@ -324,23 +327,20 @@
         'only_latest_minor': True,
         'only_latest_patch': True,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">XSkKQHBhdGNoKCdjb25kZXAuaGVhbHRoLmV4aXQnKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0yLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICcxJywgTm9uZSksCg==</text>
+        <text encoding="base64">XSkKQHBhdGNoKCdjb25kZXAuaGVhbHRoLmV4aXQnKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICcxJywgVHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0yLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICcxJywgTm9uZSksCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICcxJywgVHJ1ZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
