@@ -98,11 +98,11 @@
         <mark key="]" line="91" column="33" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561020841179">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="37" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/stop.py" timestamp="1561100837237">
         <mark key="[" line="18" column="16" />
@@ -175,11 +175,11 @@
         <mark key="." line="57" column="4" />
         <mark key="^" line="68" column="3" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1561469805877">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="76" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1561474121253">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="4" column="27" />
-        <mark key="." line="1" column="73" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" timestamp="1561017573752">
         <mark key="'" line="39" column="0" />
@@ -298,52 +298,52 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/opt/insu/csp/condep'</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">d29ya19kaXIgPSAnL29wdC9pbnN1L2NzcC9jb25kZXAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkbG9nX2Rpcgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiA/Cg==</text>
+        <text encoding="base64">I3dvcmtfZGlyID0gJy9vcHQvaW5zdS9jc3AvY29uZGVwJwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">KiA/Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>### Update README.md
 
 * health.py
 * update.py</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBwYWNrYWdlLnNoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIFRlc3RzIQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCBOb25lLCAnMScsIFRydWUpLAogICAgKCdtcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcicsICcxJywgTm9uZSwgVHJ1ZSksCiAgICAoJ21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywgTm9uZSwgTm9uZSwgVHJ1ZSksCg==</text>
+        <text encoding="base64">KiBwYWNrYWdlLnNoCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH1dLAo=</text>
+        <text encoding="base64">IyMjIFRlc3RzIQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFsnamFyX25hbWUgCg==</text>
+        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCBOb25lLCAnMScsIFRydWUpLAogICAgKCdtcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcicsICcxJywgTm9uZSwgVHJ1ZSksCiAgICAoJ21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywgTm9uZSwgTm9uZSwgVHJ1ZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
