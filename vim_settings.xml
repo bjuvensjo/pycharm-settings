@@ -49,7 +49,6 @@
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/install_condep.sh" timestamp="1561477315405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="6" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561019708192">
@@ -103,6 +102,9 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="33" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
         <mark key="[" line="1" column="0" />
