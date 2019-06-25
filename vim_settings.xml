@@ -77,6 +77,12 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="22" />
+      </file>
       <file name="/Python Console" timestamp="1561382716085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,6 +143,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
+        <mark key="[" line="53" column="71" />
+        <mark key="]" line="53" column="72" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="72" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
         <mark key="]" line="195" column="26" />
@@ -156,6 +168,12 @@
         <mark key="]" line="42" column="43" />
         <mark key="." line="57" column="4" />
         <mark key="^" line="68" column="3" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/start.sh" timestamp="1561469805877">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="76" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="1" column="73" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_start.py" timestamp="1561020386506">
         <mark key="[" line="49" column="19" />
@@ -285,7 +303,7 @@
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHl0aG9uIHNldHVwLnB5IHNkaXN0IC0tZm9ybWF0cz16aXAK</text>
+        <text encoding="base64">bG9nX2Rpcj0kKGdyZXAgIndvcmtfZGlyID0iIC4vY29uZmlnL2NvbmZpZy5weSB8IHNlZCAicy8uKj0gKlwnXCguKlwpJy9cMS8iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiA/Cg==</text>
