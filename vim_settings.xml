@@ -46,6 +46,12 @@
         <mark key="." line="130" column="17" />
         <mark key="^" line="130" column="17" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/install_condep.sh" timestamp="1561477315405">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561019708192">
         <mark key="'" line="70" column="21" />
         <mark key="[" line="70" column="21" />
@@ -144,9 +150,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/python_path.sh" timestamp="1561470999474">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/python_path.sh" timestamp="1561477595636">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
@@ -189,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="224" column="22" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="226" column="68" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
       <jump line="233" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
@@ -289,6 +295,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="98" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="12" column="26" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/python_path.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,52 +305,52 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/opt/insu/csp/condep'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d29ya19kaXIgPSAnL29wdC9pbnN1L2NzcC9jb25kZXAnCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkbG9nX2Rpcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3dvcmtfZGlyID0gJy9vcHQvaW5zdS9jc3AvY29uZGVwJwo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkbG9nX2Rpcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiA/Cg==</text>
+        <text encoding="base64">I3dvcmtfZGlyID0gJy9vcHQvaW5zdS9jc3AvY29uZGVwJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">KiA/Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="2">
+        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>### Update README.md
 
 * health.py
 * update.py</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">KiBwYWNrYWdlLnNoCg==</text>
-      </register>
-      <register name="w" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyMjIFRlc3RzIQo=</text>
-      </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCBOb25lLCAnMScsIFRydWUpLAogICAgKCdtcy5zZWN1cml0eS5zaWduaW5nLTEuMC4wLVNOQVBTSE9ULmphcicsICcxJywgTm9uZSwgVHJ1ZSksCiAgICAoJ21zLnNlY3VyaXR5LnNpZ25pbmctMS4wLjAtU05BUFNIT1QuamFyJywgTm9uZSwgTm9uZSwgVHJ1ZSksCg==</text>
+        <text encoding="base64">KiBwYWNrYWdlLnNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
