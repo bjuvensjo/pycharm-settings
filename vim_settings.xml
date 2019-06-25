@@ -72,6 +72,11 @@
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561379990120">
         <mark key="a" line="149" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
       <file name="/Python Console" timestamp="1561382716085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,9 +115,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561384061192">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561449381950">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="34" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="6" />
       </file>
@@ -274,13 +279,13 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>retract</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFsnamFyX25hbWUnLCB7CiAgICAgICAgJ2phcl9uYW1lJzogJ2phcl9uYW1lJywKICAgICAgICAnbW9kdWxlJzogJ2NvbmZpZycsCiAgICAgICAgJ3JldHJpZXMnOiAxLAogICAgICAgICd3YWl0JzogMjAsCiAgICAgICAgJ2NvbW1pdCc6IE5vbmUsCiAgICAgICAgJ2NvbmZpZ19jb21taXQnOiBOb25lLAogICAgfV0sCg==</text>
+        <text encoding="base64">cHl0aG9uIHNldHVwLnB5IHNkaXN0IC0tZm9ybWF0cz16aXAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiA/Cg==</text>
