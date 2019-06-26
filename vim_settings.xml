@@ -44,12 +44,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561534874520">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561548422826">
         <mark key="'" line="5" column="97" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="2" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561384274072">
         <mark key="'" line="12" column="26" />
@@ -313,7 +313,7 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>is located.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>exists</text>
