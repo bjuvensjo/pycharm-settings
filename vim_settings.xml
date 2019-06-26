@@ -6,24 +6,17 @@
       <file name="/a.dummy" timestamp="1560506520095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561069747278">
-        <mark key="[" line="25" column="78" />
-        <mark key="]" line="25" column="78" />
-        <mark key="." line="25" column="78" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561551178412">
+        <mark key="[" line="144" column="101" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="144" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" timestamp="1561383713030">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="65" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" timestamp="1561379502572">
-        <mark key="b" line="42" column="4" />
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="4" />
-        <mark key="." line="90" column="4" />
-        <mark key="^" line="90" column="4" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561366770979">
         <mark key="'" line="22" column="0" />
