@@ -31,11 +31,8 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" timestamp="1561534752095">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" timestamp="1561552457199">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561550282864">
         <mark key="'" line="5" column="97" />
@@ -312,7 +309,7 @@
         <text>exists</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2QgJElOU1RBTExfUEFUSAouL3N0b3Auc2gKLi9zdGFydC5zaAoK</text>
+        <text encoding="base64">aW5jbHVkZSBweXRob25fcGF0aC5zaAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3B5dGhvbjMgc2V0dXAucHkgc2Rpc3QgYmRpc3Rfd2hlZWwK</text>
