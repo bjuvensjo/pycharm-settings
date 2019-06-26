@@ -44,12 +44,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561548422826">
+      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561550282864">
         <mark key="'" line="5" column="97" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="2" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561384274072">
         <mark key="'" line="12" column="26" />
@@ -319,7 +319,7 @@
         <text>exists</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2l0IHJldi1wYXJzZSBIRUFEID4gY29tbWl0X2lkCnB5dGhvbiBzZXR1cC5weSBzZGlzdCAtLWZvcm1hdHM9emlwCg==</text>
+        <text encoding="base64">Y2QgJElOU1RBTExfUEFUSAouL3N0b3Auc2gKLi9zdGFydC5zaAoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3B5dGhvbjMgc2V0dXAucHkgc2Rpc3QgYmRpc3Rfd2hlZWwK</text>
