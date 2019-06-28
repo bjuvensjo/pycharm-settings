@@ -18,6 +18,7 @@
         <mark key="]" line="37" column="65" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/main.py" timestamp="1561031670968" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561366770979">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="14" column="49" />
@@ -69,9 +70,7 @@
         <mark key="^" line="43" column="33" />
         <mark key="o" line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" timestamp="1561379990120">
-        <mark key="a" line="149" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561726321426" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
         <mark key="[" line="32" column="5" />
         <mark key="]" line="32" column="5" />
@@ -130,6 +129,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1561030295754" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561535123256">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="35" />
@@ -149,12 +149,15 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/main/assembly/assembly.xml" timestamp="1561068820714" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/pytest-cov.sh" timestamp="1560843324316" />
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
         <mark key="]" line="53" column="72" />
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
+      <file name="/config.py" timestamp="1560760559883" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
         <mark key="]" line="195" column="26" />
