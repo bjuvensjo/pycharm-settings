@@ -70,6 +70,12 @@
         <mark key="^" line="43" column="33" />
         <mark key="o" line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/git/scripts/vang/slask.json" timestamp="1561982055308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561726321426" />
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
         <mark key="[" line="32" column="5" />
