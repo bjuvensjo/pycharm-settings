@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/wildcat2/pipeline/continuous_delivery.py" timestamp="1561991814741" />
+      <file name="$USER_HOME$/git/wildcat2/config/env_secret" timestamp="1561991744363">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="/a.dummy" timestamp="1560506520095">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,7 +318,7 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>exists</text>
