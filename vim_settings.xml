@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/wildcat2/pipeline/continuous_delivery.py" timestamp="1561991814741" />
@@ -82,7 +82,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561726321426" />
+      <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
         <mark key="[" line="32" column="5" />
         <mark key="]" line="32" column="5" />
@@ -94,6 +98,7 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/git/wildcat2/Dockerfile" timestamp="1561992426520" />
       <file name="/Python Console" timestamp="1561382716085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,7 +323,7 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>exists</text>
