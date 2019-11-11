@@ -173,9 +173,9 @@
         <mark key="." line="51" column="46" />
         <mark key="^" line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/get_dependencies.py" timestamp="1573481931686">
-        <mark key="[" line="75" column="68" />
-        <mark key="]" line="75" column="87" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/get_dependencies.py" timestamp="1573486758662">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561030412486">
         <mark key="'" line="68" column="4" />
@@ -202,13 +202,11 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573482411745">
-        <mark key="a" line="65" column="18" />
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="95" column="0" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573487238484">
+        <mark key="[" line="68" column="88" />
+        <mark key="]" line="61" column="51" />
+        <mark key="." line="61" column="51" />
+        <mark key="^" line="61" column="39" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573480793941">
         <mark key="'" line="138" column="0" />
@@ -217,16 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" />
-      <jump line="140" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="152" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="133" column="3" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="124" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="123" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="122" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="121" column="15" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="138" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="143" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="125" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="2" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
@@ -317,8 +305,66 @@
       <jump line="82" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="60" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="52" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="8" column="41" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="57" column="51" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="58" column="53" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="59" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="61" column="51" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
@@ -326,61 +372,103 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
         <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHJlcG9fZGlyID0gJy9Vc2Vycy9tYWdudXMvc2xhc2svZm9vL3htbC53cycKICAgIGVzX2JyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicKICAgIHRmc19wcm9qZWN0ID0gJ0NTTCcKICAgIHRmc19icmFuY2ggPSAnbWFzdGVyJwogICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
+      <register name="/" type="4">
+        <text>print</text>
+      </register>
+      <register name="0" type="4">
+        <text>push_output)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
+      <register name="q" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IyBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgojICAgICByZXBvX2RpciA9ICcvVXNlcnMvbWFnbnVzL3NsYXNrL2Zvby94bWwud3MnCiMgICAgIGVzX2JyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicKIyAgICAgdGZzX3Byb2plY3QgPSAnQ1NMJwojICAgICB0ZnNfYnJhbmNoID0gJ21hc3RlcicKIyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCiMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoX291dHB1dCA9ICcjIyMjIyMjIyMjIyMjIyMnCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>r
-e
-t
-t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVzX29yaWdpbl91cmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -388,8 +476,6 @@ t</text>
     </search>
     <history>
       <history-search>
-        <entry>patch</entry>
-        <entry>retract_down</entry>
         <entry>,</entry>
         <entry encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</entry>
         <entry>pytest</entry>
@@ -408,6 +494,8 @@ t</text>
         <entry>merge</entry>
         <entry>'</entry>
         <entry>)</entry>
+        <entry>loggin</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>help ge</entry>
