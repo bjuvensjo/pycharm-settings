@@ -1,9 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/wildcat2/pipeline/continuous_delivery.py" timestamp="1561991814741" />
+      <file name="/Python Console" timestamp="1561382716085">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573475413482">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="124" column="41" />
+      </file>
       <file name="$USER_HOME$/git/wildcat2/config/env_secret" timestamp="1561991744363">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -11,6 +18,12 @@
       </file>
       <file name="/a.dummy" timestamp="1560506520095">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitattributes" timestamp="1561473109543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561551178412">
         <mark key="[" line="144" column="101" />
@@ -24,7 +37,20 @@
         <mark key="]" line="37" column="65" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/main.py" timestamp="1561031670968" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitignore" timestamp="1561535002029">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" timestamp="1561372649694">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561366770979">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="14" column="49" />
@@ -41,86 +67,11 @@
       <file name="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" timestamp="1561552457199">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561550282864">
-        <mark key="'" line="5" column="97" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561384274072">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="130" column="14" />
-        <mark key="]" line="130" column="17" />
-        <mark key="." line="130" column="17" />
-        <mark key="^" line="130" column="17" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/install_condep.sh" timestamp="1561477315405">
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" timestamp="1573475517338">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561019708192">
-        <mark key="'" line="70" column="21" />
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="70" column="49" />
-        <mark key="." line="30" column="36" />
-        <mark key="^" line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" timestamp="1561533754530">
-        <mark key="a" line="73" column="3" />
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="o" line="73" column="3" />
-      </file>
-      <file name="$USER_HOME$/git/scripts/vang/slask.json" timestamp="1561982055308">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/wildcat2/Dockerfile" timestamp="1561992426520" />
-      <file name="/Python Console" timestamp="1561382716085">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitattributes" timestamp="1561473109543">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitignore" timestamp="1561535002029">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" timestamp="1561372649694">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="33" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
-        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
         <mark key="[" line="1" column="0" />
@@ -146,16 +97,50 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/create_variable_script.py" timestamp="1561030295754" />
+      <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561550282864">
+        <mark key="'" line="5" column="97" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561384274072">
+        <mark key="'" line="12" column="26" />
+        <mark key="[" line="130" column="14" />
+        <mark key="]" line="130" column="17" />
+        <mark key="." line="130" column="17" />
+        <mark key="^" line="130" column="17" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/tfs/install_condep.sh" timestamp="1561477315405">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561535123256">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561019708192">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="49" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561387378125">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" timestamp="1561533754530">
+        <mark key="a" line="73" column="3" />
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="o" line="73" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1561020515547">
         <mark key="[" line="0" column="0" />
@@ -166,15 +151,28 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/main/assembly/assembly.xml" timestamp="1561068820714" />
-      <file name="$USER_HOME$/git-csl/continuous.deployment/pytest-cov.sh" timestamp="1560843324316" />
+      <file name="$USER_HOME$/git/scripts/vang/slask.json" timestamp="1561982055308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
         <mark key="]" line="53" column="72" />
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="/config.py" timestamp="1560760559883" />
+      <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_apache.py" timestamp="1561448948977">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
         <mark key="]" line="195" column="26" />
@@ -187,6 +185,12 @@
         <mark key="]" line="9" column="54" />
         <mark key="." line="51" column="46" />
         <mark key="^" line="43" column="49" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561030412486">
         <mark key="'" line="68" column="4" />
@@ -214,21 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="56" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="177" column="19" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" />
-      <jump line="70" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" />
-      <jump line="71" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="40" column="3" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="56" column="12" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="219" column="17" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" />
-      <jump line="114" column="71" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="11" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
       <jump line="156" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/cd.tfs.scripts/src/apache/sync_configs.py" />
@@ -314,6 +303,21 @@
       <jump line="56" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" />
       <jump line="72" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" />
       <jump line="5" column="97" filename="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" />
+      <jump line="125" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="124" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,61 +330,61 @@
         <text>src</text>
       </register>
       <register name="/" type="4">
-        <text>exists</text>
+        <text>def</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSBweXRob25fcGF0aC5zaAo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHJlCmZyb20gZ2xvYiBpbXBvcnQgZ2xvYgpmcm9tIG9zIGltcG9ydCBtYWtlZGlycwpmcm9tIG9zLnBhdGggaW1wb3J0IGlzZmlsZQpmcm9tIHNodXRpbCBpbXBvcnQgY29weWZpbGUKZnJvbSBzeXMgaW1wb3J0IGFyZ3YKCmZyb20gbWF2ZW4uZ2V0X2RlcGVuZGVuY2llcyBpbXBvcnQgZ2V0X21vZHVsZXNfZGVwZW5kZW5jaWVzCgpsb2dnaW5nLmJhc2ljQ29uZmlnKGxldmVsPWxvZ2dpbmcuSU5GTykKCgpkZWYgZmluZF9lc19tb2R1bGVzKHByb2plY3RfZGlyLCByZXBvLCBpbmNsdWRlPSgnc2UubGYuKicsKSwgZXhjbHVkZT0oKSk6CiAgICBlc19tb2R1bGVzID0gW10KICAgIGZvciBtb2R1bGUsIGRpcmVjdCwgdHJhbnNpdGl2ZSBpbiBnZXRfbW9kdWxlc19kZXBlbmRlbmNpZXMoZid7cHJvamVjdF9kaXJ9L3tyZXBvfS9wb20ueG1sJyk6CiAgICAgICAgZm9yIGQgaW4gZGlyZWN0ICsgdHJhbnNpdGl2ZToKICAgICAgICAgICAgaWYgbm90IGFueShyZS5mdWxsbWF0Y2goZiwgZCkgZm9yIGYgaW4gZXhjbHVkZSkgYW5kIGFueShyZS5mdWxsbWF0Y2goZiwgZCkgZm9yIGYgaW4gaW5jbHVkZSk6CiAgICAgICAgICAgICAgICBlc19tb2R1bGVzLmFwcGVuZChkKQogICAgcmV0dXJuIHNvcnRlZChzZXQoZXNfbW9kdWxlcykpCgoKZGVmIGNvcHlfdGVtcGxhdGVfZmlsZXModGVtcGxhdGVzX3NyYywgdGVtcGxhdGVzX3NpbmssIHRlbXBsYXRlcyk6CiAgICBjb3BpZWRfdGVtcGxhdGVfZmlsZXMgPSBbXQogICAgZm9yIHRlbXBsYXRlIGluIHRlbXBsYXRlczoKICAgICAgICBzaW5rX3BhdGggPSBmJ3t0ZW1wbGF0ZXNfc2lua317dGVtcGxhdGVbbGVuKHRlbXBsYXRlc19zcmMpOl19JwogICAgICAgIG1ha2VkaXJzKHNpbmtfcGF0aC5yc3BsaXQoJy8nLCBtYXhzcGxpdD0xKVswXSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBjb3B5ZmlsZSh0ZW1wbGF0ZSwgc2lua19wYXRoKQogICAgICAgIGNvcGllZF90ZW1wbGF0ZV9maWxlcy5hcHBlbmQoKHRlbXBsYXRlLCBzaW5rX3BhdGgpKQogICAgcmV0dXJuIGNvcGllZF90ZW1wbGF0ZV9maWxlcwoKCmRlZiBtYXBfdG9fcHJvcGVydHlfZmlsZSh0ZW1wbGF0ZXNfc3JjLCBwbGFjZWhvbGRlcik6CiAgICBwcm9wZXJ0eV9maWxlcyA9IFtdCiAgICBwcm9wZXJ0eV9maWxlID0gcGxhY2Vob2xkZXJbMjotMV0ucnNwbGl0KCcuJywgbWF4c3BsaXQ9MSlbMF0ucmVwbGFjZSgnLicsICcvJykKICAgIHZhbGlkX2VuZGluZ3MgPSBbJy1lbnYucHJvcGVydGllcycsICcucHJvcGVydGllcyddCiAgICBmb3IgZW5kaW5nIGluIHZhbGlkX2VuZGluZ3M6CiAgICAgICAgc3JjX3BhdGggPSBmJ3t0ZW1wbGF0ZXNfc3JjfS97cHJvcGVydHlfZmlsZX17ZW5kaW5nfScKICAgICAgICBpZiBpc2ZpbGUoc3JjX3BhdGgpOgogICAgICAgICAgICBwcm9wZXJ0eV9maWxlcy5hcHBlbmQoc3JjX3BhdGgpCiAgICBpZiBub3QgcHJvcGVydHlfZmlsZXM6CiAgICAgICAgbG9nZ2luZy5jcml0aWNhbCgnTm8gdGVtcGxhdGUgZm91bmQgZm9yIHBsYWNlaG9sZGVyOiAlcycsIHBsYWNlaG9sZGVyKQogICAgcmV0dXJuIHByb3BlcnR5X2ZpbGVzCgoKZGVmIGZpbmRfdGVtcGxhdGVzX2luX2ZpbGUodGVtcGxhdGVzX3NyYywgZmlsZV9wYXRoLCBlbmNvZGluZz0ndXRmLTgnKToKICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlID0gc2V0KCkKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZV9wYXRoLCAncnQnLCBlbmNvZGluZz1lbmNvZGluZykgYXMgZjoKICAgICAgICAgICAgZm9yIGxpbmUgaW4gZi5yZWFkbGluZXMoKToKICAgICAgICAgICAgICAgIG0gPSByZS5maW5kYWxsKHInQHtbXC1fLmEtekEtWjAtOS9dKz99JywgbGluZSkKICAgICAgICAgICAgICAgIGlmIG06CiAgICAgICAgICAgICAgICAgICAgZm9yIHIgaW4gbToKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlfZmlsZXMgPSBtYXBfdG9fcHJvcGVydHlfZmlsZSh0ZW1wbGF0ZXNfc3JjLCByKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBwcm9wZXJ0eV9maWxlczoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBwcm9wZXJ0eV9maWxlIGluIHByb3BlcnR5X2ZpbGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlLmFkZChwcm9wZXJ0eV9maWxlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlLnVwZGF0ZShmaW5kX3RlbXBsYXRlc19pbl9maWxlKHRlbXBsYXRlc19zcmMsIHByb3BlcnR5X2ZpbGUpKQogICAgZXhjZXB0IFVuaWNvZGVEZWNvZGVFcnJvciBhcyBlOgogICAgICAgIGlmIGVuY29kaW5nID09ICd1dGYtOCc6CiAgICAgICAgICAgIGxvZ2dpbmcuY3JpdGljYWwoJyVzIGlzIG5vdCB1dGYtOCBlbmNvZGVkLiBSZXRyaWVzIHdpdGggaXNvLTg4NTktMS4nLCBmaWxlX3BhdGgpCiAgICAgICAgICAgIHJldHVybiBmaW5kX3RlbXBsYXRlc19pbl9maWxlKHRlbXBsYXRlc19zcmMsIGZpbGVfcGF0aCwgJ2lzby04ODU5LTEnKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0NhbiBub3QgcmVhZCAlcyB3aXRoIHV0Zi04IG9yIGlzby04ODU5LTEnLCBmaWxlX3BhdGgpCiAgICAgICAgICAgIHByaW50KGYnQ2FuIG5vdCByZWFkIHtmaWxlX3BhdGh9JywgZSkKICAgIHJldHVybiBmb3VuZF90ZW1wbGF0ZXNfaW5fZmlsZQoKCmRlZiBmaW5kX3RlbXBsYXRlcyhnbG9iX3BhdHRlcm4sIHRlbXBsYXRlc19zcmMsIGVuZGluZ3M9KCdqYXZhJywgJ2dyb292eScsICd4bWwnLCAncHJvcGVydGllcycpKToKICAgIGZvdW5kX3RlbXBsYXRlcyA9IHNldCgpCiAgICBmb3IgZmlsZV9wYXRoIGluIGdsb2IoZ2xvYl9wYXR0ZXJuLCByZWN1cnNpdmU9VHJ1ZSk6CiAgICAgICAgaWYgaXNmaWxlKGZpbGVfcGF0aCkgYW5kIGZpbGVfcGF0aC5yc3BsaXQoJy4nLCBtYXhzcGxpdD0xKVsxXSBpbiBlbmRpbmdzOgogICAgICAgICAgICBmb3VuZF90ZW1wbGF0ZXMudXBkYXRlKGZpbmRfdGVtcGxhdGVzX2luX2ZpbGUodGVtcGxhdGVzX3NyYywgZmlsZV9wYXRoKSkKICAgIHJldHVybiBmb3VuZF90ZW1wbGF0ZXMKCgpkZWYgbWFpbih0ZW1wbGF0ZXNfc3JjLCB0ZW1wbGF0ZXNfc2luaywgcHJvamVjdF9kaXIsIHJlcG9zKToKICAgIGNvcGllZCA9IHNldCgpCiAgICBmb3IgcmVwbyBpbiByZXBvczoKICAgICAgICBmb3VuZF9yZXBvcyA9IFtyZXBvXQoKICAgICAgICBmb3IgbSBpbiBmaW5kX2VzX21vZHVsZXMocHJvamVjdF9kaXIsIHJlcG8pOgogICAgICAgICAgICBncm91cCwgYXJ0aWZhY3RfaWQsIHR5cGUsIHZlcnNpb24sIHNjb3BlID0gbS5zcGxpdCgnOicpCiAgICAgICAgICAgIGZvdW5kX3JlcG9zLmFwcGVuZChhcnRpZmFjdF9pZCkKCiAgICAgICAgZm9yIHIgaW4gZm91bmRfcmVwb3M6CiAgICAgICAgICAgIGNvZGVfZ2xvYiA9IGYne3Byb2plY3RfZGlyfS97cn0vc3JjL21haW4vKiovKicKICAgICAgICAgICAgdGVtcGxhdGVzID0gZmluZF90ZW1wbGF0ZXMoY29kZV9nbG9iLCB0ZW1wbGF0ZXNfc3JjKQogICAgICAgICAgICBjb3BpZWQudXBkYXRlKGNvcHlfdGVtcGxhdGVfZmlsZXModGVtcGxhdGVzX3NyYywgdGVtcGxhdGVzX3NpbmssIHRlbXBsYXRlcykpCgogICAgbG9nZ2luZy5pbmZvKCdDb3BpZWQgJWQgZmlsZXM6ICVzJywgbGVuKGNvcGllZCksIGNvcGllZCkKICAgIHByaW50KCcjJyAqIDgwKQogICAgcHJpbnQoJ2NvcGllZDonKQogICAgZm9yIGYsIHQgaW4gY29waWVkOgogICAgICAgIHByaW50KGYpCiAgICAgICAgcHJpbnQoJy0+JywgdCkKICAgIHByaW50KCcjJyAqIDgwKQoKCmRlZiBwYXJzZV9hcmdzKGFyZ3MpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249J1JlY3Vyc2l2ZWx5IHJlc29sdmVzIHRlbXBsYXRlcyBmcm9tIHNwZWNpZmllZCByZXBvcyBhbmQgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvcGllcyB0aGVtIGZyb20gc3BlY2lmaWVkIHRlbXBsYXRlc19zcmMgdG8gc3BlY2lmaWVkICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZXNfc2luay4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ05PVEUhIEFuYWx5emUgbG9nIG91dHB1dCBmb3IgaXNzdWVzIHdpdGggdGhlIHRlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGhhdCB0aGlzIHNjcmlwdCBmaW5kcywgZS5nLiBlbmNvZGluZyBhbmQgbm90IGZvdW5kIHRlbXBsYXRlcycKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeGFtcGxlOiAuL3Jlc29sdmVfYW5kX2NvcHlfdGVtcGxhdGVzLnB5ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcuLi9FU0RFL2NvbmZpZ3VyYXRpb24ud2FyLmVzL3NyYy9tYWluL3RlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXMuY3VzdG9tZXIuZG9jdW1lbnRhdGlvbi1jb25maWd1cmF0aW9uL3NyYy9tYWluL3RlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLiAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXMuY3VzdG9tZXIuZG9jdW1lbnRhdGlvbicpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICd0ZW1wbGF0ZXNfc3JjJywgaGVscD0nVGhlIGRpcmVjdG9yeSBvZiB0ZW1wbGF0ZXMsIGUuZy4gY29uZmlndXJhdGlvbi53YXIuZXMvc3JjL21haW4vdGVtcGxhdGVzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3RlbXBsYXRlc19zaW5rJywgaGVscD0nVGhlIGRpcmVjdG9yeSB0byBjb3B5IHRvLCBlLmcuIG1zLmN1c3RvbWVyLmRvY3VtZW50LWNvbmZpZ3VyYXRpb24vc3JjL21haW4vdGVtcGxhdGVzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3Byb2plY3RfZGlyJywgaGVscD0nUHJvamVjdCBkaXIgY29udGFpbmluZyByZXBvcywgZS5nLiAvVXNlcnMvbWFnbnVzL2dpdC1jc3AtZXMvQ1NQRVMnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAncmVwb3MnLCBuYXJncz0nKycsIGhlbHA9J1JlcG9zLCBlLmcuIG1zLmN1c3RvbWVyLmRvY3VtZW50JykKICAgIHJldHVybiBwYXJzZXIucGFyc2VfYXJncyhhcmdzKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6ICAjIHByYWdtYTogbm8gY292ZXIKICAgIG1haW4oKipwYXJzZV9hcmdzKGFyZ3ZbMTpdKS5fX2RpY3RfXykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3B5dGhvbjMgc2V0dXAucHkgc2Rpc3QgYmRpc3Rfd2hlZWwK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHJlCmZyb20gZ2xvYiBpbXBvcnQgZ2xvYgpmcm9tIG9zIGltcG9ydCBtYWtlZGlycwpmcm9tIG9zLnBhdGggaW1wb3J0IGlzZmlsZQpmcm9tIHNodXRpbCBpbXBvcnQgY29weWZpbGUKZnJvbSBzeXMgaW1wb3J0IGFyZ3YKCmZyb20gbWF2ZW4uZ2V0X2RlcGVuZGVuY2llcyBpbXBvcnQgZ2V0X21vZHVsZXNfZGVwZW5kZW5jaWVzCgpsb2dnaW5nLmJhc2ljQ29uZmlnKGxldmVsPWxvZ2dpbmcuSU5GTykKCgpkZWYgZmluZF9lc19tb2R1bGVzKHByb2plY3RfZGlyLCByZXBvLCBpbmNsdWRlPSgnc2UubGYuKicsKSwgZXhjbHVkZT0oKSk6CiAgICBlc19tb2R1bGVzID0gW10KICAgIGZvciBtb2R1bGUsIGRpcmVjdCwgdHJhbnNpdGl2ZSBpbiBnZXRfbW9kdWxlc19kZXBlbmRlbmNpZXMoZid7cHJvamVjdF9kaXJ9L3tyZXBvfS9wb20ueG1sJyk6CiAgICAgICAgZm9yIGQgaW4gZGlyZWN0ICsgdHJhbnNpdGl2ZToKICAgICAgICAgICAgaWYgbm90IGFueShyZS5mdWxsbWF0Y2goZiwgZCkgZm9yIGYgaW4gZXhjbHVkZSkgYW5kIGFueShyZS5mdWxsbWF0Y2goZiwgZCkgZm9yIGYgaW4gaW5jbHVkZSk6CiAgICAgICAgICAgICAgICBlc19tb2R1bGVzLmFwcGVuZChkKQogICAgcmV0dXJuIHNvcnRlZChzZXQoZXNfbW9kdWxlcykpCgoKZGVmIGNvcHlfdGVtcGxhdGVfZmlsZXModGVtcGxhdGVzX3NyYywgdGVtcGxhdGVzX3NpbmssIHRlbXBsYXRlcyk6CiAgICBjb3BpZWRfdGVtcGxhdGVfZmlsZXMgPSBbXQogICAgZm9yIHRlbXBsYXRlIGluIHRlbXBsYXRlczoKICAgICAgICBzaW5rX3BhdGggPSBmJ3t0ZW1wbGF0ZXNfc2lua317dGVtcGxhdGVbbGVuKHRlbXBsYXRlc19zcmMpOl19JwogICAgICAgIG1ha2VkaXJzKHNpbmtfcGF0aC5yc3BsaXQoJy8nLCBtYXhzcGxpdD0xKVswXSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBjb3B5ZmlsZSh0ZW1wbGF0ZSwgc2lua19wYXRoKQogICAgICAgIGNvcGllZF90ZW1wbGF0ZV9maWxlcy5hcHBlbmQoKHRlbXBsYXRlLCBzaW5rX3BhdGgpKQogICAgcmV0dXJuIGNvcGllZF90ZW1wbGF0ZV9maWxlcwoKCmRlZiBtYXBfdG9fcHJvcGVydHlfZmlsZSh0ZW1wbGF0ZXNfc3JjLCBwbGFjZWhvbGRlcik6CiAgICBwcm9wZXJ0eV9maWxlcyA9IFtdCiAgICBwcm9wZXJ0eV9maWxlID0gcGxhY2Vob2xkZXJbMjotMV0ucnNwbGl0KCcuJywgbWF4c3BsaXQ9MSlbMF0ucmVwbGFjZSgnLicsICcvJykKICAgIHZhbGlkX2VuZGluZ3MgPSBbJy1lbnYucHJvcGVydGllcycsICcucHJvcGVydGllcyddCiAgICBmb3IgZW5kaW5nIGluIHZhbGlkX2VuZGluZ3M6CiAgICAgICAgc3JjX3BhdGggPSBmJ3t0ZW1wbGF0ZXNfc3JjfS97cHJvcGVydHlfZmlsZX17ZW5kaW5nfScKICAgICAgICBpZiBpc2ZpbGUoc3JjX3BhdGgpOgogICAgICAgICAgICBwcm9wZXJ0eV9maWxlcy5hcHBlbmQoc3JjX3BhdGgpCiAgICBpZiBub3QgcHJvcGVydHlfZmlsZXM6CiAgICAgICAgbG9nZ2luZy5jcml0aWNhbCgnTm8gdGVtcGxhdGUgZm91bmQgZm9yIHBsYWNlaG9sZGVyOiAlcycsIHBsYWNlaG9sZGVyKQogICAgcmV0dXJuIHByb3BlcnR5X2ZpbGVzCgoKZGVmIGZpbmRfdGVtcGxhdGVzX2luX2ZpbGUodGVtcGxhdGVzX3NyYywgZmlsZV9wYXRoLCBlbmNvZGluZz0ndXRmLTgnKToKICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlID0gc2V0KCkKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZV9wYXRoLCAncnQnLCBlbmNvZGluZz1lbmNvZGluZykgYXMgZjoKICAgICAgICAgICAgZm9yIGxpbmUgaW4gZi5yZWFkbGluZXMoKToKICAgICAgICAgICAgICAgIG0gPSByZS5maW5kYWxsKHInQHtbXC1fLmEtekEtWjAtOS9dKz99JywgbGluZSkKICAgICAgICAgICAgICAgIGlmIG06CiAgICAgICAgICAgICAgICAgICAgZm9yIHIgaW4gbToKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlfZmlsZXMgPSBtYXBfdG9fcHJvcGVydHlfZmlsZSh0ZW1wbGF0ZXNfc3JjLCByKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBwcm9wZXJ0eV9maWxlczoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBwcm9wZXJ0eV9maWxlIGluIHByb3BlcnR5X2ZpbGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlLmFkZChwcm9wZXJ0eV9maWxlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdW5kX3RlbXBsYXRlc19pbl9maWxlLnVwZGF0ZShmaW5kX3RlbXBsYXRlc19pbl9maWxlKHRlbXBsYXRlc19zcmMsIHByb3BlcnR5X2ZpbGUpKQogICAgZXhjZXB0IFVuaWNvZGVEZWNvZGVFcnJvciBhcyBlOgogICAgICAgIGlmIGVuY29kaW5nID09ICd1dGYtOCc6CiAgICAgICAgICAgIGxvZ2dpbmcuY3JpdGljYWwoJyVzIGlzIG5vdCB1dGYtOCBlbmNvZGVkLiBSZXRyaWVzIHdpdGggaXNvLTg4NTktMS4nLCBmaWxlX3BhdGgpCiAgICAgICAgICAgIHJldHVybiBmaW5kX3RlbXBsYXRlc19pbl9maWxlKHRlbXBsYXRlc19zcmMsIGZpbGVfcGF0aCwgJ2lzby04ODU5LTEnKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0NhbiBub3QgcmVhZCAlcyB3aXRoIHV0Zi04IG9yIGlzby04ODU5LTEnLCBmaWxlX3BhdGgpCiAgICAgICAgICAgIHByaW50KGYnQ2FuIG5vdCByZWFkIHtmaWxlX3BhdGh9JywgZSkKICAgIHJldHVybiBmb3VuZF90ZW1wbGF0ZXNfaW5fZmlsZQoKCmRlZiBmaW5kX3RlbXBsYXRlcyhnbG9iX3BhdHRlcm4sIHRlbXBsYXRlc19zcmMsIGVuZGluZ3M9KCdqYXZhJywgJ2dyb292eScsICd4bWwnLCAncHJvcGVydGllcycpKToKICAgIGZvdW5kX3RlbXBsYXRlcyA9IHNldCgpCiAgICBmb3IgZmlsZV9wYXRoIGluIGdsb2IoZ2xvYl9wYXR0ZXJuLCByZWN1cnNpdmU9VHJ1ZSk6CiAgICAgICAgaWYgaXNmaWxlKGZpbGVfcGF0aCkgYW5kIGZpbGVfcGF0aC5yc3BsaXQoJy4nLCBtYXhzcGxpdD0xKVsxXSBpbiBlbmRpbmdzOgogICAgICAgICAgICBmb3VuZF90ZW1wbGF0ZXMudXBkYXRlKGZpbmRfdGVtcGxhdGVzX2luX2ZpbGUodGVtcGxhdGVzX3NyYywgZmlsZV9wYXRoKSkKICAgIHJldHVybiBmb3VuZF90ZW1wbGF0ZXMKCgpkZWYgbWFpbih0ZW1wbGF0ZXNfc3JjLCB0ZW1wbGF0ZXNfc2luaywgcHJvamVjdF9kaXIsIHJlcG9zKToKICAgIGNvcGllZCA9IHNldCgpCiAgICBmb3IgcmVwbyBpbiByZXBvczoKICAgICAgICBmb3VuZF9yZXBvcyA9IFtyZXBvXQoKICAgICAgICBmb3IgbSBpbiBmaW5kX2VzX21vZHVsZXMocHJvamVjdF9kaXIsIHJlcG8pOgogICAgICAgICAgICBncm91cCwgYXJ0aWZhY3RfaWQsIHR5cGUsIHZlcnNpb24sIHNjb3BlID0gbS5zcGxpdCgnOicpCiAgICAgICAgICAgIGZvdW5kX3JlcG9zLmFwcGVuZChhcnRpZmFjdF9pZCkKCiAgICAgICAgZm9yIHIgaW4gZm91bmRfcmVwb3M6CiAgICAgICAgICAgIGNvZGVfZ2xvYiA9IGYne3Byb2plY3RfZGlyfS97cn0vc3JjL21haW4vKiovKicKICAgICAgICAgICAgdGVtcGxhdGVzID0gZmluZF90ZW1wbGF0ZXMoY29kZV9nbG9iLCB0ZW1wbGF0ZXNfc3JjKQogICAgICAgICAgICBjb3BpZWQudXBkYXRlKGNvcHlfdGVtcGxhdGVfZmlsZXModGVtcGxhdGVzX3NyYywgdGVtcGxhdGVzX3NpbmssIHRlbXBsYXRlcykpCgogICAgbG9nZ2luZy5pbmZvKCdDb3BpZWQgJWQgZmlsZXM6ICVzJywgbGVuKGNvcGllZCksIGNvcGllZCkKICAgIHByaW50KCcjJyAqIDgwKQogICAgcHJpbnQoJ2NvcGllZDonKQogICAgZm9yIGYsIHQgaW4gY29waWVkOgogICAgICAgIHByaW50KGYpCiAgICAgICAgcHJpbnQoJy0+JywgdCkKICAgIHByaW50KCcjJyAqIDgwKQoKCmRlZiBwYXJzZV9hcmdzKGFyZ3MpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249J1JlY3Vyc2l2ZWx5IHJlc29sdmVzIHRlbXBsYXRlcyBmcm9tIHNwZWNpZmllZCByZXBvcyBhbmQgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvcGllcyB0aGVtIGZyb20gc3BlY2lmaWVkIHRlbXBsYXRlc19zcmMgdG8gc3BlY2lmaWVkICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZXNfc2luay4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ05PVEUhIEFuYWx5emUgbG9nIG91dHB1dCBmb3IgaXNzdWVzIHdpdGggdGhlIHRlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGhhdCB0aGlzIHNjcmlwdCBmaW5kcywgZS5nLiBlbmNvZGluZyBhbmQgbm90IGZvdW5kIHRlbXBsYXRlcycKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeGFtcGxlOiAuL3Jlc29sdmVfYW5kX2NvcHlfdGVtcGxhdGVzLnB5ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcuLi9FU0RFL2NvbmZpZ3VyYXRpb24ud2FyLmVzL3NyYy9tYWluL3RlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXMuY3VzdG9tZXIuZG9jdW1lbnRhdGlvbi1jb25maWd1cmF0aW9uL3NyYy9tYWluL3RlbXBsYXRlcyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLiAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXMuY3VzdG9tZXIuZG9jdW1lbnRhdGlvbicpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICd0ZW1wbGF0ZXNfc3JjJywgaGVscD0nVGhlIGRpcmVjdG9yeSBvZiB0ZW1wbGF0ZXMsIGUuZy4gY29uZmlndXJhdGlvbi53YXIuZXMvc3JjL21haW4vdGVtcGxhdGVzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3RlbXBsYXRlc19zaW5rJywgaGVscD0nVGhlIGRpcmVjdG9yeSB0byBjb3B5IHRvLCBlLmcuIG1zLmN1c3RvbWVyLmRvY3VtZW50LWNvbmZpZ3VyYXRpb24vc3JjL21haW4vdGVtcGxhdGVzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3Byb2plY3RfZGlyJywgaGVscD0nUHJvamVjdCBkaXIgY29udGFpbmluZyByZXBvcywgZS5nLiAvVXNlcnMvbWFnbnVzL2dpdC1jc3AtZXMvQ1NQRVMnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAncmVwb3MnLCBuYXJncz0nKycsIGhlbHA9J1JlcG9zLCBlLmcuIG1zLmN1c3RvbWVyLmRvY3VtZW50JykKICAgIHJldHVybiBwYXJzZXIucGFyc2VfYXJncyhhcmdzKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6ICAjIHByYWdtYTogbm8gY292ZXIKICAgIG1haW4oKipwYXJzZV9hcmdzKGFyZ3ZbMTpdKS5fX2RpY3RfXykK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNhc3NlcnQgW2NhbGwoJ2ZvbycpXSA9PSBtb2NrX3BwcmludC5tb2NrX2NhbGxzCg==</text>
+        <text encoding="base64">cHJpbnQoJ0hlbGxvJykK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">I3B5dGhvbjMgc2V0dXAucHkgc2Rpc3QgYmRpc3Rfd2hlZWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICNhc3NlcnQgW2NhbGwoJ2ZvbycpXSA9PSBtb2NrX3BwcmludC5tb2NrX2NhbGxzCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICNhc3NlcnQgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[
     #           call(&quot;Stopped {'pid': 8001}&quot;),
     #           call(&quot;Stopped {'pid': 8002}&quot;),
     #       ] == mock_print.mock_calls</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3BwcmludCwK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">QHBhdGNoKCdjb25kZXAuc3RvcC5wcHJpbnQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJTdGF0ZSBhZnRlciByZW1vdmU6ICVzIiwgcmVtb3ZlZF9kZXBsb3lzX3N0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3BwcmludCwK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYnU3RvcHBlZCB7c30nKQo=</text>
+        <text encoding="base64">QHBhdGNoKCdjb25kZXAuc3RvcC5wcHJpbnQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
       </register>
     </registers>
     <search>
-      <last-search>exists</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern>exists</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -393,7 +397,6 @@
         <entry>load</entry>
         <entry>foo</entry>
         <entry>main</entry>
-        <entry>def</entry>
         <entry>ping</entry>
         <entry>ms</entry>
         <entry>patch</entry>
@@ -405,11 +408,9 @@
         <entry>update</entry>
         <entry>lo</entry>
         <entry>exists</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>set number</entry>
-        <entry>set is</entry>
-        <entry>set hlsearch</entry>
         <entry>help ge</entry>
         <entry>map ge</entry>
         <entry>%s/log/logging/gc</entry>
@@ -427,6 +428,9 @@
         <entry encoding="base64">JzwsJz5zLywvXHJmcm9tIGNvbmRlcC51cGRhdGUgaW1wb3J0Lw==</entry>
         <entry encoding="base64">JzwsJz5zLywvXHJmcm9tIGNvbmRlcC51cGRhdGUgaW1wb3J0L2c=</entry>
         <entry>%s/update/health/g</entry>
+        <entry>ls</entry>
+        <entry>tabnew</entry>
+        <entry>g/def/d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
