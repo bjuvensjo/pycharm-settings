@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1561382716085">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573475413482">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -16,40 +13,14 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1560506520095">
+      <file name="/a.dummy" timestamp="1573481307154">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitattributes" timestamp="1561473109543">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561551178412">
         <mark key="[" line="144" column="101" />
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" timestamp="1561383713030">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="65" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitignore" timestamp="1561535002029">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" timestamp="1561372649694">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="33" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" timestamp="1561366770979">
         <mark key="'" line="22" column="0" />
@@ -67,47 +38,12 @@
       <file name="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" timestamp="1561552457199">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" timestamp="1573480706579">
-        <mark key="'" line="45" column="57" />
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/stop.py" timestamp="1561533119535">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_shell.py" timestamp="1560776708503">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="23" />
-        <mark key="." line="35" column="23" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/setup.py" timestamp="1561069706471">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="27" column="21" />
-      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/package_install.sh" timestamp="1561550282864">
         <mark key="'" line="5" column="97" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/pio/shell.py" timestamp="1573476686755">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" timestamp="1561384274072">
         <mark key="'" line="12" column="26" />
@@ -121,22 +57,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561535123256">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/ping.py" timestamp="1561019708192">
         <mark key="'" line="70" column="21" />
         <mark key="[" line="70" column="21" />
         <mark key="]" line="70" column="49" />
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561387378125">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" timestamp="1561533754530">
         <mark key="a" line="73" column="3" />
@@ -147,26 +73,11 @@
         <mark key="^" line="43" column="33" />
         <mark key="o" line="73" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561020515547">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/python_path.sh" timestamp="1561477595636">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/git/scripts/vang/slask.json" timestamp="1561982055308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
-        <mark key="[" line="53" column="71" />
-        <mark key="]" line="53" column="72" />
-        <mark key="^" line="53" column="73" />
-        <mark key="." line="53" column="72" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
         <mark key="[" line="18" column="16" />
@@ -177,6 +88,77 @@
         <mark key="[" line="32" column="5" />
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="/Python Console" timestamp="1561382716085">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitattributes" timestamp="1561473109543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/.gitignore" timestamp="1561535002029">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" timestamp="1573481056782">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_shell.py" timestamp="1560776708503">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/setup.py" timestamp="1561069706471">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/pio/shell.py" timestamp="1573476686755">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/package.sh" timestamp="1561535123256">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/continuous.deployment/TODO.md" timestamp="1561387378125">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1573481828216">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
+        <mark key="[" line="53" column="71" />
+        <mark key="]" line="53" column="72" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="72" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
@@ -191,11 +173,9 @@
         <mark key="." line="51" column="46" />
         <mark key="^" line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/slask.py" timestamp="1560350895760">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/get_dependencies.py" timestamp="1573481931686">
+        <mark key="[" line="75" column="68" />
+        <mark key="]" line="75" column="87" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/start.py" timestamp="1561030412486">
         <mark key="'" line="68" column="4" />
@@ -210,34 +190,33 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" timestamp="1573481188740">
+        <mark key="'" line="82" column="40" />
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="70" column="50" />
+        <mark key="." line="70" column="50" />
+        <mark key="^" line="69" column="148" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_start.py" timestamp="1561020386506">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573479957402">
-        <mark key="'" line="138" column="4" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="163" column="41" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573482411745">
+        <mark key="a" line="65" column="18" />
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" timestamp="1561017573752">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573480793941">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="22" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" />
-      <jump line="6" column="52" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" />
-      <jump line="108" column="54" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="60" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="111" column="72" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="147" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="123" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" />
       <jump line="140" column="21" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
       <jump line="137" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -290,7 +269,6 @@
       <jump line="91" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="99" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="124" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="15" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -312,7 +290,6 @@
       <jump line="151" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="149" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="139" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
-      <jump line="138" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="57" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="62" column="10" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -328,6 +305,18 @@
       <jump line="40" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="34" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="46" column="57" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="63" column="21" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="46" column="50" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="83" column="8" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="63" column="21" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="82" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,58 +326,61 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>es</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ2VzX2JyYW5jaCcsIGhlbHA9J1RoZSBlcyBicmFuY2ggZGlyJykK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHJlcG9fZGlyID0gJy9Vc2Vycy9tYWdudXMvc2xhc2svZm9vL3htbC53cycKICAgIGVzX2JyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicKICAgIHRmc19wcm9qZWN0ID0gJ0NTTCcKICAgIHRmc19icmFuY2ggPSAnbWFzdGVyJwogICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy10JywgJy0tdGFncycsIG5hcmdzPScrJywKICAgICAgICBkZWZhdWx0PSBbJ3Byb2plY3QucHJvcGVydGllcycsICdwcm9qZWN0LmRlcGVuZGVuY2llcy5kZXBlbmRlbmN5JywgJ3Byb2plY3QuYnVpbGQucGx1Z2lucy5wbHVnaW4nXSwKICAgICAgICBoZWxwPSdNb2R1bGVzLCBlLmcuIHByb2plY3QucHJvcGVydGllcyBwcm9qZWN0LmRlcGVuZGVuY2llcy5kZXBlbmRlbmN5IHByb2plY3QuYnVpbGQucGx1Z2lucy5wbHVnaW4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncHJvamVjdCcsIGhlbHA9J1RoZSBwYXJlbnQgZGlyZWN0b3J5IG9mIG1vZHVsZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCg==</text>
+      <register name="4" type="8">
+        <text>r
+e
+t
+t</text>
       </register>
-      <register name="5" type="4">
-        <text>The parent directory of modules</text>
+      <register name="5" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dHB1dHMpCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQogICAgCiAgICAKZGVmIG1haW4ocmVwb19kaXIsIGJyYW5jaCk6CiAgICBjaGVja291dF9vdXRwdXQgPSBjaGVja291dF9icmFuY2gocmVwb19kaXIsIGJyYW5jaCkKICAgIGhlYWRfY29tbWl0X2lkID0gZ2V0X2hlYWRfY29tbWl0X2lkKHJlcG9fZGlyKQogICAgZXNfb3JpZ2luX3VybCA9IGdldF9lc19vcmlnaW5fdXJsKHJlcG9fZGlyKQogICAgdGZzX29yaWdpbl91cmwgPSBnZXRfdGZzX29yaWdpbl91cmwoJ0NTTCcsIGVzX29yaWdpbl91cmwpCiAgICBvdXRwdXRzID0gZGVsZXRlX29sZF9hbmRfY3JlYXRlX25ld19sb2NhbF9yZXBvKHJlcG9fZGlyLCBoZWFkX2NvbW1pdF9pZCkKICAgIAoKICAgIHByaW50KGNoZWNrb3V0X291dHB1dCkKICAgIHByaW50KGhlYWRfY29tbWl0X2lkKQogICAgcHJpbnQoZXNfb3JpZ2luX3VybCkKICAgIHByaW50KHRmc19vcmlnaW5fdXJsKQogICAgcHJpbnQob3V0cHV0cykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmVwb19kaXIgPSAnL1VzZXJzL21hZ251cy9zbGFzay9mb28veG1sLndzJwogICAgYnJhbmNoID0gJ2ZlYXR1cmUvbWlncmF0aW9uJwogICAgbWFpbihyZXBvX2RpciwgYnJhbmNoKQo=</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGFkZF9vdXRwdXQgPSBydW5fY29tbWFuZChmJ2dpdCBhZGQgLS1hbGwsIFRydWUsIGN3ZD1yZXBvX2RpcicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoZidnaXQgaW5pdCwgVHJ1ZSwgY3dkPXJlcG9fZGlyJykK</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
       </register>
     </registers>
     <search>
-      <last-search>es</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>es</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -396,9 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry>ping</entry>
-        <entry>ms</entry>
         <entry>patch</entry>
         <entry>retract_down</entry>
         <entry>,</entry>
@@ -412,10 +401,13 @@
         <entry>code</entry>
         <entry>git</entry>
         <entry>parse</entry>
-        <entry>'</entry>
         <entry>module</entry>
         <entry>merg</entry>
         <entry>es</entry>
+        <entry>Recur</entry>
+        <entry>merge</entry>
+        <entry>'</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>help ge</entry>
