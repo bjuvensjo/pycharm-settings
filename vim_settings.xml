@@ -67,12 +67,12 @@
       <file name="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" timestamp="1561552457199">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" timestamp="1573479565601">
-        <mark key="'" line="35" column="49" />
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="^" line="52" column="4" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" timestamp="1573480706579">
+        <mark key="'" line="45" column="57" />
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/config/config.py" timestamp="1561474109778">
         <mark key="[" line="1" column="0" />
@@ -215,6 +215,11 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573479957402">
+        <mark key="'" line="138" column="4" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="163" column="41" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" timestamp="1561017573752">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="28" column="23" />
@@ -223,27 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="48" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
-      <jump line="65" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/setup.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/MANIFEST.in" />
-      <jump line="45" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="53" column="18" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="54" column="51" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="32" column="40" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="58" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="43" column="25" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="36" column="68" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="32" column="17" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="21" column="14" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/deploy.py" />
-      <jump line="14" column="47" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="17" column="6" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_deploy.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" />
       <jump line="39" column="22" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" />
       <jump line="6" column="52" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_os.py" />
       <jump line="108" column="54" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
@@ -310,19 +294,40 @@
       <jump line="124" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="15" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="47" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="9" column="15" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="8" column="57" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="14" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="21" column="2" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="31" column="20" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="36" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="39" column="25" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="25" column="3" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="4" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="28" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="35" column="49" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="18" column="9" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="163" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="159" column="11" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="155" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="151" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="139" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="62" column="10" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="77" column="33" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="41" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="79" column="31" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="31" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="34" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
+      <jump line="46" column="57" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,70 +337,65 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>es</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ2VzX2JyYW5jaCcsIGhlbHA9J1RoZSBlcyBicmFuY2ggZGlyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dHB1dHMpCg==</text>
+        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnLTEnLCAnMScsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQogICAgCiAgICAKZGVmIG1haW4ocmVwb19kaXIsIGJyYW5jaCk6CiAgICBjaGVja291dF9vdXRwdXQgPSBjaGVja291dF9icmFuY2gocmVwb19kaXIsIGJyYW5jaCkKICAgIGhlYWRfY29tbWl0X2lkID0gZ2V0X2hlYWRfY29tbWl0X2lkKHJlcG9fZGlyKQogICAgZXNfb3JpZ2luX3VybCA9IGdldF9lc19vcmlnaW5fdXJsKHJlcG9fZGlyKQogICAgdGZzX29yaWdpbl91cmwgPSBnZXRfdGZzX29yaWdpbl91cmwoJ0NTTCcsIGVzX29yaWdpbl91cmwpCiAgICBvdXRwdXRzID0gZGVsZXRlX29sZF9hbmRfY3JlYXRlX25ld19sb2NhbF9yZXBvKHJlcG9fZGlyLCBoZWFkX2NvbW1pdF9pZCkKICAgIAoKICAgIHByaW50KGNoZWNrb3V0X291dHB1dCkKICAgIHByaW50KGhlYWRfY29tbWl0X2lkKQogICAgcHJpbnQoZXNfb3JpZ2luX3VybCkKICAgIHByaW50KHRmc19vcmlnaW5fdXJsKQogICAgcHJpbnQob3V0cHV0cykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmVwb19kaXIgPSAnL1VzZXJzL21hZ251cy9zbGFzay9mb28veG1sLndzJwogICAgYnJhbmNoID0gJ2ZlYXR1cmUvbWlncmF0aW9uJwogICAgbWFpbihyZXBvX2RpciwgYnJhbmNoKQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy10JywgJy0tdGFncycsIG5hcmdzPScrJywKICAgICAgICBkZWZhdWx0PSBbJ3Byb2plY3QucHJvcGVydGllcycsICdwcm9qZWN0LmRlcGVuZGVuY2llcy5kZXBlbmRlbmN5JywgJ3Byb2plY3QuYnVpbGQucGx1Z2lucy5wbHVnaW4nXSwKICAgICAgICBoZWxwPSdNb2R1bGVzLCBlLmcuIHByb2plY3QucHJvcGVydGllcyBwcm9qZWN0LmRlcGVuZGVuY2llcy5kZXBlbmRlbmN5IHByb2plY3QuYnVpbGQucGx1Z2lucy5wbHVnaW4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGFkZF9vdXRwdXQgPSBydW5fY29tbWFuZChmJ2dpdCBhZGQgLS1hbGwsIFRydWUsIGN3ZD1yZXBvX2RpcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAncHJvamVjdCcsIGhlbHA9J1RoZSBwYXJlbnQgZGlyZWN0b3J5IG9mIG1vZHVsZXMnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoZidnaXQgaW5pdCwgVHJ1ZSwgY3dkPXJlcG9fZGlyJykK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvZGUsIG91dHB1dCA9IHJ1bl9jb21tYW5kKGYncm0gLXJmIC5naXQnLCBUcnVlLCBjd2Q9cmVwb19kaXIpCg==</text>
+      <register name="5" type="4">
+        <text>The parent directory of modules</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG91dHB1dHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVwb19kaXIgPSAnL1VzZXJzL21hZ251cy9zbGFzay9mb28veG1sLndzJwpicmFuY2ggPSAnZmVhdHVyZS9taWdyYXRpb24nCg==</text>
+        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoJ2dpdCBpbml0JywgVHJ1ZSwgY3dkPXJlcG9fZGlyKQogICAgCiAgICAKZGVmIG1haW4ocmVwb19kaXIsIGJyYW5jaCk6CiAgICBjaGVja291dF9vdXRwdXQgPSBjaGVja291dF9icmFuY2gocmVwb19kaXIsIGJyYW5jaCkKICAgIGhlYWRfY29tbWl0X2lkID0gZ2V0X2hlYWRfY29tbWl0X2lkKHJlcG9fZGlyKQogICAgZXNfb3JpZ2luX3VybCA9IGdldF9lc19vcmlnaW5fdXJsKHJlcG9fZGlyKQogICAgdGZzX29yaWdpbl91cmwgPSBnZXRfdGZzX29yaWdpbl91cmwoJ0NTTCcsIGVzX29yaWdpbl91cmwpCiAgICBvdXRwdXRzID0gZGVsZXRlX29sZF9hbmRfY3JlYXRlX25ld19sb2NhbF9yZXBvKHJlcG9fZGlyLCBoZWFkX2NvbW1pdF9pZCkKICAgIAoKICAgIHByaW50KGNoZWNrb3V0X291dHB1dCkKICAgIHByaW50KGhlYWRfY29tbWl0X2lkKQogICAgcHJpbnQoZXNfb3JpZ2luX3VybCkKICAgIHByaW50KHRmc19vcmlnaW5fdXJsKQogICAgcHJpbnQob3V0cHV0cykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmVwb19kaXIgPSAnL1VzZXJzL21hZ251cy9zbGFzay9mb28veG1sLndzJwogICAgYnJhbmNoID0gJ2ZlYXR1cmUvbWlncmF0aW9uJwogICAgbWFpbihyZXBvX2RpciwgYnJhbmNoKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG9fZGlyID0gJy9Vc2Vycy9tYWdudXMvc2xhc2svZm9vL3htbC53cycKICAgIGJyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicK</text>
+        <text encoding="base64">ICAgIGNvZGUsIGFkZF9vdXRwdXQgPSBydW5fY29tbWFuZChmJ2dpdCBhZGQgLS1hbGwsIFRydWUsIGN3ZD1yZXBvX2RpcicpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvZGUsIGluaXRfb3V0cHV0ID0gcnVuX2NvbW1hbmQoZidnaXQgaW5pdCwgVHJ1ZSwgY3dkPXJlcG9fZGlyJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/update/health/g</text>
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>es</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>es</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>har</entry>
-        <entry>jar</entry>
-        <entry>loa</entry>
-        <entry>load</entry>
-        <entry>foo</entry>
         <entry>main</entry>
         <entry>ping</entry>
         <entry>ms</entry>
@@ -411,6 +411,11 @@
         <entry>def</entry>
         <entry>code</entry>
         <entry>git</entry>
+        <entry>parse</entry>
+        <entry>'</entry>
+        <entry>module</entry>
+        <entry>merg</entry>
+        <entry>es</entry>
       </history-search>
       <history-cmd>
         <entry>help ge</entry>
