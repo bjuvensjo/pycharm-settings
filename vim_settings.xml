@@ -64,15 +64,6 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_stop.py" timestamp="1561533754530">
-        <mark key="a" line="73" column="3" />
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="o" line="73" column="3" />
-      </file>
       <file name="$USER_HOME$/git/scripts/vang/slask.json" timestamp="1561982055308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -159,6 +150,9 @@
         <mark key="]" line="53" column="72" />
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/scripts/vang/tfs/api.py" timestamp="1573545133914">
+        <mark key="[" line="61" column="45" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
