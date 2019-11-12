@@ -202,11 +202,11 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573487238484">
-        <mark key="[" line="68" column="88" />
-        <mark key="]" line="61" column="51" />
-        <mark key="." line="61" column="51" />
-        <mark key="^" line="61" column="39" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573511881045">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573480793941">
         <mark key="'" line="138" column="0" />
@@ -215,17 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="125" column="1" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="2" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="89" column="16" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/update.py" />
-      <jump line="50" column="29" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/health.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_update.py" />
-      <jump line="6" column="14" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
       <jump line="52" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
       <jump line="63" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
@@ -305,16 +294,27 @@
       <jump line="82" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="60" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="52" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="8" column="41" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="56" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="57" column="51" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="58" column="53" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="59" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="61" column="51" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="85" column="30" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="86" column="71" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="65" column="36" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="64" column="14" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="61" column="20" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="59" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="57" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="56" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="55" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="51" column="50" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="50" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="49" column="37" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="48" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="47" column="37" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,10 +375,10 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>(</text>
       </register>
       <register name="0" type="4">
-        <text>push_output)</text>
+        <text>repo_dir, es_branch, tfs_project, tfs_branch, push</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
@@ -462,22 +462,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/update/health/g</text>
+        <text encoding="base64">JzwsJz5tNjQ=</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry encoding="base64">XDx0ZXN0X2dldF9hcnRpZmFjdF9pZFw+</entry>
         <entry>pytest</entry>
         <entry>retract</entry>
         <entry>update</entry>
@@ -486,7 +484,6 @@
         <entry>def</entry>
         <entry>code</entry>
         <entry>git</entry>
-        <entry>parse</entry>
         <entry>module</entry>
         <entry>merg</entry>
         <entry>es</entry>
@@ -496,9 +493,11 @@
         <entry>)</entry>
         <entry>loggin</entry>
         <entry>print</entry>
+        <entry>parse</entry>
+        <entry>push</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
-        <entry>help ge</entry>
         <entry>map ge</entry>
         <entry>%s/log/logging/gc</entry>
         <entry>%s/log\./logging\./gc</entry>
@@ -518,6 +517,7 @@
         <entry>ls</entry>
         <entry>tabnew</entry>
         <entry>g/def/d</entry>
+        <entry encoding="base64">JzwsJz5tNjQ=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
