@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" timestamp="1573598661603">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="57" column="87" />
-        <mark key="]" line="57" column="87" />
-        <mark key="." line="57" column="87" />
-        <mark key="^" line="53" column="18" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" timestamp="1573599312519">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="72" column="76" />
+        <mark key="." line="72" column="76" />
+        <mark key="^" line="72" column="75" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573475413482">
         <mark key="'" line="0" column="0" />
@@ -22,6 +22,12 @@
       </file>
       <file name="/a.dummy" timestamp="1573481307154">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/README.md" timestamp="1573599559594">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/README.md" timestamp="1561551178412">
         <mark key="[" line="144" column="101" />
@@ -221,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="124" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="15" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="24" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -321,6 +325,8 @@
       <jump line="22" column="5" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="35" column="44" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" />
       <jump line="20" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" />
+      <jump line="57" column="87" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,16 +384,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvdXRwdXQnLAo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZ2V0X2VzX29yaWdpbl91cmwoKToKICAgIHdpdGggcGF0Y2goJ2dpdC5jbG9uZV9lc190b190ZnMucnVuX2NvbW1hbmQnKSBhcyBtOgogICAgICAgIG0ucmV0dXJuX3ZhbHVlID0gMSwgJ291dHB1dCcKICAgICAgICBhc3NlcnQgJ291dHB1dCcgPT0gZ2V0X2VzX29yaWdpbl91cmwoJ3JlcG9fZGlyJykKICAgICAgICBhc3NlcnQgW2NhbGwoJ2dpdCByZW1vdGUgZ2V0LXVybCBvcmlnaW4nLCBUcnVlLCBjd2Q9J3JlcG9fZGlyJyldID09IG0ubW9ja19jYWxscwoKCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IFtdID09IG1vY2tfcnVuX2NvbW1hbmQubW9ja19jYWxscwo=</text>
+      <register name="1" type="4">
+        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -437,35 +443,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgxLCAnb3V0cHV0MScpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvdXRwdXQyJywKICAgICAgICAgICAgICAgICdvdXRwdXQzJywKICAgICAgICAgICAgICAgICdvdXRwdXQ0JywKICAgICAgICAgICAgICAgICdvdXRwdXQ1JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnemVzLicsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0MScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9taWdyYXRpb24tc2NyaXB0cy5naXQnLCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndGZzX3Byb2plY3QnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvdXRwdXQxJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm1pZ3JhdGlvbi1zY3JpcHRzJyA9PSBnZXRfdGZzX29yaWdpbl91cmwoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IFtdID09IG1vY2tfcnVuX2NvbW1hbmQubW9ja19jYWxscwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggcGF0Y2goJ2dpdC5jbG9uZV9lc190b190ZnMucnVuX2NvbW1hbmQnKSBhcyBtOgo=</text>
+      <register name="8" type="4">
+        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9lc19vcmlnaW5fdXJsKCk6Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -478,7 +484,7 @@
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
