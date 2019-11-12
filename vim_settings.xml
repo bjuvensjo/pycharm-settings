@@ -200,11 +200,12 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573511881045">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="58" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573587779302">
+        <mark key="'" line="86" column="29" />
+        <mark key="[" line="70" column="59" />
+        <mark key="]" line="76" column="53" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="86" column="29" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573480793941">
         <mark key="'" line="138" column="0" />
@@ -213,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="76" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="98" column="11" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
@@ -295,7 +295,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="43" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="85" column="30" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="86" column="71" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="65" column="36" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="64" column="14" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
@@ -313,6 +312,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="52" column="11" filename="$USER_HOME$/git/scripts/vang/tfs/api.py" />
       <jump line="40" column="8" filename="$USER_HOME$/git/scripts/vang/tfs/api.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="86" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -370,16 +371,22 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>default environ.get('TFS_TOKEN', None),</text>
+        <text>The tfs branch</text>
       </register>
       <register name="/" type="4">
-        <text>verif</text>
+        <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>verify_certificate=</text>
+        <text>./clone_es_to_tfs.py '
+                                                 './xml.ws '
+                                                 'feature/migration '
+                                                 'CSL '
+                                                 'master '
+                                                 'zes. '
+                                                 '-p')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
+      <register name="1" type="4">
+        <text>The tfs branch</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -429,20 +436,20 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgojICAgICByZXBvX2RpciA9ICcvVXNlcnMvbWFnbnVzL3NsYXNrL2Zvby94bWwud3MnCiMgICAgIGVzX2JyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicKIyAgICAgdGZzX3Byb2plY3QgPSAnQ1NMJwojICAgICB0ZnNfYnJhbmNoID0gJ21hc3RlcicKIyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCiMK</text>
+      <register name="2" type="4">
+        <text>The tfs branch</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoX291dHB1dCA9ICcjIyMjIyMjIyMjIyMjIyMnCg==</text>
+        <text encoding="base64">IyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVzX29yaWdpbl91cmwpCg==</text>
+        <text encoding="base64">IyBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgojICAgICByZXBvX2RpciA9ICcvVXNlcnMvbWFnbnVzL3NsYXNrL2Zvby94bWwud3MnCiMgICAgIGVzX2JyYW5jaCA9ICdmZWF0dXJlL21pZ3JhdGlvbicKIyAgICAgdGZzX3Byb2plY3QgPSAnQ1NMJwojICAgICB0ZnNfYnJhbmNoID0gJ21hc3RlcicKIyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCiMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoX291dHB1dCA9ICcjIyMjIyMjIyMjIyMjIyMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGVzX29yaWdpbl91cmwpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -451,30 +458,29 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tNjQ=</text>
       </register>
     </registers>
     <search>
-      <last-search>verif</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>verif</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>retract</entry>
         <entry>update</entry>
         <entry>lo</entry>
         <entry>exists</entry>
@@ -486,7 +492,6 @@
         <entry>es</entry>
         <entry>Recur</entry>
         <entry>merge</entry>
-        <entry>'</entry>
         <entry>)</entry>
         <entry>loggin</entry>
         <entry>print</entry>
@@ -494,6 +499,8 @@
         <entry>push</entry>
         <entry>(</entry>
         <entry>verif</entry>
+        <entry encoding="base64">XDxnZXRfdGZzX29yaWdpbl91cmxcPg==</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>map ge</entry>
