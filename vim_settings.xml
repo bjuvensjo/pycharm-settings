@@ -151,8 +151,12 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/tfs/api.py" timestamp="1573551901578">
-        <mark key="[" line="61" column="45" />
+      <file name="$USER_HOME$/git/scripts/vang/tfs/api.py" timestamp="1573553316508">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="52" column="72" />
+        <mark key="]" line="52" column="72" />
+        <mark key="^" line="52" column="72" />
+        <mark key="." line="52" column="72" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_main.py" timestamp="1561101022820">
         <mark key="[" line="195" column="26" />
@@ -209,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" />
       <jump line="93" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="76" column="8" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/continuous.deployment/src/condep/main.py" />
@@ -309,6 +311,8 @@
       <jump line="48" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="47" column="37" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="53" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="52" column="11" filename="$USER_HOME$/git/scripts/vang/tfs/api.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/git/scripts/vang/tfs/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,13 +370,13 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>default environ.get('TFS_TOKEN', None),</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>verif</text>
       </register>
       <register name="0" type="4">
-        <text>repo_dir, es_branch, tfs_project, tfs_branch, push</text>
+        <text>verify_certificate=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAgICAgbWFpbihyZXBvX2RpciwgZXNfYnJhbmNoLCB0ZnNfcHJvamVjdCwgdGZzX2JyYW5jaCwgRmFsc2UpCg==</text>
@@ -460,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>verif</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern>verif</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>-1</last-dir>
@@ -470,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pytest</entry>
         <entry>retract</entry>
         <entry>update</entry>
         <entry>lo</entry>
@@ -490,6 +493,7 @@
         <entry>parse</entry>
         <entry>push</entry>
         <entry>(</entry>
+        <entry>verif</entry>
       </history-search>
       <history-cmd>
         <entry>map ge</entry>
