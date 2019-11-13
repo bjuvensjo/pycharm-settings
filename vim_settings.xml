@@ -10,11 +10,11 @@
         <mark key="." line="72" column="76" />
         <mark key="^" line="72" column="75" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573639991959">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573640554227">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/config/env_secret" timestamp="1561991744363">
         <mark key="[" line="0" column="2" />
@@ -35,12 +35,6 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_health.py" timestamp="1561383713030">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="65" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561366813226">
         <mark key="[" line="29" column="0" />
@@ -92,12 +86,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_ping.py" timestamp="1561372649694">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="33" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/.gitattributes" timestamp="1561478696732">
         <mark key="[" line="0" column="1" />
       </file>
@@ -113,12 +101,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/stop.py" timestamp="1561533119535">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/tests/test_shell.py" timestamp="1560776708503">
         <mark key="[" line="35" column="23" />
@@ -141,12 +123,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1573554069034">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/python_path.sh" timestamp="1561477595636">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/cd.tfs.scripts/src/pio/assert_commit_id.py" timestamp="1559042034205">
         <mark key="[" line="53" column="71" />
@@ -201,16 +177,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/state.py" timestamp="1561017573752">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="21" column="2" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="36" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="39" column="25" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="25" column="3" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -309,6 +277,8 @@
       <jump line="86" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="82" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="77" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="61" column="36" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -372,10 +342,10 @@
         <text>mvn</text>
       </register>
       <register name="0" type="4">
-        <text>templates_src, templates_sink, project_dir, repos)</text>
+        <text>propertiesLocation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNtID0gPHByb3BlcnR5IG5hbWU9InByb3BlcnRpZXNMb2NhdGlvbiIgdmFsdWU9InNkZGUvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMiLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,34 +396,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcjIyMjJywgZ2xvYl9wYXR0ZXJuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIyMnLCByKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0gPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlbXBsYXRlc19zcmMsIHRlbXBsYXRlc19zaW5rLCBwcm9qZWN0X2RpciwgcmVwb3MpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcjIyMjJywgZ2xvYl9wYXR0ZXJuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIyMnLCByKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRlbXBsYXRlc19zcmMsIHRlbXBsYXRlc19zaW5rLCBwcm9qZWN0X2RpciwgcmVwb3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBkKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnIyMjJywgbW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
