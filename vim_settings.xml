@@ -10,11 +10,11 @@
         <mark key="." line="72" column="76" />
         <mark key="^" line="72" column="75" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573635548714">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573639991959">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/config/env_secret" timestamp="1561991744363">
         <mark key="[" line="0" column="2" />
@@ -209,10 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="9" column="15" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="8" column="57" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="14" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="21" column="2" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="36" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -309,6 +305,10 @@
       <jump line="21" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" />
       <jump line="123" column="13" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,7 +366,7 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>mvn</text>
@@ -375,7 +375,7 @@
         <text>templates_src, templates_sink, project_dir, repos)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0gPSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,34 +426,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcjIyMjJywgZ2xvYl9wYXR0ZXJuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIyMnLCByKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnIyMjJywgbW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRlbXBsYXRlc19zcmMsIHRlbXBsYXRlc19zaW5rLCBwcm9qZWN0X2RpciwgcmVwb3MpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgxLCAnb3V0cHV0MScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvdXRwdXQyJywKICAgICAgICAgICAgICAgICdvdXRwdXQzJywKICAgICAgICAgICAgICAgICdvdXRwdXQ0JywKICAgICAgICAgICAgICAgICdvdXRwdXQ1JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0MScsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnIyMjJywgbW9kdWxlKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywKICAgICAgICAgICAgICAgICAgICAgICAnb3V0cHV0JywK</text>
+      <register name="9" type="4">
+        <text>call('git remote get-url origin', True, cwd='repo_dir')</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
