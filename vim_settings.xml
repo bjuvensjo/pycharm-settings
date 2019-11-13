@@ -165,10 +165,10 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573598326775">
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573648637169">
         <mark key="'" line="22" column="5" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="39" />
+        <mark key="[" line="73" column="50" />
+        <mark key="]" line="77" column="53" />
         <mark key="." line="52" column="73" />
         <mark key="^" line="52" column="72" />
       </file>
@@ -342,7 +342,11 @@
         <text>mvn</text>
       </register>
       <register name="0" type="4">
-        <text>propertiesLocation</text>
+        <text>feature/migration '
+                                                 'CSL '
+                                                 'master '
+                                                 'zes. '
+                                                 '-p')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICNtID0gPHByb3BlcnR5IG5hbWU9InByb3BlcnRpZXNMb2NhdGlvbiIgdmFsdWU9InNkZGUvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMiLz4K</text>
