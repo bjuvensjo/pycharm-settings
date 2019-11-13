@@ -10,11 +10,12 @@
         <mark key="." line="72" column="25" />
         <mark key="^" line="72" column="25" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573640554227">
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573652269856">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/config/env_secret" timestamp="1561991744363">
         <mark key="[" line="0" column="2" />
@@ -165,9 +166,9 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573649954299">
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573651694011">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="43" column="33" />
+        <mark key="[" line="87" column="23" />
         <mark key="]" line="43" column="52" />
         <mark key="." line="90" column="71" />
         <mark key="^" line="54" column="24" />
