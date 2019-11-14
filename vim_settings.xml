@@ -36,11 +36,12 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573747740407">
-        <mark key="[" line="133" column="127" />
-        <mark key="]" line="133" column="127" />
-        <mark key="." line="133" column="127" />
-        <mark key="^" line="133" column="6" />
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573751375557">
+        <mark key="'" line="138" column="177" />
+        <mark key="[" line="138" column="133" />
+        <mark key="]" line="138" column="131" />
+        <mark key="." line="138" column="131" />
+        <mark key="^" line="138" column="131" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561366813226">
         <mark key="[" line="29" column="0" />
@@ -184,9 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
-      <jump line="163" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
-      <jump line="159" column="11" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="155" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="153" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="151" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
@@ -284,6 +282,9 @@
       <jump line="90" column="71" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="54" column="22" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="42" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
+      <jump line="123" column="45" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="138" column="177" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -341,16 +342,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/git-csp-es/CSPES</text>
+        <text>zes.app.application.url.getexternalurls.v1_0</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/slask/crap/configuration.war.es/src/main/templates</text>
+        <text>zes.integration.gemi.securityapi.getticketdata.v1_0</text>
       </register>
       <register name="1" type="4">
-        <text>$USER_HOME$/git-csp-es/CSPES</text>
+        <text>zes.app.application.url.getexternalurls.v1_0</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,35 +401,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKHByb3BlcnR5X2ZpbGUpCg==</text>
+      <register name="2" type="4">
+        <text>zes.integration.gemi.securityapi.getticketdata.v1_0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlfZmlsZSA9IAo=</text>
+      <register name="3" type="4">
+        <text>integration.gemi.securityapi.getticketdata.v1_0</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG9fbmFtZSA9IHJlcG9fbmFtZS5yZXBsYWNlKCduYXRpdmVhcHBpbnN0YWxsYXRpb24nLCAnbmF0aXZlYXBwJykK</text>
+        <text encoding="base64">emVzLmludGVncmF0aW9uLmdlbWkuc2VjdXJpdHlhcGkuZ2V0dGlja2V0ZGF0YS52MV8wCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="5" type="4">
+        <text>ms.security.infra</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnemVzLicsCg==</text>
+        <text encoding="base64">emVzLmludGVncmF0aW9uLmdlbWkuc2VjdXJpdHlhcGkuZ2V0dGlja2V0ZGF0YS52MV8wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9uYXRpdmVhcHBpbnN0YWxsYXRpb24uZ2V0bmF0aXZlYXBwaW5zdGFsbGF0aW9uLnYxXzAuZ2l0JywK</text>
+        <text encoding="base64">bWFpbignL1VzZXJzL21hZ251cy9zbGFzay9jcmFwL2NvbmZpZ3VyYXRpb24ud2FyLmVzL3NyYy9tYWluL3RlbXBsYXRlcycsICcvVXNlcnMvbWFnbnVzL3NsYXNrL2NyYXAvdG1wJywgJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbCcsIFsnbXMuc2VjdXJpdHkuaW5mcmEnXSkK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndGZzX3Byb2plY3QnLAo=</text>
+      <register name="8" type="4">
+        <text>$USER_HOME$/git-csp-es/CSPES</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm5hdGl2ZWFwcC5nZXRuYXRpdmVhcHAudjFfMCcgPT0gZ2V0X3Rmc19vcmlnaW5fdXJsKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKHByb3BlcnR5X2ZpbGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -445,8 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Recur</entry>
-        <entry>merge</entry>
         <entry>)</entry>
         <entry>loggin</entry>
         <entry>print</entry>
@@ -464,6 +463,8 @@
         <entry>with</entry>
         <entry>mvn</entry>
         <entry>do_push</entry>
+        <entry>No templ</entry>
+        <entry>ms</entry>
         <entry>'</entry>
       </history-search>
       <history-cmd>
