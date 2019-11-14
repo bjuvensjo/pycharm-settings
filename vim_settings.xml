@@ -36,12 +36,11 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573751375557">
-        <mark key="'" line="138" column="177" />
-        <mark key="[" line="138" column="133" />
-        <mark key="]" line="138" column="131" />
-        <mark key="." line="138" column="131" />
-        <mark key="^" line="138" column="131" />
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573764867790">
+        <mark key="[" line="72" column="45" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="43" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561366813226">
         <mark key="[" line="29" column="0" />
@@ -192,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
-      <jump line="149" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
-      <jump line="139" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" />
       <jump line="57" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="62" column="10" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -288,10 +284,13 @@
       <jump line="54" column="22" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="42" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="123" column="45" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="138" column="177" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="49" column="12" filename="$USER_HOME$/git/scripts/vang/maven/slask2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/scripts/vang/maven/slask2.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="66" column="24" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -349,16 +348,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>output_dir</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>v</text>
       </register>
-      <register name="0" type="4">
-        <text>make_project</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdGb3VuZCAlcyB0aHJvdWdoIHByb3BlcnR5IGluICVzJywgcHJvcGVydHlfZmlsZSwgZmlsZV9wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIgTWF2ZW4gcG9tIHV0aWxpdGllcy4gIiIiCgpmcm9tIGdsb2IgaW1wb3J0IGdsb2IKZnJvbSBvcy5wYXRoIGltcG9ydCByZWFscGF0aCwgbm9ybXBhdGgKZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludApmcm9tIHhtbC5ldHJlZS5FbGVtZW50VHJlZSBpbXBvcnQgcGFyc2UKCmZyb20gdmFuZy5tYXZlbi5wcm9qZWN0IGltcG9ydCBtYWtlX3Byb2plY3QKCk5BTUVfU1BBQ0VTID0geyducyc6ICdodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAnfQoKCmRlZiBnZXRfcG9tX3BhdGhzKHJvb3QpOgogICAgIiIiIFJldHVybnMgdGhlIGFic29sdXRlIHBhdGggb2YgcG9tcyB0aGF0IHJlY3Vyc2l2ZWx5IGFyZSBmb3VuZCBpbiByb290IiIiCiAgICByZXR1cm4gW3JlYWxwYXRoKHApIGZvciBwIGluIGdsb2IoZiJ7cm9vdH0vKiovcG9tLnhtbCIsIHJlY3Vyc2l2ZT1UcnVlKV0KCgpkZWYgZ2V0X2RlcGVuZGVuY2llcyhwb21fcGF0aCk6CiAgICBkZXBlbmRlbmNpZXMgPSBzZXQoKQoKICAgIGUgPSBwYXJzZShub3JtcGF0aChwb21fcGF0aCkpCiAgICBmID0gcGFyc2Uobm9ybXBhdGgocG9tX3BhdGgpKQoKICAgIGZvciBkIGluIGUuZmluZGFsbCgnbnM6ZGVwZW5kZW5jaWVzL25zOmRlcGVuZGVuY3knLCBuYW1lc3BhY2VzPU5BTUVfU1BBQ0VTKToKICAgICAgICBhcnRpZmFjdF9pZCA9IGQuZmluZHRleHQoJ25zOmFydGlmYWN0SWQnLCBuYW1lc3BhY2VzPU5BTUVfU1BBQ0VTKSBvciBkLmZpbmR0ZXh0KCdhcnRpZmFjdElkJykKICAgICAgICBncm91cF9pZCA9IGQuZmluZHRleHQoJ25zOmdyb3VwSWQnLCBuYW1lc3BhY2VzPU5BTUVfU1BBQ0VTKSBvciBkLmZpbmR0ZXh0KCdncm91cElkJykKICAgICAgICB2ZXJzaW9uID0gZC5maW5kdGV4dCgnbnM6dmVyc2lvbicsIG5hbWVzcGFjZXM9TkFNRV9TUEFDRVMpIG9yIGQuZmluZHRleHQoJ3ZlcnNpb24nKQogICAgICAgIHNjb3BlID0gZC5maW5kdGV4dCgnbnM6c2NvcGUnLCBuYW1lc3BhY2VzPU5BTUVfU1BBQ0VTKSBvciBkLmZpbmR0ZXh0KCdzY29wZScpIG9yICdjb21waWxlJwoKICAgICAgICBkZXBlbmRlbmNpZXMuYWRkKGYne2dyb3VwX2lkfTp7YXJ0aWZhY3RfaWR9Ont2ZXJzaW9ufTp7c2NvcGV9JykKCiAgICByZXR1cm4gZGVwZW5kZW5jaWVzCgoKcG9tX3BhdGhzID0gWwogICAgJy9Vc2Vycy9tYWdudXMvZ2l0LWNzcC1lcy9DU1BFUy9idXNpbmVzcy5hcHBsaWNhdGlvbi5jdXN0b21lci5zZW5kZmVlZGJhY2sudjJfMC9wb20ueG1sJywKICAgICcvVXNlcnMvbWFnbnVzL2dpdC1jc3AtZXMvQ1NQRVMvYXBwLmFwcGxpY2F0aW9uLmN1c3RvbWVyLnNlbmRmZWVkYmFjay52Ml8wL3BvbS54bWwnCl0KCiMgZGQgPSBnZXRfbW9kdWxlX2RlcGVuZGVuY2llcygnL1VzZXJzL21hZ251cy9naXQtY3NwLWVzL0NTUEVTL3dzLWVzLW1pZ3JhdGlvbi9kZXBlbmRlbmN5X3RyZWUudHh0JywKIyAgICAgICAgICAgICAgICAgICAgICAgJ2J1c2luZXNzLmFwcGxpY2F0aW9uLmN1c3RvbWVyLmdldGxhdGVzdGFwcG9uYm9hcmRpbmcudjFfMCcpCgpwcCA9IGdldF9kZXBlbmRlbmNpZXMoCiAgICBwb21fcGF0aHNbMF0KKQoKcHByaW50KHBwKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMjJywgcHJvcGVydGllc19sb2NhdGlvbikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,44 +407,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>zes.app.application.url.getexternalurls.v1_0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMnLCB2KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>zes.integration.gemi.securityapi.getticketdata.v1_0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMnLCB2KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>integration.gemi.securityapi.getticketdata.v1_0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMjIycsIGxpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">emVzLmludGVncmF0aW9uLmdlbWkuc2VjdXJpdHlhcGkuZ2V0dGlja2V0ZGF0YS52MV8wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnIyMjJywgbGluZSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>ms.security.infra</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBwcm9wZXJ0eV9maWxlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">emVzLmludGVncmF0aW9uLmdlbWkuc2VjdXJpdHlhcGkuZ2V0dGlja2V0ZGF0YS52MV8wCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBsYWNlaG9sZGVyKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFpbignL1VzZXJzL21hZ251cy9zbGFzay9jcmFwL2NvbmZpZ3VyYXRpb24ud2FyLmVzL3NyYy9tYWluL3RlbXBsYXRlcycsICcvVXNlcnMvbWFnbnVzL3NsYXNrL2NyYXAvdG1wJywgJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbCcsIFsnbXMuc2VjdXJpdHkuaW5mcmEnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnMzMzJywgc3JjX3BhdGgpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>$USER_HOME$/git-csp-es/CSPES</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMjIyMjIyMnLCBwcm9wZXJ0eV9maWxlcykK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>v</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>v</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -453,9 +452,7 @@
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
         <entry>loggin</entry>
-        <entry>print</entry>
         <entry>parse</entry>
         <entry>push</entry>
         <entry>verif</entry>
@@ -473,6 +470,8 @@
         <entry>No templ</entry>
         <entry>ms</entry>
         <entry>'</entry>
+        <entry>print</entry>
+        <entry>v</entry>
       </history-search>
       <history-cmd>
         <entry>%s/log/logging/gc</entry>
