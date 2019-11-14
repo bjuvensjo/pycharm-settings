@@ -36,11 +36,12 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573765850863">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573767704282">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="140" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561366813226">
         <mark key="[" line="29" column="0" />
@@ -81,7 +82,13 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1573634921656">
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" timestamp="1573767691647">
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1573767747407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/.gitattributes" timestamp="1561473109543">
@@ -191,11 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="10" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="77" column="33" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="41" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="79" column="31" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="81" column="11" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
       <jump line="82" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
@@ -291,6 +293,11 @@
       <jump line="36" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="66" column="24" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="104" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
+      <jump line="12" column="30" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="13" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="14" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="15" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -348,16 +355,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>v</text>
+        <text>SNAP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I21haW4oJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC96ZXMubWlncmF0aW9uLXNjcmlwdHMvc3JjL3Byb3BlcnRpZXMvdGVzdHMvcHJvamVjdC9jb25maWcvc3JjL21haW4vdGVtcGxhdGVzJywgJy9Vc2Vycy9tYWdudXMvc2xhc2svenp6L3RtcCcsICcvVXNlcnMvbWFnbnVzL3NsYXNrL3p6eicsIFsnbXMnXSkK</text>
+      <register name="0" type="4">
+        <text>:jar:1.0.0-SNAPSHOT'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I21haW4oJy9Vc2Vycy9tYWdudXMvZ2l0LWNzbC96ZXMubWlncmF0aW9uLXNjcmlwdHMvc3JjL3Byb3BlcnRpZXMvdGVzdHMvcHJvamVjdC9jb25maWcvc3JjL21haW4vdGVtcGxhdGVzJywgJy9Vc2Vycy9tYWdudXMvc2xhc2svenp6L3RtcCcsICcvVXNlcnMvbWFnbnVzL3NsYXNrL3p6eicsIFsnbXMnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmkyOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,43 +415,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I21haW4oJy9Vc2Vycy9tYWdudXMvc2xhc2svY3JhcC9jb25maWd1cmF0aW9uLndhci5lcy9zcmMvbWFpbi90ZW1wbGF0ZXMnLCAnL1VzZXJzL21hZ251cy9zbGFzay9jcmFwL3RtcCcsICcvVXNlcnMvbWFnbnVzL2dpdC1jc2wnLCBbJ3plcy5hcHAuYXBwbGljYXRpb24uc3lzdGVtLnB1Ymxpc2hjbGllbnRjb250ZW50LnYxXzAnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmkxOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I21haW4oJy9Vc2Vycy9tYWdudXMvc2xhc2svY3JhcC9jb25maWd1cmF0aW9uLndhci5lcy9zcmMvbWFpbi90ZW1wbGF0ZXMnLCAnL1VzZXJzL21hZ251cy9zbGFzay9jcmFwL3RtcCcsICcvVXNlcnMvbWFnbnVzL2dpdC1jc2wnLCBbJ21zLnNlY3VyaXR5LmluZnJhJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmIyOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocHJvamVjdF9kaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmIxOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMjJywgcHJvcGVydGllc19sb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgXSwgWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMnLCB2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmEyOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMnLCB2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzZS5sZi5zZXJ2aWNlOmExOmphcjoxLjAuMC1TTkFQU0hPVDpjb21waWxlJywK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJyMjIycsIGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgWwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnIyMjJywgbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXJlY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>v</last-search>
+      <last-search>SNAP</last-search>
       <last-offset />
-      <last-pattern>v</last-pattern>
+      <last-pattern>SNAP</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loggin</entry>
         <entry>parse</entry>
         <entry>push</entry>
         <entry>verif</entry>
@@ -469,9 +475,10 @@
         <entry>do_push</entry>
         <entry>No templ</entry>
         <entry>ms</entry>
-        <entry>'</entry>
         <entry>print</entry>
         <entry>v</entry>
+        <entry>'</entry>
+        <entry>SNAP</entry>
       </history-search>
       <history-cmd>
         <entry>%s/log/logging/gc</entry>
