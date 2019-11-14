@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" timestamp="1573735073901">
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/tests/test_clone_es_to_tfs.py" timestamp="1573745427851">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="34" column="103" />
-        <mark key="]" line="34" column="103" />
-        <mark key="." line="34" column="103" />
-        <mark key="^" line="34" column="105" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/properties/copy_templates.py" timestamp="1573683747964">
         <mark key="'" line="82" column="0" />
@@ -166,12 +165,11 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573735125449">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="27" column="61" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="15" />
+      <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" timestamp="1573745437347">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/maven/merge_modules.py" timestamp="1573480793941">
         <mark key="'" line="138" column="0" />
@@ -345,8 +343,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm1pZ3JhdGlvbi1zY3JpcHRzJyA9PSBnZXRfdGZzX29yaWdpbl91cmwoCiAgICAgICAgJ3Rmc19wcm9qZWN0JywKICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9taWdyYXRpb24tc2NyaXB0cy5naXQnLAogICAgICAgICd6ZXMuJywKICAgICkK</text>
       </register>
-      <register name="1" type="4">
-        <text>http://cuso.edb.se/stash/scm/cspes/migration-scripts.git</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlcG9fbmFtZSA9IHJlcG9fbmFtZS5yZXBsYWNlKCduYXRpdmVhcHBpbnN0YWxsYXRpb24nLCAnbmF0aXZlYXBwJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,34 +395,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNtID0gPHByb3BlcnR5IG5hbWU9InByb3BlcnRpZXNMb2NhdGlvbiIgdmFsdWU9InNkZGUvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMiLz4K</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKAo=</text>
+        <text encoding="base64">ICAgICAgICAnemVzLicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0gPSAK</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9uYXRpdmVhcHBpbnN0YWxsYXRpb24uZ2V0bmF0aXZlYXBwaW5zdGFsbGF0aW9uLnYxXzAuZ2l0JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcjIyMjJywgZ2xvYl9wYXR0ZXJuKQo=</text>
+        <text encoding="base64">ICAgICAgICAndGZzX3Byb2plY3QnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIyMnLCByKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm5hdGl2ZWFwcC5nZXRuYXRpdmVhcHAudjFfMCcgPT0gZ2V0X3Rmc19vcmlnaW5fdXJsKAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlbXBsYXRlc19zcmMsIHRlbXBsYXRlc19zaW5rLCBwcm9qZWN0X2RpciwgcmVwb3MpCg==</text>
+      <register name="7" type="4">
+        <text>http://cuso.edb.se/stash/scm/cspes/migration-scripts.git</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcjIyMnLCBkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNtID0gPHByb3BlcnR5IG5hbWU9InByb3BlcnRpZXNMb2NhdGlvbiIgdmFsdWU9InNkZGUvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMiLz4K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyMjIycsIGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
