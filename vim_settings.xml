@@ -36,6 +36,12 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1573747740407">
+        <mark key="[" line="133" column="127" />
+        <mark key="]" line="133" column="127" />
+        <mark key="." line="133" column="127" />
+        <mark key="^" line="133" column="6" />
+      </file>
       <file name="$USER_HOME$/git-csl/continuous.deployment/src/condep/os.py" timestamp="1561366813226">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="49" />
@@ -335,16 +341,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>$USER_HOME$/git-csp-es/CSPES</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm1pZ3JhdGlvbi1zY3JpcHRzJyA9PSBnZXRfdGZzX29yaWdpbl91cmwoCiAgICAgICAgJ3Rmc19wcm9qZWN0JywKICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9taWdyYXRpb24tc2NyaXB0cy5naXQnLAogICAgICAgICd6ZXMuJywKICAgICkK</text>
+      <register name="0" type="4">
+        <text>$USER_HOME$/slask/crap/configuration.war.es/src/main/templates</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9fbmFtZSA9IHJlcG9fbmFtZS5yZXBsYWNlKCduYXRpdmVhcHBpbnN0YWxsYXRpb24nLCAnbmF0aXZlYXBwJykK</text>
+      <register name="1" type="4">
+        <text>$USER_HOME$/git-csp-es/CSPES</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,34 +401,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKHByb3BlcnR5X2ZpbGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnemVzLicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlfZmlsZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9uYXRpdmVhcHBpbnN0YWxsYXRpb24uZ2V0bmF0aXZlYXBwaW5zdGFsbGF0aW9uLnYxXzAuZ2l0JywK</text>
+        <text encoding="base64">ICAgIHJlcG9fbmFtZSA9IHJlcG9fbmFtZS5yZXBsYWNlKCduYXRpdmVhcHBpbnN0YWxsYXRpb24nLCAnbmF0aXZlYXBwJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndGZzX3Byb2plY3QnLAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm5hdGl2ZWFwcC5nZXRuYXRpdmVhcHAudjFfMCcgPT0gZ2V0X3Rmc19vcmlnaW5fdXJsKAo=</text>
+        <text encoding="base64">ICAgICAgICAnemVzLicsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>http://cuso.edb.se/stash/scm/cspes/migration-scripts.git</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9jc3Blcy9uYXRpdmVhcHBpbnN0YWxsYXRpb24uZ2V0bmF0aXZlYXBwaW5zdGFsbGF0aW9uLnYxXzAuZ2l0JywK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNtID0gPHByb3BlcnR5IG5hbWU9InByb3BlcnRpZXNMb2NhdGlvbiIgdmFsdWU9InNkZGUvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMiLz4K</text>
+        <text encoding="base64">ICAgICAgICAndGZzX3Byb2plY3QnLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm91bmRfdGVtcGxhdGVzX2luX2ZpbGUuYWRkKAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCAnaHR0cHM6Ly90ZnMubGZuZXQuc2UvdGZzL0RlZmF1bHRDb2xsZWN0aW9uL3Rmc19wcm9qZWN0L19naXQvemVzLm5hdGl2ZWFwcC5nZXRuYXRpdmVhcHAudjFfMCcgPT0gZ2V0X3Rmc19vcmlnaW5fdXJsKAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
