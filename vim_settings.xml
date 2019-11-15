@@ -82,11 +82,12 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" timestamp="1573770618109">
-        <mark key="'" line="66" column="32" />
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
+      <file name="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" timestamp="1573771938494">
+        <mark key="'" line="44" column="32" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="o" line="28" column="27" />
       </file>
       <file name="/Python Console" timestamp="1573767891152">
         <mark key="[" line="0" column="0" />
@@ -198,24 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
-      <jump line="46" column="50" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
-      <jump line="83" column="8" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
-      <jump line="63" column="21" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/misc/slask.py" />
-      <jump line="82" column="40" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/move_es_to_tfs.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="52" column="29" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="8" column="41" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="85" column="30" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="76" column="23" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="65" column="36" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="64" column="14" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
-      <jump line="61" column="20" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="59" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="58" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="57" column="16" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
@@ -280,12 +263,9 @@
       <jump line="36" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="66" column="24" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="104" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
-      <jump line="12" column="30" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
       <jump line="13" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
-      <jump line="14" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
       <jump line="15" column="74" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
       <jump line="19" column="23" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
       <jump line="15" column="37" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="79" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
@@ -298,6 +278,27 @@
       <jump line="7" column="20" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="29" column="8" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/copy_templates.py" />
       <jump line="35" column="32" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="39" column="17" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="57" column="20" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="1" column="26" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="6" column="1" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="22" column="1" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="23" column="1" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="37" column="1" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="38" column="1" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="7" column="38" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="12" column="25" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="11" column="32" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="14" column="100" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="27" column="18" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="28" column="32" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="42" column="14" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
+      <jump line="44" column="32" filename="$USER_HOME$/git-csl/zes.migration-scripts/src/properties/tests/test_copy_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -355,16 +356,16 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'ms'</text>
       </register>
       <register name="/" type="4">
-        <text>copyfile</text>
+        <text encoding="base64">XDxtc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHBhdGNoKCdwcm9wZXJ0aWVzLmNvcHlfdGVtcGxhdGVzLmNvcHlmaWxlJykKQHBhdGNoKCdwcm9wZXJ0aWVzLmNvcHlfdGVtcGxhdGVzLm1ha2VkaXJzJykKZGVmIHRlc3RfbWFpbl9wcm9wZXJ0eShtb2NrX21ha2VkaXJzLCBtb2NrX2NvcHlmaWxlKToKICAgIHdpdGggcGF0Y2goJ3Byb3BlcnRpZXMuY29weV90ZW1wbGF0ZXMuZ2V0X21vZHVsZXNfZGVwZW5kZW5jaWVzJykgYXMgbToKICAgICAgICBtLnJldHVybl92YWx1ZSA9IFsoJ2kxJywgW10sIFtdKV0KICAgICAgICBwcm9qZWN0X2RpciA9IGYieycvJy5qb2luKF9fZmlsZV9fLnNwbGl0KCcvJylbOi0xXSl9L3Byb2plY3QiCiAgICAgICAgdGVtcGxhdGVfc2luayA9IGYne3Byb2plY3RfZGlyfS9zbGFzaycKICAgICAgICBjb3BpZWQgPSBtYWluKGYne3Byb2plY3RfZGlyfS9jb25maWcvc3JjL21haW4vdGVtcGxhdGVzJywgdGVtcGxhdGVfc2luaywgcHJvamVjdF9kaXIsIFsnaTEnXSkKICAgICAgICBhc3NlcnQgMiA9PSBsZW4oY29waWVkKQogICAgICAgIHRtcCA9IHNvcnRlZChbdFtsZW4odGVtcGxhdGVfc2luayk6XSBmb3IgZiwgdCBpbiBjb3BpZWRdKQogICAgICAgIGFzc2VydCBbJy9zZS9sZi9zZXJ2aWNlL0NvbmZpZy1lbnYucHJvcGVydGllcycsCiAgICAgICAgICAgICAgICAnL3NlL2xmL3NlcnZpY2UvaTEvQ29uZmlnLWVudi5wcm9wZXJ0aWVzJ10gPT0gdG1wCiAgICAgICAgYXNzZXJ0IDIgPT0gbW9ja19tYWtlZGlycy5jYWxsX2NvdW50CiAgICAgICAgYXNzZXJ0IDIgPT0gbW9ja19jb3B5ZmlsZS5jYWxsX2NvdW50CgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHBhdGNoKCdwcm9wZXJ0aWVzLmNvcHlfdGVtcGxhdGVzLmNvcHlmaWxlJykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgW10gPT0gY29waWVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,44 +415,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">QHBhdGNoKCdwcm9wZXJ0aWVzLmNvcHlfdGVtcGxhdGVzLmNvcHlmaWxlJykK</text>
+      </register>
+      <register name="3" type="4">
         <text />
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9tcy9Db25maWctZW52LnByb3BlcnRpZXMnXSA9PSB0bXAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9pMi9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9pMS9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9iMi9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9iMS9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9iMi9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9hMi9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9iMS9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9hMS9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcvc2UvbGYvc2VydmljZS9hMi9Db25maWctZW52LnByb3BlcnRpZXMnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>copyfile</last-search>
+      <last-search encoding="base64">XDxtc1w+</last-search>
       <last-offset />
-      <last-pattern>copyfile</last-pattern>
+      <last-pattern encoding="base64">XDxtc1w+</last-pattern>
       <last-replace>health</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -459,13 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>verif</entry>
-        <entry encoding="base64">XDxnZXRfdGZzX29yaWdpbl91cmxcPg==</entry>
-        <entry>tfs_or</entry>
-        <entry>(</entry>
-        <entry>mock</entry>
-        <entry>checkout_branch</entry>
-        <entry encoding="base64">XDx0ZXN0X2dldF9oZWFkX2NvbW1pdF9pZFw+</entry>
         <entry>call</entry>
         <entry>dele</entry>
         <entry>with</entry>
@@ -479,6 +473,13 @@
         <entry>print</entry>
         <entry>makedirs</entry>
         <entry>copyfile</entry>
+        <entry>cop</entry>
+        <entry encoding="base64">XDxwYXRjaFw+</entry>
+        <entry>dumm</entry>
+        <entry>slask</entry>
+        <entry>i1</entry>
+        <entry encoding="base64">XDxpMlw+</entry>
+        <entry encoding="base64">XDxtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/log/logging/gc</entry>
