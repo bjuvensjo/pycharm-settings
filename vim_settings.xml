@@ -135,10 +135,10 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573923885886">
+      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573930256577">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="91" column="102" />
         <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
@@ -368,7 +368,7 @@
         <text>art</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PC9hcnRpZmFjdElkPic=</text>
+        <text encoding="base64">PC9hcnRpZmFjdElkPi4qIiw=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIjxhcnRpZmFjdElkPnJlc291cmNlbG9jay51cGRhdGVyZXNvdXJjZWxvY2stYXBpLnYxXzA8L2FydGlmYWN0SWQ+IiwK</text>
