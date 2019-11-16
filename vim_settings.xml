@@ -135,12 +135,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573829402790">
-        <mark key="'" line="171" column="5" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573918245447">
+        <mark key="'" line="169" column="0" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="169" column="25" />
+        <mark key="^" line="169" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
         <mark key="[" line="18" column="16" />
@@ -305,7 +305,7 @@
       <jump line="165" column="0" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
       <jump line="56" column="74" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
       <jump line="106" column="100" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
-      <jump line="168" column="5" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -363,13 +363,13 @@
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>ms.customer.feedback</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBtID0gJ21zLmN1c3RvbWVyLmRvY3VtZW50JwojIG0gPSAnbXMuY3VzdG9tZXIuZmVlZGJhY2snCiMgbSA9ICdtcy5jdXN0b21lci5uYXRpdmVhcHAnCiMgbSA9ICdtcy5jdXN0b21lci5vbmJvYXJkaW5nJwojIG0gPSAnbXMuc2VjdXJpdHkuaW5mcmEnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bSA9ICdtcy5jdXN0b21lci5uYXRpdmVhcHAnCg==</text>
