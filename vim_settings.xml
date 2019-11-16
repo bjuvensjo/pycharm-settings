@@ -135,12 +135,12 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573918245447">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="169" column="25" />
-        <mark key="^" line="169" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" timestamp="1573921706471">
+        <mark key="'" line="20" column="49" />
+        <mark key="[" line="126" column="13" />
+        <mark key="]" line="126" column="27" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="126" column="27" />
       </file>
       <file name="$USER_HOME$/git/wildcat2/image-files/var/start/start.sh" timestamp="1561992446117">
         <mark key="[" line="18" column="16" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="50" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="50" column="39" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="49" column="37" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
       <jump line="47" column="37" filename="$USER_HOME$/git-csp-es/CSPES/migration-scripts/src/git/clone_es_to_tfs.py" />
@@ -306,6 +305,7 @@
       <jump line="56" column="74" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
       <jump line="106" column="100" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
       <jump line="168" column="0" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
+      <jump line="20" column="49" filename="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/maven/merge_modules.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
