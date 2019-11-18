@@ -98,10 +98,10 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1574094093086">
+      <file name="$USER_HOME$/git-csp/CSL/zes.migration-scripts/src/properties/copy_templates.py" timestamp="1574095420658">
         <mark key="'" line="63" column="46" />
-        <mark key="[" line="101" column="35" />
-        <mark key="]" line="101" column="42" />
+        <mark key="[" line="131" column="98" />
+        <mark key="]" line="131" column="116" />
         <mark key="." line="101" column="42" />
         <mark key="^" line="101" column="42" />
       </file>
@@ -375,7 +375,7 @@
         <text>found</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zid7cHJvamVjdF9kaXJ9L3tyfScg</text>
+        <text>src/main/templates'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCcjIyMjJykK</text>
