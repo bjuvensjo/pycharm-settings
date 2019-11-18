@@ -459,7 +459,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnIyMjIycsIGZpbGVfcGF0aCkK</text>
       </register>
       <register name=":" type="4">
-        <text>di</text>
+        <text>source ~/.ideavim.rc</text>
       </register>
     </registers>
     <search>
@@ -495,7 +495,6 @@
         <entry>found</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/log\./logging\./gc</entry>
         <entry>re</entry>
         <entry>%s/print.*\r//gc</entry>
         <entry>%s/print.*//gc</entry>
@@ -515,6 +514,7 @@
         <entry encoding="base64">JzwsJz5tNjQ=</entry>
         <entry>nohlsearch</entry>
         <entry>di</entry>
+        <entry>source ~/.ideavim.rc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
