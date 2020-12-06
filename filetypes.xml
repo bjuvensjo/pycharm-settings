@@ -15,6 +15,7 @@
       <mapping ext="restclient" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="input" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
