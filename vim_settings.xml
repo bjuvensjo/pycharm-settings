@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>asset</entry>
         <entry>file</entry>
         <entry>call</entry>
         <entry>]</entry>
@@ -27,6 +26,7 @@
         <entry>11</entry>
         <entry encoding="base64">XDxncmlkXD4=</entry>
         <entry>'</entry>
+        <entry>top</entry>
       </history-search>
       <history-cmd>
         <entry>%s/output_dir/input_dir/g</entry>
@@ -121,16 +121,52 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="/Dummy.txt" timestamp="1609150990971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/aoc2020/src/u13.py" timestamp="1607887175865">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="27" />
+      </file>
       <file name="$USER_HOME$/git/aoc2020/src/u12.py" timestamp="1607859309401">
         <mark key="'" line="25" column="21" />
         <mark key="[" line="35" column="44" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1607887616084">
-        <mark key="[" line="0" column="3" />
+      <file name="$USER_HOME$/git/aoc2020/src/u13.input" timestamp="1607981892015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1609150883282">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/aoc2020/src/u13_1.py" timestamp="1607887805593">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/aoc2020/src/u10.py" timestamp="1607732386518">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/kafka-python-test-client/src/producer.py" timestamp="1609151362429">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/aoc2020/src/u11.py" timestamp="1607820346480">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/git/aoc2020/src/u9.py" timestamp="1607510825704">
         <mark key="'" line="13" column="16" />
@@ -138,33 +174,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u6.py" timestamp="1607291300869">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u13_2.py" timestamp="1607980261934">
-        <mark key="a" line="29" column="21" />
-        <mark key="[" line="18" column="67" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u12_2.py" timestamp="1607864498970">
-        <mark key="[" line="45" column="49" />
-        <mark key="^" line="38" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/slask2.py" timestamp="1607981686221">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="48" column="14" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u13.py" timestamp="1607887175865">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="27" />
+      <file name="$USER_HOME$/git-meddelandehub/kafka-python-test-client/src/consumer.py" timestamp="1609151212551">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/git/aoc2020/src/u8.py" timestamp="1607505732418">
         <mark key="'" line="14" column="0" />
@@ -172,6 +185,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/aoc2020/src/u13_2.py" timestamp="1607980261934">
+        <mark key="a" line="29" column="21" />
+        <mark key="[" line="18" column="67" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/git/aoc2020/src/u7.py" timestamp="1607412736789">
         <mark key="'" line="34" column="0" />
@@ -184,51 +203,30 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/kafka-python-test-client/src/topic_notification_log_bank_log.py" timestamp="1609150548704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/git/aoc2020/src/u12_1.py" timestamp="1607883961630">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/git/scripts/vang/pio/download.py" timestamp="1605957308994">
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/git/aoc2020/src/u12_2.py" timestamp="1607864498970">
+        <mark key="[" line="45" column="49" />
+        <mark key="^" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u13.input" timestamp="1607981892015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u10.py" timestamp="1607732386518">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="24" column="9" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1607421663427">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u13_1.py" timestamp="1607887805593">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u11.py" timestamp="1607820346480">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="63" column="47" />
-      </file>
-      <file name="$USER_HOME$/git/aoc2020/src/u1/u1.py" timestamp="1607272991067">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="212" column="26" />
-        <mark key="]" line="212" column="31" />
-        <mark key="." line="212" column="31" />
-        <mark key="^" line="212" column="31" />
+      <file name="$USER_HOME$/git/aoc2020/src/slask2.py" timestamp="1607981686221">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="^" line="48" column="14" />
+        <mark key="." line="171" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="28" filename="$USER_HOME$/git/scripts/vang/maven/remote_from_local.py" />
-      <jump line="101" column="28" filename="$USER_HOME$/git/scripts/vang/maven/remote_from_local.py" />
       <jump line="193" column="15" filename="$USER_HOME$/git/scripts/vang/artifactory/mirror.py" />
       <jump line="21" column="17" filename="$USER_HOME$/git/scripts/vang/artifactory/mirror_config2.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git/scripts/vang/artifactory/mirror_config.py" />
@@ -327,6 +325,8 @@
       <jump line="24" column="19" filename="$USER_HOME$/git/aoc2020/src/slask2.py" />
       <jump line="4" column="9" filename="$USER_HOME$/git/aoc2020/src/slask2.py" />
       <jump line="124" column="0" filename="$USER_HOME$/git/aoc2020/src/slask2.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/git-meddelandehub/kafka-python-test-client/src/topic_notification_log_bank_log.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-meddelandehub/kafka-python-test-client/src/topic_notification_log_bank_log.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -382,23 +382,23 @@
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
-      <register name="*" type="2">
-        <text>print(al)</text>
+      <register name="*" type="4">
+        <text>mytopic</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>mytopic</text>
       </register>
       <register name="n" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>top</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoJyMnICogODApCgpnID0gMTI0ODgyMTM0MzI4OQpyID0gNDEKYSA9IDU4CnByaW50KGFycm93X2FsaWdubWVudChyZWRfbGVuPXIsIGdyZWVuX2xlbj1nLCBhZHZhbnRhZ2U9YSkgLSBhKQpwcmludChsY20oZywgcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>print(al)</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -412,34 +412,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoNTQ0ICsgZykK</text>
+        <text encoding="base64">cC5zZW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZyA9IDUxMjAxNjc1MDc0ODQ5Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25mbHVlbnRfa2Fma2EgaW1wb3J0IFByb2R1Y2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZyA9IDEyNDg4MjEzNDMyODkK</text>
+        <text>print(al)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZyA9IDMxMTQyNjc2ODkK</text>
+        <text encoding="base64">cHJpbnQoNTQ0ICsgZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZyA9IDEwNzM4ODU0MQo=</text>
+        <text encoding="base64">ZyA9IDUxMjAxNjc1MDc0ODQ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZyA9IDQ2NjkwNjcK</text>
+        <text encoding="base64">ZyA9IDEyNDg4MjEzNDMyODkK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICgnbXMuc2VjdXJpdHkuc2lnbmluZy0xLjAuMC1TTkFQU0hPVC5qYXInLCAnMScsICctMScsIE5vbmUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZyA9IDM1OTE1OQo=</text>
+        <text encoding="base64">ZyA9IDMxMTQyNjc2ODkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZyA9IDYyOQo=</text>
+        <text encoding="base64">ZyA9IDEwNzM4ODU0MQo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
@@ -448,9 +448,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>'</last-search>
+      <last-search>top</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>top</last-pattern>
       <last-replace>component</last-replace>
       <last-substitute>asset</last-substitute>
       <last-dir>1</last-dir>
