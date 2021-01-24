@@ -32,6 +32,9 @@
   <action id="Tool_External Tools_Terminal">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
