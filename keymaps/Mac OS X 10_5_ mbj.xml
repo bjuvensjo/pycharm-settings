@@ -39,4 +39,8 @@
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="ctrl #10000f6" />
+  </action>
 </keymap>
