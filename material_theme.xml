@@ -2,8 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="premium" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -17,6 +15,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="-5bdc62e8:166eed134be:-8000" />
-    <option name="version" value="6.8.2" />
+    <option name="version" value="6.12.2" />
   </component>
 </application>
