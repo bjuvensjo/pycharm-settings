@@ -15,6 +15,7 @@
       <mapping ext="restclient" type="PLAIN_TEXT" />
       <mapping ext="story" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="sdl" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
