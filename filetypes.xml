@@ -17,6 +17,8 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="sdl" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
